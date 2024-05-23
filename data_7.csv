@@ -1,0 +1,1001 @@
+Bedrooms,Bathrooms,SquareFootageHouse,Location,Age,PoolQuality,HasPhotovoltaics,HeatingType,HasFiberglass,IsFurnished,DateSinceForSale,HouseColor,PreviousOwnerName,HasFireplace,KitchensQuality,BathroomsQuality,BedroomsQuality,LivingRoomsQuality,SquareFootageGarden,PreviousOwnerRating,HeatingCosts,WindowModelNames,Price
+1.0,1.0,46.0,Suburbann,68.0,,,Gas,False,True,2024-02-04,Yellow,Stefan,False,Good,Good,Excellent,Good,13.0,1.65,,J9DM Wood PDMC1 Window,96.41513
+1.0,1.0,88.0,Suburbann,20.0,None,True,Electric,False,True,2024-01-31,Green,Roman,False,Good,Good,Good,Excellent,6.0,3.06,,Aluminum 9XWSANM Window,78.5687
+,1.0,122.0,Urban,40.0,None,,Gas,False,True,2023-08-30,Green,Natalie,False,Good,Good,Poor,Good,6.0,3.12,,Aluminum OT6ZBRV Window,184.70391
+,2.0,112.0,Rural,69.0,None,False,Electricity,True,True,2023-03-18,Yellow,Denis,False,Excellent,Excellent,Excellent,Good,6.0,4.27,67.2,ZUOV7S4 Aluminum I49HRNC Window,246.09376
+1.0,,42.0,,16.0,Excellent,False,Oil Heating,False,False,2023-07-26,Gray,Roman,False,Good,Excellent,Excellent,Poor,30.0,1.41,,MD1VKS Steel Y9DOV Window,241.27139
+2.0,1.0,92.0,Urban,42.0,None,False,Gas,False,False,2021-07-17,Yellow,Maria,False,Poor,Poor,Poor,Poor,6.0,4.57,,F4JDH Wood KGJ Window,140.79436
+,1.0,110.0,Rural,63.0,None,True,Oil Heating,False,True,2022-07-04,Yellow,Maria,False,Good,Excellent,Poor,Poor,6.0,1.35,174.4,FCP Aluminum 6IHNZ0D,259.71566
+5.0,5.0,130.0,Rural,15.0,,False,Electric,False,False,2024-01-07,Green,Florian,False,Poor,Good,Excellent,Excellent,30.0,2.47,78.0,GXLX Steel O1KH,452.49783
+,,62.0,Suburbann,43.0,None,False,Electric,True,True,2022-02-11,Green,Laura,False,Good,Good,Poor,Good,6.0,2.02,37.2,VFA09 Aluminum OIKR1 Window,60.23668
+,1.0,88.0,Urban,52.0,None,False,Gas,True,True,2023-06-21,Gray,Denis,False,Excellent,Good,Good,Good,6.0,2.95,88.0,GSKZAX Wood JKN Window,206.43183
+1.0,1.0,147.0,Rural,66.0,Good,False,Electricity,False,True,2020-12-20,Gray,Maria,False,Good,Good,Poor,Excellent,18.0,1.42,,PKGQ Steel YQT9,404.10064
+,,20.0,,25.0,,False,Gas,False,True,2023-08-26,Green,Denis,False,Good,Excellent,Poor,Good,6.0,2.43,,OX4 Aluminum GOLKP Window,38.2602
+,,95.0,,,None,False,Electricity,False,True,2020-01-26,Yellow,Stefan,False,Good,Good,Poor,Good,6.0,4.36,57.0,Wood BHHQDK,215.01675
+,1.0,74.0,,55.0,None,True,Electric,True,False,2021-03-29,Yellow,Theresa,False,Good,Poor,Good,Excellent,6.0,4.28,,N3HP Steel TU0NMX Window,3456.1926
+1.0,1.0,5871.0,,,Good,True,Gas,False,True,2023-09-03,White,Johanna,False,Excellent,Poor,Poor,Good,18.0,2.31,,RH0O0UX Aluminum P92,51.50734
+1.0,1.0,38.0,Rural,,Poor,False,Gas,True,False,2021-03-30,Gray,Natalie,False,Excellent,Good,Excellent,Poor,13.0,2.9,39.0,Wood GUXL,177.82663
+,1.0,65.0,Rural,57.0,,True,Gas,False,True,2023-12-24,Yellow,,False,Good,Good,Excellent,Good,6.0,4.26,64.0,7RV678H Aluminum Q6BQA Window,158.26072
+2.0,,89.0,Suburban,59.0,Poor,False,Oil,True,True,2022-11-15,Yellow,,False,Excellent,Good,Excellent,Good,13.0,3.15,142.4,Aluminum 6AN4Z Window,125.94835
+1.0,,78.0,Suburbann,15.0,Excellent,False,Gas,False,True,2023-05-14,Gray,Florian,False,Good,Good,Good,Good,30.0,2.73,76.0,5YS Aluminum B1OBEF,120.0042
+3.0,2.0,133.0,Rural,24.0,None,False,Oil Heating,True,False,2023-07-23,Green,Theresa,False,Excellent,Poor,Excellent,Poor,6.0,3.25,,Steel 26Y9XTP,437.785
+1.0,,53.0,Suburban,29.0,Poor,False,Gas,True,True,2023-08-13,Gray,Laura,False,Poor,Poor,Good,Excellent,13.0,3.06,,XOM Steel VYWSU7 Window,140.10877
+,2.0,77.0,Suburban,43.0,None,True,Electricity,True,True,2021-07-01,White,Martin,False,Good,Good,Poor,Good,6.0,2.73,45.6,Aluminum BOL Window,66.69446
+,1.0,58.0,Rural,70.0,Poor,False,Gas,False,True,2023-02-06,Yellow,Daniel,False,Good,Good,Good,Good,13.0,2.54,,Wood EEI,231.8549
+1.0,1.0,25.0,Rural,12.0,None,True,Electricity,True,True,2022-03-25,Yellow,Johanna,False,Good,Poor,Poor,Poor,6.0,2.81,,Aluminum JMGB5 Window,80.99881
+1.0,2.0,107.0,Suburbann,42.0,None,False,Oil Heating,False,False,2020-02-01,Gray,Natalie,False,Good,Poor,Good,Excellent,6.0,2.39,,Aluminum IIRQOEL Window,93.19452
+,2.0,92.0,Urban,24.0,None,,Oil,True,False,2023-08-17,White,Denis,False,Excellent,Good,Poor,Excellent,6.0,1.54,147.2,LG4 Aluminum D90 Window,170.18799
+,,104.0,,19.0,Good,False,Oil Heating,False,False,2023-02-16,Gray,Natalie,False,Excellent,Good,Poor,Good,18.0,1.29,164.8,Steel AHY60B7 Window,178.2931
+1.0,,22.0,Urban,,None,True,Electricity,False,True,2021-04-10,Yellow,Daniel,False,Good,Excellent,Good,Excellent,6.0,2.95,,Wood 806E9 Window,102.57766
+3.0,2.0,139.0,Urban,51.0,None,True,Oil,True,True,2022-04-12,Green,Daniel,False,Good,Good,Good,Good,6.0,2.71,220.8,Aluminum 5NC,261.3923
+2.0,,113.0,Rural,,,False,Oil Heating,True,False,2020-02-06,White,Sabrina,False,Poor,Good,Excellent,Good,18.0,3.52,180.8,PAVIVD Wood QUV,322.41243
+,1.0,114.0,Suburbann,,None,True,Electric,False,True,2024-02-11,Green,Maria,False,Good,Poor,Good,Good,6.0,1.75,67.2,J9LDN Steel NDXV Window,140.81174
+,,90.0,Urban,32.0,,True,Gas,True,False,2020-05-30,Gray,Denis,False,Good,Excellent,Poor,Poor,6.0,2.46,91.0,Wood DSVEVD,164.74893
+1.0,1.0,43.0,,14.0,,True,Oil Heating,True,False,2020-05-15,Gray,,False,Good,Good,Good,Excellent,6.0,2.51,,8WE0K Aluminum JTDZB1E Window,97.84387
+1.0,,30.0,,,None,False,Gas,False,True,2021-02-18,White,Stefan,False,Good,Good,Excellent,Good,6.0,1.96,30.0,Aluminum I34Y Window,81.19021
+1.0,1.0,54.0,Rural,41.0,None,True,Oil Heating,False,True,2021-03-25,Yellow,Theresa,False,Good,Good,Excellent,Good,6.0,4.14,,Steel O8VNDA Window,305.9297
+,2.0,82.0,Suburbann,27.0,Poor,False,Oil Heating,True,False,2021-04-24,Gray,Denis,False,Poor,Poor,Poor,Good,13.0,1.02,,Aluminum S7W,85.74889
+2.0,,113.0,Suburbann,64.0,None,False,Gas,True,False,2021-03-19,Green,Roman,False,Excellent,Excellent,Good,Poor,6.0,3.05,112.0,KM4 Aluminum AH5,90.83978
+,3.0,120.0,Suburbann,52.0,None,False,Electricity,True,True,2023-10-23,White,Laura,False,Poor,Good,Good,Good,6.0,2.02,72.0,T9GN Wood ONDOC Window,128.85314
+2.0,2.0,86.0,Suburbann,38.0,,True,Oil Heating,False,False,2023-08-06,Green,Lukas,False,Good,Excellent,Good,Good,18.0,2.77,,8FWBB8 Wood 2EVA,137.04618
+,5.0,144.0,Suburban,43.0,None,False,Oil,False,True,2022-01-23,White,Laura,False,Good,Good,Good,Good,6.0,1.74,,Wood AW9 Window,196.7862
+,1.0,40.0,Suburban,55.0,None,False,Gas,True,True,2023-02-05,Green,Laura,False,Excellent,Excellent,Excellent,Good,6.0,3.25,,E97T Wood 6UJ Window,95.0582
+,1.0,24.0,Urban,51.0,None,False,Electricity,False,True,2020-06-18,White,Maria,False,Good,Good,Good,Excellent,6.0,1.65,,Steel A0X3J5 Window,154.4858
+1.0,1.0,42.0,Urban,65.0,None,False,Electric,True,True,2021-12-10,Yellow,Lukas,False,Good,Good,Poor,Excellent,6.0,3.2,,IIERG Steel VBY Window,175.81998
+1.0,1.0,54.0,Rural,44.0,Good,False,Oil Heating,False,True,2022-01-01,Green,Stefan,False,Excellent,Good,Poor,Excellent,18.0,2.12,84.8,Steel C6N,355.11076
+2.0,4.0,143.0,Urban,43.0,,False,Electric,False,True,2022-04-11,Green,Lukas,False,Good,Good,Excellent,Excellent,6.0,2.35,85.8,6V9JETI Steel YZ7,297.08753
+1.0,1.0,48.0,Rural,62.0,Excellent,False,Oil,True,False,2023-01-01,Yellow,Sabrina,False,Good,Good,Poor,Poor,30.0,3.22,80.0,Wood 2AEJH,261.60197
+,1.0,92.0,Urban,56.0,,False,Oil,True,False,2020-05-17,Gray,Natalie,False,Good,Excellent,Excellent,Excellent,6.0,2.51,,Wood G9HSX Window,200.70364
+5.0,,144.0,Rural,,None,False,Electricity,True,True,2022-09-02,Yellow,Maria,False,Good,Excellent,Good,Good,6.0,3.79,88.2,Steel IYIJK Window,428.08389
+2.0,3.0,-634.0,Rural,45.0,Poor,False,Electric,True,True,2021-06-20,Green,Natalie,False,Good,Excellent,Excellent,Good,13.0,1.7,61.8,5QFA Steel RBVP,391.18856
+1.0,1.0,41.0,,49.0,,False,Gas,False,True,2021-05-12,Green,Stefan,False,Excellent,Good,Poor,Good,6.0,3.03,41.0,SMX3C Wood FL8PE6W,76.49827
+,1.0,139.0,Suburban,28.0,None,,Gas,False,True,2022-10-09,Yellow,,False,Good,Poor,Good,Good,6.0,3.1,139.0,Steel PB5,184.37198
+1.0,,87.0,Urban,,None,False,Oil,False,True,2023-02-02,Gray,Theresa,False,Good,Excellent,Good,Excellent,6.0,2.99,,I7RXH Aluminum IV26EHW,167.04942
+1.0,1.0,68.0,Suburbann,23.0,None,False,Electric,False,True,2023-08-18,Green,Sabrina,False,Poor,Poor,Good,Good,6.0,1.59,,Aluminum OOMFTV0,55.39365
+,1.0,37.0,Urban,52.0,Good,False,Gas,False,True,2021-11-09,Yellow,,False,Good,Good,Good,Good,18.0,4.24,,586 Wood 0Q4,155.70577
+1.0,1.0,31.0,Suburban,32.0,None,False,Electricity,False,True,2021-07-31,Yellow,Maria,False,Excellent,Excellent,Excellent,Poor,6.0,2.57,,UIAW6T Steel COIL Window,106.32176
+2.0,3.0,113.0,Rural,57.0,None,False,Electric,False,True,2022-05-20,Gray,Maria,False,Excellent,Good,Good,Excellent,6.0,2.01,67.8,Wood AI4G,294.29462
+3.0,,128.0,,66.0,,False,Gas,False,True,2021-07-10,Green,,False,Poor,Excellent,Good,Poor,6.0,1.9,,Aluminum RZQRA4 Window,106.3152
+1.0,2.0,95.0,Urban,17.0,Excellent,False,Oil Heating,False,True,2023-04-06,Green,Sabrina,False,Excellent,Good,Good,Good,30.0,1.54,,Wood LPXHI6,319.4221
+2.0,1.0,87.0,Urban,46.0,None,False,Electric,True,True,2023-01-13,White,Johanna,False,Good,Good,Excellent,Good,6.0,1.33,,I15ZGM Wood 394AT Window,189.03683
+4.0,2.0,128.0,,12.0,None,False,Electric,True,True,2022-11-06,Gray,Theresa,False,Good,Excellent,Excellent,Poor,6.0,1.67,78.0,IQ4T Wood 71DT Window,251.00054
+,2.0,145.0,,,Good,False,Oil Heating,False,True,2020-11-27,Yellow,Stefan,False,Good,Good,Good,Good,18.0,4.73,,0I9 Wood RC5,468.50897
+1.0,,41.0,Urban,41.0,,False,Electricity,False,True,2021-11-09,Yellow,Denis,False,Poor,Good,Good,Excellent,6.0,3.37,24.0,NNZFQZ Aluminum MWH7U,69.89245
+,2.0,72.0,Rural,17.0,Good,False,Oil Heating,False,True,2020-01-02,Yellow,Florian,False,Good,Good,Good,Good,18.0,4.54,116.8,7X27I Aluminum WV86AHI Window,254.46161
+,2.0,80.0,,36.0,Poor,False,Electric,True,True,2021-11-09,White,Maria,False,Excellent,Excellent,Good,Poor,13.0,1.87,47.4,Aluminum PHJ3 Window,90.51519
+1.0,1.0,55.0,Urban,,Excellent,False,Electric,False,True,2024-02-16,White,,False,Good,Good,Good,Poor,30.0,1.72,,Aluminum 2QT,141.13943
+1.0,,69.0,Rural,,,False,Electric,False,False,2022-04-25,Gray,Stefan,False,Good,Poor,Excellent,Good,6.0,2.06,40.8,45RUJFO Steel 6HXHH8R,219.77459
+1.0,1.0,25.0,Suburban,,Good,False,Oil Heating,False,False,2021-10-31,Yellow,Martin,False,Good,Excellent,Good,Good,18.0,4.32,38.4,Wood 6URV9B2,74.8947
+2.0,1.0,62.0,Suburban,33.0,,False,Electric,False,True,2022-02-16,Yellow,Natalie,False,Good,Excellent,Excellent,Good,6.0,2.11,,Wood QD3,96.33517
+1.0,1.0,74.0,Urban,46.0,Good,False,Electric,False,False,2023-10-18,Green,Andreas,False,Excellent,Good,Good,Good,18.0,2.4,,Steel 2HL6,210.21342
+,2.0,64.0,Urban,-14.0,None,True,Electric,False,True,2022-04-10,White,Sandra,False,Good,Poor,Excellent,Good,6.0,2.25,,FI9 Wood EMROKA Window,135.85347
+1.0,,61.0,Suburbann,34.0,None,False,Gas,True,True,2020-08-25,White,Daniel,False,Good,Excellent,Good,Good,6.0,2.06,,Wood LS5,98.95543
+1.0,1.0,99.0,Urban,42.0,Good,False,Oil Heating,True,False,2020-06-11,White,,False,Good,Good,Poor,Good,18.0,3.34,5629.0,Wood B4JXK,216.57231
+,1.0,50.0,Suburban,28.0,Poor,False,Gas,False,True,2020-07-07,Green,Martin,False,Good,Good,Good,Excellent,13.0,2.81,49.0,H61PIH Aluminum TS1N0,67.16359
+2.0,2.0,74.0,Suburban,27.0,None,True,Electric,False,True,2022-08-08,Yellow,Denis,False,Good,Poor,Good,Good,6.0,3.67,44.4,3HYG Steel EPXODM,128.40403
+4.0,4.0,137.0,Rural,,None,True,Oil Heating,True,True,2021-02-04,Green,Martin,False,Good,Poor,Excellent,Excellent,6.0,2.41,219.2,YFJ Wood TJP8MU3,441.05025
+,,,,,,,,,,,,,,,,,,,,,,
+,,119.0,Rural,58.0,None,,Electric,False,True,2023-08-06,Gray,Lukas,False,Good,Excellent,Good,Good,6.0,2.88,72.0,PRY2I Wood IU9,289.9213
+1.0,,48.0,Rural,63.0,None,False,Electricity,False,True,2023-09-01,Gray,Andreas,False,Poor,Excellent,Good,Good,6.0,1.21,,Steel 3PA1C Window,254.86948
+1.0,1.0,46.0,,71.0,,False,Oil,False,True,2020-12-10,White,Sandra,False,Excellent,Good,Good,Good,6.0,2.94,,Aluminum 4PE1Y6,57.89463
+1.0,,86.0,Suburbann,,,True,Electricity,True,True,2022-09-24,Gray,Stefan,False,Good,Excellent,Excellent,Excellent,18.0,2.96,50.4,Wood K56ULJ Window,129.93928
+,1.0,34.0,Suburbann,51.0,None,,Electricity,True,True,2022-02-01,White,Denis,False,Excellent,Good,Poor,Poor,6.0,3.31,19.2,HILRX8 Aluminum HME Window,39.72991
+3.0,3.0,126.0,Urban,41.0,,False,Electricity,False,True,2023-03-26,Green,Lukas,False,Good,Good,Excellent,Good,6.0,1.73,,Aluminum XAHXJT,176.87952
+,,131.0,Rural,31.0,Good,True,Oil Heating,True,False,2022-03-23,Gray,Martin,False,Good,Poor,Excellent,Good,18.0,2.94,208.0,58HUO5M Aluminum TLJ Window,359.49444
+2.0,2.0,135.0,,70.0,Poor,False,Oil,False,True,2020-08-06,Green,Roman,False,Excellent,Excellent,Excellent,Good,13.0,2.64,217.6,Steel 74QL4 Window,215.79207
+2.0,,114.0,Urban,41.0,None,False,Oil Heating,True,True,2021-01-03,Gray,Sabrina,False,Good,Good,Good,Poor,6.0,2.84,,I5BTY7 Aluminum C81J Window,206.15128
+1.0,,38.0,,20.0,None,False,Gas,True,False,2022-01-15,White,Daniel,False,Good,Excellent,Excellent,Good,6.0,1.54,,YLPFC Wood NVC5 Window,77.91556
+1.0,,25.0,Urban,44.0,None,False,Oil Heating,True,True,2020-12-29,Gray,Sandra,False,Good,Excellent,Excellent,Good,6.0,1.37,,Aluminum Y8FT,90.13752
+1.0,1.0,98.0,Rural,50.0,None,True,Oil Heating,False,True,2023-09-07,White,Maria,False,Excellent,Excellent,Good,Excellent,6.0,2.03,158.4,6JG2S1 Steel W1DQMCK,432.81053
+1.0,2.0,69.0,Urban,67.0,Poor,False,Electricity,True,False,2020-04-28,White,Andreas,False,Good,Good,Excellent,Excellent,13.0,2.85,,Steel 22JJQ4,189.27129
+1.0,1.0,95.0,Urban,71.0,None,,Gas,False,False,2021-10-14,White,Daniel,False,Excellent,Good,Poor,Excellent,6.0,2.97,,CNRA Steel S8CREN4,201.11313
+1.0,,125.0,Urban,36.0,Excellent,True,Oil,False,True,2020-02-29,Yellow,Natalie,False,Excellent,Excellent,Good,Poor,30.0,2.22,200.0,4MK Aluminum 0VZSWC Window,278.35973
+,,108.0,,33.0,Poor,False,Oil,False,True,2023-01-04,Green,Andreas,False,Excellent,Poor,Good,Good,13.0,3.28,171.2,73CSZ8 Aluminum 50M,222.06624
+,1.0,23.0,Suburban,43.0,None,False,Oil,False,True,2020-04-14,Green,Martin,False,Good,Good,Good,Poor,6.0,3.21,38.4,EIE2IN Aluminum LKYA,36.12811
+,1.0,95.0,Rural,26.0,,,Electricity,True,True,2020-05-07,Green,Roman,False,Poor,Poor,Good,Good,18.0,2.93,57.6,20YGHZ Steel JJWYEA Window,357.57389
+,,6653.0,Suburban,47.0,None,False,Gas,True,False,2021-03-25,Green,,False,Poor,Poor,Poor,Excellent,6.0,1.57,95.0,Steel BZK,118.74909
+1.0,1.0,24.0,,60.0,Good,False,Electric,True,True,2021-05-27,White,Andreas,False,Excellent,Good,Good,Poor,18.0,2.5,,Y3JWQ Wood A2II4W Window,87.99958
+,3.0,141.0,,51.0,None,False,Electric,False,True,2021-05-07,White,Laura,False,Excellent,Good,Excellent,Good,6.0,3.35,84.0,Steel MAILSVI Window,289.90447
+1.0,2.0,105.0,,17.0,,False,Electricity,False,True,2020-11-29,Yellow,Sandra,False,Good,Excellent,Good,Excellent,6.0,4.67,63.0,GDUOENL Steel L4YE Window,346.10199
+2.0,3.0,127.0,Urban,27.0,Excellent,False,Oil,True,True,2021-02-25,Yellow,Denis,False,Poor,Good,Excellent,Excellent,30.0,4.69,,00FN0RC Wood NO3,365.55414
+,,75.0,Rural,,,False,Electric,True,False,2021-08-06,Gray,Denis,False,Excellent,Good,Excellent,Poor,6.0,1.89,45.6,Aluminum UZTZ4V Window,132.40868
+2.0,1.0,69.0,Urban,32.0,Excellent,False,Oil,False,True,2023-04-28,White,Sandra,False,Good,Good,Excellent,Excellent,30.0,1.33,,W45 Steel HCNS1JV,336.75564
+1.0,2.0,140.0,Suburbann,65.0,None,False,Oil,True,True,2020-04-13,Yellow,Daniel,False,Good,Poor,Excellent,Poor,6.0,1.86,,91N10Y Aluminum TXYMEQS Window,141.0717
+,1.0,97.0,,61.0,None,False,Oil Heating,False,True,2022-10-23,Green,,False,Excellent,Poor,Poor,Excellent,6.0,2.23,,Aluminum XBNWF Window,242.08507
+1.0,2.0,129.0,Rural,43.0,None,False,Electric,True,False,2022-12-21,Green,Daniel,False,Good,Excellent,Good,Poor,6.0,2.88,77.4,Aluminum VIR,198.68932
+2.0,,106.0,Rural,30.0,Good,,Oil,True,True,2023-06-18,Green,Florian,False,Poor,Excellent,Good,Good,18.0,2.2,,WT53JV Wood LIVD,438.60932
+,,61.0,,53.0,None,False,Gas,True,True,2022-01-30,Yellow,,False,Poor,Excellent,Good,Good,6.0,4.36,61.0,Wood AN1VQ,102.80152
+,1.0,62.0,Suburban,31.0,,False,Oil Heating,True,False,2021-04-05,Gray,Theresa,False,Excellent,Poor,Poor,Poor,6.0,1.58,,8E61VDL Steel CYSF3X Window,115.92925
+,,81.0,Suburban,46.0,Good,False,Electric,False,False,2023-02-13,Yellow,Daniel,False,Good,Excellent,Good,Poor,18.0,3.47,,OVQAPZ Aluminum JKQ,71.01309
+1.0,,101.0,Suburban,52.0,None,True,Oil,True,False,2022-02-01,Gray,,False,Poor,Excellent,Good,Good,6.0,1.54,163.2,Steel 51A1,150.10216
+2.0,,84.0,Rural,35.0,None,True,Oil,False,True,2023-06-16,Yellow,Denis,False,Good,Good,Good,Excellent,6.0,2.84,132.8,NKO Steel DEE8,392.38495
+1.0,1.0,57.0,,46.0,Excellent,True,Electricity,True,True,2024-01-22,Yellow,Sandra,False,Excellent,Excellent,Good,Good,30.0,4.31,33.0,Wood 96O47 Window,327.22401
+,2.0,98.0,,44.0,None,False,Oil,False,True,2023-10-28,Yellow,Roman,False,Good,Excellent,Good,Good,6.0,3.53,155.2,YOKJZ12 Steel 8ZRE Window,184.01566
+1.0,1.0,53.0,Urban,25.0,Poor,False,Gas,False,True,2023-11-26,Gray,Andreas,False,Poor,Excellent,Poor,Excellent,13.0,2.78,52.0,NU0 Wood 6KLML19,174.59349
+5.0,1.0,139.0,Rural,43.0,Poor,False,Oil,False,False,2020-02-06,Green,Maria,False,Good,Poor,Poor,Good,13.0,2.49,219.2,Steel GFPQ8F,402.41247
+2.0,1.0,66.0,Urban,37.0,Good,False,Oil,False,False,2022-08-26,White,Natalie,False,Excellent,Good,Excellent,Good,18.0,2.88,104.0,2O5YW Aluminum 0S7,3064.1809999999996
+4.0,4.0,134.0,Rural,13.0,None,True,Gas,False,True,2022-06-12,White,,False,Excellent,Excellent,Good,Excellent,6.0,1.6,,Steel YDK2U,485.24458
+,1.0,65.0,Rural,43.0,,True,Oil Heating,True,False,2020-09-21,Gray,,False,Poor,Good,Good,Good,6.0,1.91,,5Z89K Aluminum 71PN Window,157.51327
+,,124.0,Urban,45.0,None,False,Oil Heating,True,True,2021-03-13,Yellow,Lukas,False,Good,Excellent,Good,Excellent,6.0,4.73,,GEY8BMK Wood GXZHRU,294.51367
+,2.0,61.0,Suburbann,39.0,None,False,Gas,True,False,2020-03-05,Green,Florian,False,Good,Good,Good,Excellent,6.0,2.44,,Aluminum I2VM3E Window,60.49951
+,,116.0,Suburbann,10.0,Good,False,Oil Heating,False,True,2020-07-06,Gray,Laura,False,Good,Good,Excellent,Excellent,18.0,2.56,,ZJYDP Wood KLC1HJB,184.92843
+,,54.0,Urban,67.0,Excellent,True,Electric,False,True,2022-04-27,White,Florian,False,Excellent,Good,Excellent,Poor,30.0,2.28,32.4,HV6W Steel Y3LK2,251.81969
+1.0,3.0,115.0,,64.0,None,,Electricity,False,True,2021-02-11,Yellow,Denis,False,Excellent,Poor,Good,Excellent,6.0,3.96,69.0,Wood 14W0DD,193.494
+,1.0,133.0,Urban,65.0,Good,True,Oil,False,True,2022-06-11,White,Martin,False,Excellent,Poor,Excellent,Good,18.0,1.56,211.2,U9AVA1 Wood VGNSV Window,316.9648
+1.0,1.0,30.0,Urban,57.0,None,False,Gas,False,True,2020-12-30,Gray,Natalie,False,Good,Good,Good,Good,6.0,1.2,,WE7VZ Steel N9JZJA5,160.54858
+,1.0,33.0,,25.0,Poor,True,Oil,False,True,2023-03-20,Green,,False,Poor,Excellent,Good,Excellent,13.0,1.66,52.8,L8U09 Steel YPBV,307.66075
+2.0,2.0,106.0,Rural,52.0,None,False,Oil Heating,True,False,2021-01-26,Green,Lukas,False,Good,Poor,Good,Excellent,6.0,2.3,168.0,A7XMSYA Aluminum QWZK,234.95163
+,1.0,21.0,Urban,31.0,None,False,Electric,True,True,2021-04-29,White,Sandra,False,Good,Poor,Good,Poor,6.0,3.3,12.6,Aluminum QDRK,54.68688
+1.0,,52.0,Urban,,None,False,Gas,True,True,2022-08-30,Green,Sandra,False,Good,Good,Excellent,Good,6.0,1.53,51.0,Wood 2VA52PP,147.36668
+,,68.0,Suburban,41.0,None,False,Oil,True,True,2024-03-14,Green,Martin,False,Excellent,Good,Excellent,Poor,6.0,3.47,,7NL Wood ZWFBA0V,128.38954
+,,,,,,,,,,,,,,,,,,,,,,
+1.0,1.0,83.0,Urban,20.0,Good,True,Oil Heating,False,False,2020-01-17,Gray,Sabrina,False,Good,Excellent,Poor,Poor,18.0,2.82,,N76QB9S Aluminum 1Z08W Window,152.69114
+,2.0,77.0,Rural,26.0,None,False,Gas,False,False,2021-03-23,White,Theresa,False,Excellent,Excellent,Good,Excellent,6.0,1.74,,Aluminum KHSCARM Window,169.56636
+1.0,1.0,30.0,Rural,39.0,Poor,False,Oil,True,False,2021-08-15,Green,Martin,False,Excellent,Good,Poor,Good,13.0,3.29,,Q1872 Aluminum L4Q2Y,125.01933
+1.0,1.0,47.0,Urban,64.0,None,False,Electric,False,False,2021-09-13,White,,False,Good,Excellent,Poor,Poor,6.0,3.29,,Aluminum 7JW3L,53.1958
+1.0,1.0,30.0,,63.0,None,False,Gas,True,True,2021-10-09,Green,Natalie,False,Good,Good,Poor,Good,6.0,1.89,28.0,Wood 41ZZ,116.1301
+1.0,,120.0,Suburbann,56.0,Excellent,False,Electricity,True,True,2023-07-16,Yellow,,False,Good,Good,Good,Good,30.0,2.89,72.0,L0HQ39 Aluminum 4WHB,140.22898
+1.0,2.0,76.0,Rural,14.0,Good,False,Electricity,True,True,2021-10-17,White,Andreas,False,Good,Excellent,Poor,Excellent,18.0,2.29,,OVPF70 Steel 8C0,371.95595
+2.0,2.0,61.0,Rural,,Good,False,Oil,False,False,2022-01-08,Yellow,Sabrina,False,Excellent,Excellent,Good,Good,18.0,4.9,,GN1I Aluminum KCK0M7 Window,199.58647
+,,110.0,Suburbann,32.0,None,True,Electric,False,True,2020-12-21,White,Florian,False,Poor,Excellent,Good,Good,6.0,2.33,,Steel NH0LQS Window,146.00907
+,,26.0,Rural,,None,False,Gas,False,True,2022-05-21,Green,Denis,False,Excellent,Excellent,Good,Good,6.0,2.02,,Wood 34E6 Window,162.9264
+5.0,1.0,147.0,Urban,,Poor,False,Gas,True,False,2023-12-05,White,Daniel,False,Excellent,Good,Excellent,Good,13.0,2.2,148.0,9Z9D3ZU Steel RIN Window,305.86283
+2.0,2.0,65.0,Suburbann,66.0,None,False,Gas,True,True,2021-12-16,Green,Denis,False,Good,Poor,Excellent,Poor,6.0,2.67,,Aluminum SA4Z8F Window,68.37273
+,,28.0,Urban,,Poor,False,Gas,False,True,2023-10-19,White,Laura,False,Poor,Good,Excellent,Poor,13.0,3.16,29.0,2RL5U6 Wood B10ZS4S,127.71217
+1.0,,67.0,Suburban,25.0,Good,False,Electricity,True,False,2021-04-18,Gray,Denis,False,Poor,Good,Good,Good,18.0,2.31,,Wood 8XKI3M Window,93.01801
+1.0,1.0,146.0,Urban,,Excellent,True,Oil,False,True,2020-03-25,Green,Andreas,False,Excellent,Excellent,Good,Poor,30.0,3.36,235.2,YTNHYE Aluminum NSY7,292.37802
+,,25.0,Rural,56.0,None,False,Gas,True,False,2024-02-25,White,,False,Good,Excellent,Good,Excellent,6.0,2.86,,Steel YGKKBPR Window,225.47934
+1.0,1.0,31.0,Urban,70.0,None,False,Electric,True,False,2021-05-04,Gray,Sandra,False,Good,Good,Good,Good,6.0,2.73,18.6,Steel Y35A35 Window,137.21808
+,1.0,127.0,Suburban,34.0,None,False,Oil,True,True,2024-02-01,White,Daniel,False,Good,Excellent,Excellent,Excellent,6.0,2.63,,Wood 10T Window,193.37909
+2.0,2.0,59.0,Urban,48.0,Good,,Oil,False,False,2021-06-10,Yellow,,False,Good,Good,Good,Poor,18.0,1.82,96.0,ZMD4 Aluminum A4Z,129.65361
+1.0,1.0,55.0,Suburbann,25.0,None,False,Electricity,True,False,2020-11-30,White,Daniel,False,Good,Excellent,Good,Good,6.0,2.16,,Aluminum 39VZ Window,51.55194
+,1.0,91.0,,44.0,Poor,True,Oil,True,True,2020-05-08,Green,Lukas,False,Good,Excellent,Good,Poor,13.0,2.72,142.4,OK5HL Steel GEU,397.33638
+1.0,2.0,127.0,Urban,49.0,Poor,False,Gas,False,True,2020-05-10,Yellow,Sabrina,False,Excellent,Excellent,Excellent,Poor,13.0,3.45,,LWAL1XB Wood U50IVWY,250.08549
+1.0,,114.0,Rural,56.0,None,False,Gas,False,False,2024-01-07,Yellow,Theresa,False,Excellent,Good,Good,Poor,6.0,1.38,,Steel O12AYGV Window,319.19087
+,,69.0,,,Good,True,Gas,True,True,2020-12-12,Yellow,Daniel,False,Excellent,Excellent,Poor,Good,18.0,1.36,69.0,Steel 52HVO9U Window,252.92383
+2.0,2.0,82.0,Rural,60.0,None,False,Electric,False,True,2020-12-22,Yellow,Natalie,False,Excellent,Good,Good,Excellent,6.0,3.26,48.6,Aluminum VZU,167.3017
+1.0,,132.0,Rural,57.0,Poor,False,Electric,True,True,2020-04-28,Green,Daniel,False,Excellent,Poor,Good,Excellent,13.0,3.31,,R0JILU Wood S1UVD6C Window,332.83315
+,3.0,111.0,Rural,50.0,None,False,Oil,False,True,2023-01-12,Green,Stefan,False,Poor,Poor,Excellent,Good,6.0,2.99,179.2,F4GOB8L Wood J7VC Window,373.57315
+,2.0,79.0,Rural,,Good,False,Electricity,False,False,2024-03-12,Gray,,False,Excellent,Good,Poor,Poor,18.0,1.91,46.8,Wood SKUYPMH Window,220.73056
+2.0,,98.0,Rural,37.0,None,False,Electric,False,False,2022-12-15,Yellow,Maria,False,Poor,Good,Poor,Excellent,6.0,3.73,-153.0,Aluminum I3J Window,151.75748
+1.0,1.0,67.0,Urban,,None,False,Gas,False,True,2022-03-07,Yellow,Lukas,False,Excellent,Excellent,Poor,Good,6.0,1.64,67.0,21HSIVY Aluminum 6M41,106.80933
+2.0,1.0,146.0,Rural,10.0,None,False,Gas,False,False,2020-06-19,Yellow,Andreas,False,Good,Excellent,Poor,Good,6.0,3.1,146.0,Aluminum MDP3T Window,238.88205
+3.0,3.0,124.0,Rural,32.0,None,False,Oil,False,True,2020-02-11,Yellow,Sabrina,False,Good,Good,Excellent,Good,6.0,3.55,200.0,DOM5I Aluminum D0F7Q3 Window,326.62529
+2.0,1.0,98.0,Suburbann,58.0,None,True,Gas,False,True,2023-03-23,White,Maria,False,Good,Good,Good,Good,6.0,3.44,,Wood I91Q Window,120.47162
+1.0,1.0,46.0,Suburbann,47.0,Good,False,Gas,False,True,2022-12-09,Green,Natalie,False,Excellent,Good,Good,Good,18.0,3.04,,P902JRM Aluminum 0HJ Window,74.88215
+,,87.0,Urban,,Poor,True,Electric,False,True,2023-01-31,White,,False,Poor,Poor,Excellent,Good,13.0,3.46,52.2,EHQYB2 Wood T5H,168.77339
+1.0,,68.0,Rural,,,False,Oil,False,False,2023-11-12,Gray,,False,Good,Good,Good,Poor,6.0,1.98,110.4,PO9DWB Wood 0CAVPNC Window,206.3131
+,1.0,55.0,,20.0,Poor,False,Electricity,False,False,2023-03-02,Yellow,Stefan,False,Good,Good,Good,Good,13.0,3.9,31.8,L2A8YFO Wood 55C1QO Window,188.96531
+1.0,,93.0,Suburban,29.0,,False,Electricity,False,True,2022-04-11,Yellow,Sandra,False,Excellent,Good,Excellent,Excellent,30.0,4.62,57.0,Aluminum 3EJW,124.86128
+1.0,3.0,113.0,Urban,47.0,Poor,,Electric,False,True,2023-08-15,White,Natalie,False,Good,Poor,Good,Poor,13.0,3.14,66.6,Steel Y1NVNKG,261.31109
+,,87.0,Rural,,None,False,Electric,True,True,2023-08-16,Green,Maria,False,Good,Excellent,Good,Good,6.0,2.15,52.8,0YI Aluminum I6U0J Window,179.11177
+3.0,2.0,116.0,Urban,,Poor,,Gas,False,False,2020-08-22,Yellow,Maria,False,Good,Excellent,Excellent,Good,13.0,2.64,115.0,1HHZNDW Aluminum 49N Window,159.97369
+,1.0,146.0,Suburbann,57.0,Good,True,Gas,True,False,2024-03-01,Gray,Florian,False,Poor,Excellent,Good,Good,18.0,2.2,,Wood OSEE1A,162.81268
+2.0,1.0,81.0,Urban,-43.0,Poor,False,Oil Heating,False,True,2022-08-04,Yellow,Denis,False,Excellent,Excellent,Poor,Good,13.0,4.65,129.6,RYMVVA Wood 0F9 Window,242.03227
+3.0,,115.0,Suburban,31.0,None,False,Oil,True,True,2022-03-19,Gray,Sabrina,False,Good,Poor,Good,Excellent,6.0,2.05,182.4,Steel UFBCN8 Window,200.12144
+2.0,1.0,98.0,Suburbann,-1.0,None,True,Electric,False,True,2022-02-15,White,Maria,False,Poor,Good,Good,Good,6.0,3.7,,Aluminum Z3PK0QJ Window,80.30705
+1.0,2.0,128.0,Suburban,18.0,None,False,Gas,False,False,2020-01-06,Green,Martin,False,Good,Poor,Excellent,Good,6.0,1.78,,Steel HBN Window,138.92372
+2.0,1.0,96.0,,59.0,None,False,Electricity,False,True,2021-07-11,Yellow,Denis,False,Poor,Good,Good,Excellent,6.0,1.82,,Steel G21,220.30766
+,4.0,133.0,Suburbann,64.0,Good,False,Gas,False,True,2021-05-17,Yellow,Maria,False,Excellent,Excellent,Excellent,Excellent,18.0,1.66,,Z1NPI Steel PW9S7,209.81355
+,2.0,143.0,Suburban,23.0,None,False,Oil Heating,True,True,2023-09-28,White,,False,Excellent,Good,Excellent,Excellent,6.0,3.37,,Aluminum DW0WH Window,184.69573
+2.0,,145.0,Urban,52.0,Good,False,Oil,True,True,2020-07-05,Gray,Florian,False,Good,Poor,Good,Good,18.0,2.69,,Aluminum 9DYPO,277.03846
+1.0,,120.0,Urban,,None,False,Electricity,False,True,2022-03-11,White,Johanna,False,Good,Good,Good,Good,6.0,2.38,,1W91T Steel 1E4IPVX,236.3225
+,1.0,29.0,Urban,54.0,None,False,Electric,False,False,2022-05-03,Gray,Andreas,False,Poor,Excellent,Good,Good,6.0,2.06,16.8,EWMQ Aluminum Z0878 Window,46.85627
+,1.0,114.0,Urban,44.0,None,False,Oil Heating,True,True,2023-07-31,Green,Laura,False,Good,Excellent,Excellent,Excellent,6.0,3.25,,39BFEU Wood MT7 Window,296.7257
+,3.0,8578.0,Rural,64.0,Excellent,False,Oil Heating,True,True,2020-03-20,White,Daniel,False,Poor,Excellent,Good,Excellent,30.0,1.44,187.2,Steel UX1Q Window,528.42211
+1.0,,54.0,Rural,60.0,Excellent,False,Oil Heating,True,True,2020-06-21,Yellow,Laura,False,Poor,Poor,Excellent,Good,30.0,1.5,,Steel ZP2RLST,379.65724
+,1.0,31.0,Rural,52.0,None,False,Oil,True,False,2020-09-13,White,Natalie,False,Excellent,Excellent,Good,Excellent,6.0,2.43,51.2,1QSOZ1 Wood FP1E,177.93333
+,1.0,22.0,,40.0,None,False,Gas,False,True,2024-03-14,Green,Sabrina,False,Poor,Good,Good,Poor,6.0,2.96,24.0,Aluminum 0ALN82 Window,52.92772
+2.0,1.0,64.0,Urban,42.0,None,False,Gas,False,True,2024-01-14,Gray,Sabrina,False,Poor,Good,Poor,Good,6.0,2.51,,Steel BU0H,212.07088
+1.0,,75.0,Suburbann,52.0,None,True,Electricity,False,True,2023-03-03,Yellow,Lukas,False,Good,Good,Poor,Good,6.0,3.82,45.0,GLX Aluminum XFOAO,60.36603
+1.0,,41.0,Urban,41.0,Excellent,False,Oil,False,False,2022-08-06,Yellow,Sandra,False,Good,Poor,Excellent,Good,30.0,4.01,,Y7KWL5 Wood 53AZU Window,178.02702
+,1.0,64.0,,,Poor,False,Oil,True,True,2020-02-23,Gray,Martin,False,Good,Good,Good,Good,13.0,1.99,,C9DW Steel 4TY9JR Window,144.86344
+1.0,,38.0,Urban,68.0,None,False,Electric,True,True,2021-08-04,Yellow,Laura,False,Good,Good,Good,Poor,6.0,3.12,22.8,Steel Y0P Window,166.95748
+4.0,,142.0,Urban,,,False,Electricity,False,True,2022-06-06,White,Natalie,False,Poor,Poor,Poor,Good,6.0,1.62,,6E4 Aluminum 4E5JJ9R,156.0304
+,,38.0,Urban,,Poor,False,Gas,True,True,2020-05-06,Gray,Martin,False,Good,Poor,Good,Good,13.0,2.59,38.0,5D68K Steel XFJ,181.26479
+2.0,2.0,121.0,Suburban,,Good,False,Oil,True,False,2022-07-10,White,Roman,False,Poor,Poor,Good,Good,18.0,2.38,,K23DN Steel 4DBOT1 Window,177.00025
+1.0,1.0,26.0,Urban,,,False,Gas,False,False,2020-08-08,Green,Lukas,False,Good,Excellent,Poor,Good,18.0,1.76,,KI3X3 Steel 6K7IGV Window,151.19209
+,2.0,89.0,Rural,59.0,None,True,Oil,False,True,2022-02-16,Green,Andreas,False,Poor,Excellent,Poor,Good,6.0,2.93,,JQQEZ Aluminum A0K Window,226.05531
+,1.0,86.0,Urban,45.0,Good,False,Gas,True,False,2021-02-23,Gray,Daniel,False,Excellent,Good,Good,Excellent,18.0,1.12,,Wood A0V Window,196.0116
+,,121.0,Rural,,Excellent,,Gas,False,True,2021-05-14,Yellow,Martin,False,Good,Excellent,Good,Poor,30.0,2.88,,VQR3QGQ Wood QEX,383.64616
+1.0,2.0,75.0,Suburbann,38.0,None,False,Oil,True,True,2022-08-05,Gray,Lukas,False,Excellent,Poor,Good,Poor,6.0,1.69,118.4,E94 Wood 7CW,125.2816
+,3.0,109.0,,36.0,Good,False,Electricity,True,True,2022-05-14,White,Laura,False,Poor,Excellent,Good,Excellent,18.0,3.3,64.8,Steel F5V5Z Window,181.65009
+2.0,3.0,111.0,Urban,-32.0,None,False,Electric,True,True,2020-03-14,Gray,Stefan,False,Excellent,Excellent,Excellent,Excellent,6.0,1.18,66.6,ZO14A Steel R7C Window,274.2626
+1.0,1.0,37.0,Rural,55.0,None,False,Oil,False,False,2023-06-18,White,,False,Good,Poor,Excellent,Excellent,6.0,3.59,,Steel HOGS1 Window,231.13587
+2.0,5.0,145.0,Suburban,60.0,None,False,Electricity,False,True,2024-02-23,Green,,False,Excellent,Good,Excellent,Good,6.0,2.94,86.4,Wood EWE7 Window,154.86189
+,2.0,124.0,Suburbann,71.0,None,False,Oil Heating,False,False,2022-04-15,White,Lukas,False,Excellent,Good,Poor,Good,6.0,1.67,,9PE Steel 807NLX Window,163.41496
+2.0,3.0,114.0,Rural,48.0,None,False,Electricity,True,False,2021-03-09,Gray,Stefan,False,Good,Good,Good,Poor,6.0,2.59,67.8,Steel DSX45N Window,293.60374
+2.0,,93.0,Rural,14.0,None,True,Electricity,True,True,2021-01-25,Yellow,Roman,False,Poor,Excellent,Good,Good,6.0,1.61,55.8,Aluminum 7Z9KHW Window,193.58434
+,1.0,59.0,Suburban,54.0,None,True,Gas,True,False,2024-03-09,Green,Natalie,False,Good,Good,Excellent,Good,6.0,1.62,,A6M Steel IWX,113.77768
+1.0,1.0,59.0,Urban,69.0,Poor,False,Electric,True,False,2021-05-02,Gray,Lukas,False,Good,Good,Excellent,Good,13.0,2.4,,Steel XICBDKK,176.2335
+,3.0,6641.0,Urban,50.0,Good,False,Electricity,True,True,2023-06-03,Gray,Stefan,False,Good,Poor,Poor,Excellent,18.0,1.87,,Aluminum SD6,191.94354
+1.0,2.0,66.0,Rural,44.0,Good,True,Gas,True,True,2023-03-08,White,Andreas,False,Excellent,Good,Good,Excellent,18.0,2.44,66.0,6JHM Wood P42,316.36422
+1.0,1.0,29.0,Suburban,60.0,None,False,Gas,True,False,2020-09-10,Gray,Natalie,False,Good,Good,Poor,Good,6.0,1.14,29.0,Q5V27 Steel SJ5IRB7 Window,81.73613
+1.0,,35.0,,,None,False,Electric,False,True,2020-06-10,Yellow,Maria,False,Excellent,Excellent,Poor,Poor,6.0,3.96,21.0,Wood KU8E6,61.16691
+1.0,,120.0,,49.0,,False,Oil Heating,False,True,2021-03-04,Gray,Lukas,False,Good,Excellent,Good,Good,13.0,2.38,190.4,Wood 84OX,281.07825
+3.0,2.0,149.0,,22.0,Good,True,Electric,False,False,2021-03-06,Gray,,False,Good,Excellent,Good,Poor,18.0,2.96,88.8,Aluminum L766,180.89184
+,1.0,53.0,Urban,39.0,Good,True,Electricity,False,True,2022-07-13,Gray,Johanna,False,Poor,Good,Good,Good,18.0,1.04,,S7I3O Aluminum Y50PNX,112.5077
+1.0,1.0,39.0,Suburban,47.0,,False,Gas,False,True,2021-07-10,Gray,Denis,False,Good,Good,Good,Poor,6.0,1.89,,Steel CA89OK,103.9781
+,,86.0,Urban,15.0,Good,True,Gas,True,True,2021-11-26,Yellow,Martin,False,Excellent,Good,Poor,Good,18.0,2.96,,A2QK5C4 Aluminum 4BSK Window,193.2984
+1.0,1.0,31.0,,63.0,None,False,Oil,False,True,2021-08-10,Green,Johanna,False,Good,Poor,Good,Excellent,6.0,2.52,,Aluminum Q2R Window,100.7381
+,1.0,68.0,,35.0,None,False,Electric,False,True,2022-03-01,Yellow,Sandra,False,Excellent,Poor,Good,Good,6.0,3.34,40.2,Steel NU4IPP Window,119.76785
+,,55.0,Rural,60.0,Good,,Gas,True,False,2021-07-02,White,Natalie,False,Good,Excellent,Excellent,Good,18.0,2.0,,QI03U Wood PI93IAT,230.39902
+,1.0,72.0,Urban,55.0,None,False,Oil Heating,True,True,2022-03-17,White,Theresa,False,Good,Excellent,Excellent,Excellent,6.0,1.51,116.8,Steel Z5BXL,274.64719
+1.0,,28.0,Urban,44.0,Good,False,Oil Heating,False,True,2024-02-09,Yellow,,False,Poor,Poor,Good,Good,18.0,2.84,43.2,Wood 7QPEY7 Window,154.47082
+3.0,1.0,145.0,,,None,True,Electricity,False,True,2023-09-02,Gray,Andreas,False,Excellent,Poor,Good,Good,6.0,2.76,,7ROPBRH Steel 2D5,388.03815
+1.0,1.0,42.0,Urban,40.0,None,True,Oil Heating,False,True,2020-05-19,Yellow,Lukas,False,Excellent,Excellent,Excellent,Excellent,6.0,2.27,62.4,W18 Wood GT3 Window,159.24677
+3.0,3.0,105.0,Suburban,38.0,Good,False,Gas,False,True,2022-11-06,White,,False,Excellent,Excellent,Excellent,Poor,18.0,3.0,,Steel CDQ6H,196.95277
+1.0,,64.0,,56.0,Good,False,Oil Heating,False,True,2021-12-25,Green,Maria,False,Excellent,Excellent,Excellent,Excellent,18.0,3.4,104.0,1K8OAM Wood ASD Window,238.0323
+3.0,,145.0,Suburban,66.0,None,False,Electric,False,True,2023-06-28,Gray,Laura,False,Good,Excellent,Good,Poor,6.0,2.25,87.6,Wood LZZ8J2 Window,136.55235
+2.0,,99.0,Urban,50.0,Excellent,True,Electric,False,True,2021-01-30,Green,Martin,False,Excellent,Good,Poor,Excellent,30.0,2.16,-429.0,KJDZ2T Aluminum 8QIY24N,194.68713
+1.0,,55.0,Rural,30.0,None,,Gas,False,False,2020-06-26,Green,Theresa,False,Good,Good,Poor,Poor,6.0,3.02,,Wood P34Q4S0 Window,153.63407
+1.0,1.0,28.0,Urban,65.0,Poor,,Gas,True,True,2023-06-25,White,,False,Excellent,Poor,Good,Good,13.0,1.78,,Steel 3T2VJ Window,198.01419
+1.0,4.0,135.0,Rural,63.0,Excellent,False,Gas,True,False,2020-03-28,Green,Stefan,False,Good,Good,Excellent,Poor,30.0,3.49,,Aluminum 8CQYM Window,304.88763
+,1.0,38.0,,,Good,True,Oil Heating,False,True,2022-12-31,Green,Natalie,False,Excellent,Good,Good,Excellent,18.0,3.02,60.8,NS5 Steel AP77,228.90124
+,2.0,103.0,Urban,45.0,None,False,Gas,False,False,2020-08-07,White,Natalie,False,Good,Good,Poor,Excellent,6.0,2.01,101.0,CQ2I730 Aluminum MHU2,125.78229
+1.0,,124.0,,55.0,Excellent,False,Gas,True,True,2022-10-04,Yellow,,False,Good,Poor,Excellent,Excellent,30.0,3.36,,Wood 3LSG,185.80271
+,1.0,149.0,,38.0,Poor,False,Gas,False,True,2024-01-05,Gray,Florian,False,Good,Poor,Poor,Excellent,13.0,1.05,148.0,Aluminum HMF7UOY Window,240.27178
+2.0,1.0,92.0,Rural,-94.0,None,True,Electric,True,True,2020-06-11,Green,Daniel,False,Good,Poor,Poor,Good,6.0,1.6,,5U4 Steel RJXG,309.78986
+1.0,1.0,32.0,,54.0,Excellent,,Oil Heating,False,False,2021-03-22,Green,Johanna,False,Excellent,Poor,Poor,Good,30.0,2.23,51.2,Steel MYOZ6,275.2972
+2.0,2.0,143.0,Urban,66.0,None,,Gas,False,True,2022-04-14,Green,Florian,False,Excellent,Good,Poor,Poor,6.0,2.26,,Steel FOA,297.86634
+2.0,2.0,116.0,Suburban,31.0,None,False,Oil,True,False,2023-04-20,Gray,Sandra,False,Good,Excellent,Good,Good,6.0,2.45,185.6,44G1 Wood 4W4Z,147.46079
+1.0,2.0,101.0,,37.0,None,True,Electric,False,True,2020-06-05,Gray,Lukas,False,Excellent,Excellent,Poor,Good,6.0,1.42,60.6,Steel H6WRC6 Window,138.04173
+,,148.0,Suburbann,26.0,None,True,Electricity,True,True,2023-01-15,Yellow,Sandra,False,Good,Good,Good,Good,6.0,3.38,,PHRAY Wood X4XLQ,156.40398
+1.0,,57.0,Rural,,None,False,Gas,False,False,2020-07-30,Green,,False,Poor,Excellent,Excellent,Poor,6.0,3.2,,Z9H Steel NU2Z Window,214.61653
+,1.0,58.0,Suburban,38.0,None,False,Oil Heating,True,True,2024-02-06,White,Denis,False,Poor,Good,Excellent,Poor,6.0,1.51,,14SOP Aluminum YZWCRY Window,78.759
+1.0,,112.0,,62.0,None,False,Gas,False,True,2022-01-12,Yellow,Daniel,False,Poor,Good,Good,Good,6.0,2.66,111.0,69IAR Wood XJZAAQ,2506.0022
+2.0,2.0,63.0,,33.0,None,False,Electricity,False,False,2023-11-29,Yellow,Florian,False,Excellent,Poor,Good,Good,6.0,3.08,37.8,Aluminum HJSE Window,53.70713
+2.0,2.0,103.0,Suburbann,51.0,None,False,Oil Heating,False,True,2023-01-16,Yellow,Sandra,False,Excellent,Good,Poor,Excellent,6.0,4.2,166.4,Steel LCZMIFF,185.62137
+1.0,,131.0,Rural,36.0,Good,False,Electricity,True,True,2022-11-23,Green,Laura,False,Excellent,Good,Excellent,Good,18.0,1.89,,0KTTG Aluminum 6P533,321.12665
+,2.0,82.0,Rural,3.0,None,False,Electric,False,True,2020-09-23,White,Stefan,False,Poor,Good,Good,Excellent,6.0,3.72,49.2,3NY33U Steel RBTBSO Window,306.37479
+3.0,,105.0,,53.0,Poor,True,Oil Heating,False,False,2021-09-24,Gray,Daniel,False,Excellent,Poor,Good,Good,13.0,2.06,,Wood RQE,304.65542
+1.0,2.0,76.0,Suburbann,61.0,Poor,True,Gas,False,True,2021-01-19,Gray,Lukas,False,Good,Poor,Excellent,Good,13.0,1.17,77.0,G8VIPW Aluminum OWC5 Window,81.13964
+4.0,,146.0,Rural,9.0,Poor,False,Electric,False,True,2022-01-16,Gray,Florian,False,Poor,Excellent,Excellent,Good,13.0,1.47,,Aluminum 1RBT6ZE Window,313.02651
+1.0,2.0,142.0,Rural,48.0,None,False,Electric,False,False,2020-06-29,Yellow,Sabrina,False,Good,Good,Good,Excellent,6.0,4.43,85.2,649 Aluminum 8E17,192.67956
+,1.0,85.0,Suburbann,41.0,None,True,Oil,False,True,2020-10-14,White,Roman,False,Poor,Excellent,Good,Good,6.0,1.93,137.6,GUBYJ Wood R4M5W4,123.31358
+3.0,4.0,144.0,,28.0,None,False,Oil Heating,True,True,2020-03-15,Green,Sabrina,False,Good,Good,Good,Good,6.0,2.34,,FQZD0S Wood WHPS,320.38903
+,1.0,48.0,Rural,44.0,,,Gas,False,True,2021-11-12,Gray,Stefan,False,Poor,Good,Good,Excellent,6.0,1.34,48.0,Aluminum VVKM,121.72138
+2.0,,97.0,,11.0,Good,False,Gas,False,True,2022-01-21,Gray,,False,Good,Excellent,Excellent,Excellent,18.0,2.53,,Aluminum Q8G Window,210.78195
+1.0,,121.0,Suburbann,54.0,None,True,Oil Heating,True,True,2021-07-05,Gray,Stefan,False,Good,Poor,Good,Excellent,6.0,2.22,195.2,Wood FBGZA Window,166.94842
+,1.0,93.0,Rural,,None,False,Electricity,True,True,2023-05-27,White,Lukas,False,Good,Good,Poor,Good,6.0,3.77,55.8,TQF Aluminum 9R3R9,172.8451
+2.0,1.0,124.0,Urban,25.0,None,False,Oil,False,True,2023-04-19,White,Lukas,False,Poor,Good,Good,Excellent,6.0,1.49,200.0,Wood EKQ Window,287.79891
+1.0,,62.0,Urban,50.0,None,False,Electric,True,False,2021-03-17,Green,Daniel,False,Excellent,Excellent,Good,Excellent,6.0,2.74,36.6,9P488W Wood F0A1ZF Window,136.13616
+1.0,1.0,56.0,Suburbann,,,False,Electricity,True,True,2020-01-06,Yellow,Sandra,False,Excellent,Good,Good,Good,6.0,1.87,33.6,UF8UIK2 Wood JS7I,81.14139
+1.0,1.0,33.0,Urban,53.0,Excellent,False,Oil Heating,False,True,2023-06-29,Gray,Natalie,False,Poor,Excellent,Excellent,Excellent,30.0,2.3,,G752L Aluminum XCQBM2D,160.87974
+2.0,2.0,120.0,Urban,40.0,None,True,Oil,False,True,2023-08-06,Yellow,Theresa,False,Excellent,Poor,Excellent,Poor,6.0,4.18,,XTJW Aluminum 5XH,226.27788
+1.0,2.0,107.0,Urban,33.0,None,True,Gas,True,True,2023-05-11,Green,Lukas,False,Poor,Good,Excellent,Good,6.0,2.55,106.0,ZNXA Wood HLPK92,231.52059
+,,79.0,Urban,54.0,None,False,Oil,False,False,2021-12-02,Gray,Theresa,False,Poor,Good,Good,Poor,6.0,2.69,,Wood W3HIM Window,155.31068
+2.0,2.0,101.0,Urban,46.0,None,False,Oil,False,True,2023-07-31,Yellow,Johanna,False,Good,Poor,Excellent,Excellent,6.0,1.2,158.4,OG1 Wood 4UP0,253.79374
+,,134.0,Suburbann,65.0,None,True,Electric,False,True,2022-06-30,White,Lukas,False,Excellent,Excellent,Good,Excellent,6.0,3.6,80.4,Aluminum CKV Window,103.92186
+2.0,3.0,107.0,Rural,20.0,None,,Gas,False,False,2021-06-08,Gray,Lukas,False,Good,Excellent,Excellent,Poor,6.0,1.15,106.0,Steel VU4B9,324.35022
+1.0,1.0,34.0,Rural,,Excellent,,Oil,False,True,2020-08-27,Green,Daniel,False,Good,Excellent,Excellent,Good,30.0,2.4,,AAS Steel 4HZ Window,344.9747
+1.0,2.0,129.0,,43.0,None,False,Electric,False,True,2021-08-22,Yellow,Laura,False,Good,Excellent,Good,Good,6.0,3.49,,7X8N Steel QGAD,364.13997
+,,56.0,Urban,62.0,None,False,Gas,False,False,2023-10-18,Yellow,Daniel,False,Excellent,Good,Excellent,Poor,6.0,1.61,57.0,009MW Steel 9F4DTM,174.42182
+,1.0,8403.0,Suburbann,36.0,Good,False,Oil Heating,True,True,2021-02-02,Yellow,Andreas,False,Good,Good,Excellent,Good,18.0,4.97,,Steel SJX Window,177.4272
+,1.0,108.0,Rural,25.0,None,False,Gas,True,False,2020-08-11,Gray,Roman,False,Good,Poor,Excellent,Good,6.0,2.13,107.0,Steel P37K0CA,308.50126
+1.0,1.0,88.0,Rural,-34.0,None,False,Gas,True,True,2022-01-06,Green,Andreas,False,Good,Poor,Excellent,Poor,6.0,3.44,89.0,Wood FVFIO,269.543
+1.0,,30.0,Suburbann,32.0,None,True,Electricity,True,False,2020-10-07,Green,Laura,False,Good,Poor,Poor,Good,6.0,3.26,,UNKFN Aluminum 2OSV Window,31.43738
+,1.0,46.0,Urban,42.0,Good,False,Electric,False,True,2023-10-30,Yellow,,False,Good,Good,Excellent,Good,18.0,2.44,27.6,Aluminum VS9,120.21745
+1.0,1.0,55.0,,62.0,Excellent,False,Oil,True,True,2020-09-14,White,Martin,False,Poor,Good,Poor,Excellent,30.0,2.92,86.4,CESD Steel X9O2 Window,163.30864
+2.0,2.0,101.0,Urban,,Excellent,False,Gas,True,True,2021-03-16,Gray,Roman,False,Good,Good,Good,Good,30.0,1.47,,1LCZ9 Aluminum 3KEM Window,220.70301
+1.0,,60.0,Suburban,55.0,,False,Electric,False,True,2023-08-04,Gray,Andreas,False,Good,Poor,Poor,Good,6.0,2.51,36.6,Wood FDDK7,81.01431
+2.0,,103.0,Urban,39.0,Excellent,False,Oil,False,True,2020-05-05,Yellow,,False,Good,Excellent,Good,Good,30.0,2.54,,Wood YZ8W,300.86274
+1.0,,55.0,Rural,41.0,None,False,Oil Heating,False,True,2022-09-02,Green,,False,Excellent,Poor,Good,Excellent,6.0,2.72,86.4,Steel HG964 Window,315.37693
+2.0,2.0,94.0,Urban,62.0,None,False,Gas,False,True,2020-10-06,Yellow,Andreas,False,Good,Excellent,Excellent,Good,6.0,3.15,,W1A Steel CQX3W Window,249.5552
+,2.0,89.0,Suburban,,None,False,Electricity,False,True,2023-10-17,Yellow,Florian,False,Good,Poor,Good,Good,6.0,3.31,,Aluminum 26GFM9G,64.97834
+1.0,1.0,24.0,Suburban,46.0,None,False,Oil Heating,False,True,2020-11-24,Yellow,Stefan,False,Good,Good,Excellent,Poor,6.0,4.38,,Wood TVGCB,69.84895
+,2.0,124.0,Urban,46.0,Excellent,False,Gas,False,True,2022-06-02,Yellow,Laura,False,Good,Poor,Poor,Excellent,30.0,2.83,124.0,Steel J5E Window,352.69343
+2.0,,77.0,,36.0,Good,False,Oil,False,True,2023-09-12,Gray,,False,Good,Good,Good,Poor,18.0,1.97,,PSMN9R Aluminum YUYAT,274.71452
+1.0,,6997.0,Urban,54.0,None,,Oil,False,True,2020-07-07,Green,Daniel,False,Excellent,Excellent,Excellent,Excellent,6.0,1.7,211.2,Wood XF47VAI,301.07468
+1.0,,22.0,Rural,68.0,Good,True,Oil,True,True,2023-12-07,Gray,Denis,False,Good,Good,Good,Good,18.0,2.62,35.2,Q6LM8C Steel 5BQ Window,302.3701
+1.0,,58.0,Rural,0.0,,False,Gas,False,True,2021-12-17,Green,,False,Excellent,Good,Good,Poor,18.0,2.06,59.0,Aluminum F6TGD Window,205.05907
+1.0,2.0,-658.0,,54.0,None,False,Electricity,False,True,2020-05-17,Yellow,Daniel,False,Excellent,Excellent,Excellent,Poor,6.0,4.04,,RKSBC0 Steel BJBC Window,313.64935
+,1.0,91.0,,39.0,None,False,Gas,True,True,2023-07-01,Green,Natalie,False,Good,Poor,Good,Good,6.0,1.62,92.0,Steel LLGMFIJ,156.49673
+,,113.0,Rural,4.0,None,False,Electricity,False,True,2020-10-31,White,Martin,False,Poor,Good,Poor,Excellent,6.0,2.75,67.8,Aluminum UTXS88N,198.58693
+1.0,,23.0,Rural,54.0,Excellent,False,Electricity,True,True,2022-11-20,White,Lukas,False,Good,Good,Poor,Good,30.0,3.42,14.4,Steel WHIC Window,322.2097
+1.0,1.0,20.0,Rural,49.0,Good,True,Oil Heating,True,True,2023-08-28,White,Florian,False,Excellent,Poor,Excellent,Good,18.0,3.49,,Aluminum IU1GHZ,163.92609
+4.0,2.0,132.0,Suburbann,56.0,,False,Electric,False,True,2022-08-09,White,Sabrina,False,Poor,Poor,Poor,Poor,6.0,2.6,,Steel UBD,150.93113
+,,39.0,Suburbann,22.0,Excellent,False,Oil Heating,False,True,2023-06-19,Yellow,Andreas,False,Good,Poor,Good,Excellent,30.0,1.96,,Aluminum X4CM,102.00695
+,,143.0,Urban,,None,,Oil,True,True,2024-02-12,Green,Maria,False,Poor,Excellent,Good,Good,6.0,2.75,,Wood ZBEDAK,314.66011
+5.0,,143.0,Rural,54.0,None,True,Oil,False,True,2021-05-23,Green,Natalie,False,Poor,Poor,Excellent,Good,6.0,3.18,225.6,Wood UUQFOJD Window,436.02942
+1.0,,49.0,Suburban,45.0,None,False,Gas,False,True,2020-02-24,White,Laura,False,Poor,Excellent,Excellent,Excellent,6.0,1.43,51.0,AMD Steel 2LTAAD,117.23167
+5.0,,132.0,,,None,False,Electricity,True,True,2022-01-26,Gray,Andreas,False,Good,Good,Good,Good,6.0,1.38,,DY4DRD Steel 4DR6 Window,164.95859
+,,70.0,Rural,63.0,Excellent,True,Oil,False,True,2021-10-08,Yellow,Sabrina,False,Poor,Good,Good,Poor,30.0,2.51,110.4,Aluminum 2XYELWQ,262.51785
+5.0,3.0,131.0,Suburbann,66.0,Good,False,Electricity,False,False,2023-07-04,White,Daniel,False,Poor,Poor,Poor,Good,18.0,3.23,79.2,YV6T Wood SZK7,125.53585
+2.0,5.0,135.0,Suburban,,None,False,Electricity,True,False,2020-03-22,Green,Roman,False,Poor,Excellent,Good,Excellent,6.0,2.33,80.4,5XQQX5Y Wood 8LQ,113.45225
+2.0,2.0,84.0,Suburban,9.0,None,True,Gas,False,True,2024-01-29,Gray,Theresa,False,Good,Excellent,Good,Poor,6.0,1.65,,Wood X1S8,125.40229
+,2.0,103.0,Rural,,Good,True,Oil Heating,True,False,2021-11-16,Yellow,Daniel,False,Good,Good,Poor,Good,18.0,3.67,166.4,GMOWY Aluminum MPK Window,255.58817
+,1.0,98.0,Rural,43.0,None,False,Oil,False,True,2020-02-19,White,Theresa,False,Poor,Excellent,Poor,Poor,6.0,2.32,,GD4EAJ Wood UMSEQ,298.814
+1.0,,19.0,Urban,57.0,Good,False,Electricity,False,True,2024-01-13,Green,,False,Excellent,Good,Good,Good,18.0,3.31,,Aluminum X2HG8H1 Window,92.02763
+1.0,1.0,148.0,Suburbann,67.0,Poor,False,Oil Heating,True,True,2022-06-25,Gray,Lukas,False,Good,Good,Good,Good,13.0,2.18,236.8,CV9 Wood XYI8H6 Window,197.56165
+5.0,3.0,138.0,Rural,35.0,Poor,False,Gas,False,True,2023-10-11,,Natalie,False,Excellent,Poor,Good,Excellent,13.0,3.26,139.0,U52M3Z Aluminum LWCEQJH,357.31737
+,2.0,136.0,Rural,55.0,Good,False,Gas,True,False,2023-04-24,Gray,Daniel,False,Excellent,Good,Excellent,Excellent,18.0,2.62,,Aluminum YZAQN1,310.68581
+1.0,,56.0,Urban,67.0,,False,Electric,True,True,2021-10-16,Yellow,Roman,False,Good,Poor,Good,Excellent,6.0,2.96,33.0,Wood X1CW3,138.71236
+2.0,2.0,104.0,Rural,51.0,None,True,Oil Heating,False,True,2023-04-15,Gray,,False,Good,Excellent,Good,Good,6.0,1.98,,6E0X Steel RT0HCT1,438.77479
+1.0,,107.0,Rural,59.0,Good,False,Electricity,True,True,2022-04-25,Green,Stefan,False,Good,Poor,Excellent,Good,18.0,3.07,,Wood QNG8J Window,321.40182
+2.0,3.0,108.0,Suburban,20.0,None,True,Electricity,False,False,2022-12-28,White,,False,Good,Good,Good,Excellent,6.0,3.23,,Wood OGW Window,106.63107
+,,140.0,,26.0,Good,True,Electric,False,True,2021-01-30,Green,Maria,False,Excellent,Good,Excellent,Excellent,18.0,2.77,,J33M Wood G6LJ5AV Window,172.89109
+1.0,1.0,-727.0,Rural,27.0,,False,Oil Heating,True,True,2020-10-28,Gray,,False,Poor,Good,Good,Good,6.0,1.37,,M60K Steel V8N,260.3479
+1.0,,138.0,Urban,56.0,None,,Oil Heating,False,True,2023-09-05,Gray,Johanna,False,Excellent,Poor,Excellent,Good,6.0,2.25,,Aluminum P1J5P1 Window,256.6199
+,1.0,87.0,Rural,,None,False,Gas,False,True,2024-02-24,Green,Denis,False,Poor,Poor,Excellent,Good,6.0,3.4,86.0,2TBTA2M Wood EK2,236.34511
+3.0,,112.0,,55.0,Good,False,Electricity,True,True,2024-03-21,Gray,Natalie,False,Excellent,Poor,Good,Poor,18.0,1.39,,Steel FDZYOG,304.12634
+1.0,1.0,123.0,,46.0,None,True,Gas,False,True,2021-08-11,Green,Lukas,False,Excellent,Good,Good,Excellent,6.0,3.3,123.0,Aluminum IBA7 Window,181.47853
+1.0,3.0,126.0,Rural,51.0,Good,,Oil,False,False,2022-05-23,Gray,Daniel,False,Poor,Good,Poor,Excellent,18.0,2.38,,R7R1LO Aluminum R3AETD,298.99568
+,,74.0,Rural,71.0,None,False,Gas,False,True,2022-02-03,Yellow,Laura,False,Excellent,Excellent,Poor,Poor,6.0,2.43,,RUW5N Wood QR2LNU5,232.17781
+1.0,2.0,111.0,,65.0,,False,Oil Heating,True,True,2023-02-07,Gray,Roman,False,Excellent,Good,Good,Poor,6.0,2.39,,G96FNV3 Wood MVJJCB9,369.35174
+,2.0,90.0,,-64.0,Poor,False,Electric,False,False,2022-03-16,Yellow,Sabrina,False,Good,Good,Excellent,Excellent,13.0,1.84,,Steel 3ZW9N,306.56834
+2.0,,138.0,Suburbann,71.0,Excellent,True,Electric,False,True,2020-10-15,Green,Lukas,False,Good,Good,Excellent,Excellent,30.0,2.24,82.8,Steel IRJLZ6,205.56615
+1.0,1.0,75.0,,48.0,None,False,Oil Heating,True,True,2021-01-07,Gray,Lukas,False,Good,Excellent,Excellent,Poor,6.0,1.61,121.6,Wood CHJUZL,124.02127
+,1.0,24.0,Suburbann,65.0,None,False,Electric,True,True,2020-03-04,Yellow,Sandra,False,Good,Good,Poor,Excellent,6.0,2.12,,Aluminum ZGA Window,34.24193
+1.0,1.0,88.0,Urban,9.0,None,True,Gas,False,True,2022-03-15,Green,,False,Good,Good,Excellent,Good,6.0,2.91,,Aluminum SE91D,147.91502
+1.0,,48.0,Rural,19.0,,False,Oil Heating,True,True,2020-01-05,Gray,Stefan,False,Excellent,Poor,Good,Excellent,6.0,2.0,,Wood VEP Window,238.47084
+,1.0,54.0,,62.0,None,False,Oil Heating,True,False,2024-02-17,White,Johanna,False,Good,Good,Good,Good,6.0,1.9,,Steel 7511O Window,275.49357
+,,49.0,Suburban,14.0,None,True,Oil,True,True,2021-05-16,Green,Daniel,False,Poor,Poor,Good,Good,6.0,1.8,81.6,Wood 4FH2J Window,99.21635
+,,69.0,Rural,59.0,Good,,Electric,False,False,2020-01-16,Yellow,Sandra,False,Good,Poor,Good,Poor,18.0,2.87,,Wood YCDVQ Window,182.83485
+2.0,1.0,60.0,,57.0,None,True,Electricity,True,True,2021-01-23,Yellow,Andreas,False,Good,Excellent,Excellent,Good,6.0,4.57,36.0,OV0SVZR Aluminum JG0X,108.57208
+5.0,,143.0,Rural,53.0,Good,False,Electricity,False,False,2024-01-05,Yellow,Theresa,False,Good,Good,Good,Excellent,18.0,3.98,,Aluminum VG3 Window,283.15881
+,2.0,84.0,Urban,55.0,,False,Oil Heating,False,True,2023-05-28,White,,False,Good,Excellent,Poor,Good,18.0,3.21,,Wood 281,251.62249
+,,48.0,Rural,53.0,Excellent,False,Electricity,False,True,2023-09-26,Gray,Florian,False,Poor,Poor,Good,Excellent,30.0,3.06,,Aluminum IYJG,195.15144
+1.0,1.0,28.0,Rural,58.0,Good,False,Gas,False,False,2021-08-06,Green,Stefan,False,Excellent,Good,Good,Excellent,18.0,3.0,27.0,NHA3A5 Steel BA3X8Z,239.249
+1.0,,63.0,Urban,43.0,Good,,Electricity,False,True,2021-08-28,Yellow,Sandra,False,Poor,Poor,Good,Good,18.0,3.21,,Aluminum MHG,112.60657
+,3.0,111.0,,50.0,None,False,Electric,True,True,2020-11-18,White,Martin,False,Good,Poor,Poor,Poor,6.0,3.32,66.0,Aluminum ZA8OX Window,83.93666
+,,96.0,Urban,,Good,,Gas,True,True,2020-08-02,Gray,Laura,False,Good,Poor,Excellent,Good,18.0,1.78,,Steel YBQX Window,273.04537
+,,88.0,Urban,,None,False,Gas,False,False,2023-01-01,Green,,False,Good,Excellent,Good,Excellent,6.0,3.43,,YZM85F Steel EEH8 Window,204.64068
+2.0,2.0,109.0,Urban,61.0,None,False,Electricity,True,True,2022-12-21,Gray,Laura,False,Good,Excellent,Good,Good,6.0,1.25,65.4,NLHE Steel 671NBC4 Window,261.48013
+1.0,2.0,109.0,Suburban,58.0,Good,False,Oil,False,True,2022-11-05,Yellow,Natalie,False,Good,Poor,Good,Good,18.0,4.43,,Steel JYH8UZH,199.2974
+5.0,5.0,141.0,Rural,35.0,None,False,Oil,False,True,2021-03-05,Gray,Denis,False,Good,Excellent,Good,Poor,6.0,1.01,,4ZW8 Aluminum W7R2IWW Window,386.099
+1.0,1.0,42.0,,55.0,Excellent,True,Gas,False,False,2023-05-18,White,Johanna,False,Good,Good,Good,Poor,30.0,1.8,41.0,NA7I9L Aluminum Z6IBZZ,70.74257
+2.0,2.0,122.0,Rural,46.0,Good,False,Oil,True,True,2021-02-25,White,,False,Good,Good,Poor,Poor,18.0,2.52,195.2,F0LKHM Wood L27CK Window,421.08151
+3.0,2.0,126.0,Urban,70.0,Good,False,Gas,False,False,2023-11-06,White,Daniel,False,Good,Poor,Excellent,Poor,18.0,2.26,127.0,Aluminum 8HKAWD,185.02238
+1.0,,139.0,Urban,33.0,Excellent,False,Gas,False,True,2020-10-31,Green,Stefan,False,Excellent,Good,Good,Excellent,30.0,2.28,140.0,Aluminum ESNEOG,278.17436
+1.0,1.0,45.0,Urban,4.0,None,True,Gas,False,False,2024-03-24,Yellow,Stefan,False,Excellent,Poor,Excellent,Poor,6.0,3.2,,Wood AI8,129.26516
+1.0,2.0,145.0,Suburbann,38.0,Good,False,Oil Heating,True,True,2020-01-22,,Lukas,False,Poor,Excellent,Good,Good,18.0,2.41,,2AB Steel Q3WNZ Window,229.8035
+,,88.0,Urban,64.0,None,False,Electricity,False,False,2021-07-24,Yellow,Martin,False,Good,Poor,Good,Excellent,6.0,2.91,52.8,MLG Wood KJCPH,134.34869
+1.0,1.0,53.0,Urban,,None,,Oil,True,True,2023-12-17,Yellow,Sabrina,False,Good,Good,Good,Good,6.0,2.26,83.2,Steel TSMOVV,217.89522
+1.0,2.0,82.0,Urban,70.0,Excellent,True,Oil Heating,False,True,2022-04-22,White,Florian,False,Poor,Poor,Poor,Good,30.0,1.34,,Wood 15KHJEV,254.54426
+1.0,,30.0,Rural,31.0,Poor,False,Electricity,True,True,2021-03-26,Gray,Denis,False,Excellent,Poor,Good,Good,13.0,2.16,18.0,Steel AQEVG64 Window,269.06631
+2.0,1.0,96.0,Urban,45.0,Poor,False,Oil Heating,True,True,2023-08-05,Green,Maria,False,Poor,Good,Good,Poor,13.0,2.01,155.2,Steel TDIBZ5 Window,312.75705
+,1.0,57.0,,31.0,Excellent,True,Oil,True,True,2022-01-18,Yellow,Denis,False,Poor,Good,Excellent,Good,30.0,3.7,92.8,Wood 5V1X51 Window,351.51918
+3.0,3.0,122.0,,45.0,,False,Oil,False,True,2020-04-23,Gray,Florian,False,Good,Good,Poor,Excellent,13.0,2.51,,Aluminum BLLB26 Window,239.88802
+1.0,1.0,132.0,Urban,31.0,None,False,Oil Heating,False,True,2023-04-23,Green,Johanna,False,Good,Good,Good,Good,6.0,2.06,,FVH3FQ8 Steel Y07SN,344.53039
+1.0,1.0,17.0,,19.0,Poor,False,Gas,False,True,2021-10-08,White,Martin,False,Poor,Poor,Excellent,Excellent,13.0,2.43,,GQZSOAO Aluminum 71O2Q5,48.62686
+2.0,,102.0,Suburban,58.0,Poor,False,Oil Heating,False,True,2023-05-30,Gray,Roman,False,Good,Good,Excellent,Good,13.0,2.87,163.2,Aluminum 5TY,134.72719
+1.0,,26.0,Urban,54.0,Good,False,Electric,False,True,2021-04-07,White,Sabrina,False,Excellent,Good,Excellent,Excellent,18.0,1.98,15.6,6M0L5A Wood Y9F2 Window,153.21907
+,,23.0,Rural,47.0,Excellent,False,Gas,False,False,2023-07-13,White,Stefan,False,Good,Good,Poor,Excellent,30.0,3.74,,Steel HGAXII8,273.01928
+,1.0,35.0,Rural,58.0,Good,False,Electric,False,True,2022-08-02,Gray,Denis,False,Excellent,Poor,Poor,Excellent,18.0,1.65,,Steel XNC6GN Window,279.22659
+1.0,1.0,87.0,Rural,,Excellent,False,Electricity,True,True,2022-07-28,White,Sabrina,False,Good,Good,Good,Poor,30.0,1.95,51.6,Aluminum S5THNA,240.66786
+1.0,1.0,53.0,,53.0,Good,False,Electricity,True,True,2023-01-12,Gray,Laura,False,Poor,Good,Poor,Excellent,18.0,2.49,30.6,Aluminum 7JGCB6,119.73483
+1.0,1.0,98.0,Rural,42.0,Excellent,False,Gas,False,False,2020-06-06,Green,,False,Excellent,Good,Good,Good,30.0,2.66,,T4XSJ5G Aluminum LOMH9,241.31969
+,1.0,124.0,Suburbann,68.0,None,False,Electric,False,True,2021-01-18,Gray,Maria,False,Good,Good,Excellent,Poor,6.0,1.4,73.8,Steel AS1,140.86082
+,,38.0,Urban,17.0,None,False,Oil Heating,True,True,2024-01-24,White,Lukas,False,Excellent,Good,Good,Good,6.0,3.69,,Aluminum H2VU,119.61962
+3.0,3.0,103.0,,66.0,None,False,Oil Heating,True,False,2024-03-04,White,Lukas,False,Good,Excellent,Poor,Excellent,6.0,2.23,,QHOAWZ Aluminum N9J7 Window,265.45853
+,,43.0,Rural,36.0,Good,,Gas,False,True,2022-07-24,Green,Sabrina,False,Poor,Excellent,Good,Excellent,18.0,1.69,43.0,XDB44H Aluminum 51V Window,176.45573
+,3.0,112.0,Suburban,-69.0,Good,False,Oil,False,True,2021-09-11,White,Daniel,False,Poor,Good,Excellent,Good,18.0,3.14,179.2,Steel LVGVD3C,211.94804
+,5.0,142.0,Suburbann,52.0,,True,Gas,False,True,2022-06-18,Gray,,False,Poor,Poor,Good,Excellent,13.0,1.59,,Aluminum 9FMP5,141.36646
+,,65.0,Suburbann,,None,True,Gas,False,False,2023-09-19,Yellow,Roman,False,Good,Excellent,Good,Excellent,6.0,4.94,,Steel R3X2W1 Window,113.84749
+,,117.0,Urban,33.0,None,True,Gas,False,False,2020-12-27,White,Maria,False,Poor,Poor,Poor,Poor,6.0,2.58,117.0,TX8S Steel VNSRP,205.18032
+1.0,,20.0,,69.0,None,True,Gas,True,True,2023-02-02,Gray,Denis,False,Excellent,Poor,Good,Good,6.0,2.61,21.0,36Y Steel UQVLE Window,234.90466
+,1.0,44.0,,58.0,None,False,Oil Heating,False,True,2020-08-11,Yellow,Natalie,False,Good,Good,Good,Poor,6.0,2.43,,Wood BMJL8,188.65844
+3.0,2.0,122.0,,23.0,None,False,Electric,False,True,2020-02-12,Gray,Sabrina,False,Good,Good,Good,Good,6.0,1.06,,Z4V Wood Z3ZFLM Window,205.66026
+1.0,1.0,78.0,Suburban,68.0,Excellent,False,Oil Heating,False,True,2022-01-17,Gray,Denis,False,Good,Good,Good,Excellent,30.0,2.82,,Steel TRAF Window,189.32537
+1.0,,57.0,Suburbann,34.0,None,False,Oil Heating,True,False,2021-05-19,White,Roman,False,Good,Good,Excellent,Excellent,6.0,1.55,89.6,9OX6240 Wood L3Q Window,94.79831
+1.0,1.0,62.0,Urban,22.0,None,False,Oil Heating,False,True,2023-01-12,Gray,Martin,False,Good,Good,Good,Excellent,6.0,2.79,,Wood LWNL,192.86668
+,1.0,68.0,Urban,31.0,None,False,Gas,True,True,2022-09-23,Yellow,Theresa,False,Excellent,Good,Poor,Poor,6.0,1.71,67.0,Steel GXUU Window,228.47969
+1.0,3.0,106.0,Rural,36.0,None,True,Oil,False,False,2022-05-04,Yellow,Sandra,False,Poor,Good,Poor,Good,6.0,4.73,,Steel ZC9AA,343.55746
+,,149.0,Urban,60.0,,True,Gas,False,True,2020-09-03,White,Stefan,False,Poor,Excellent,Good,Good,6.0,3.51,,JGWGBJ0 Aluminum KKJ620 Window,212.70892
+3.0,3.0,105.0,Suburbann,35.0,,False,Oil,True,True,2021-02-24,White,Stefan,False,Good,Poor,Poor,Good,13.0,3.05,166.4,Wood W5C Window,162.44479
+1.0,2.0,107.0,Rural,,Good,False,Oil,False,True,2023-11-10,Gray,Roman,False,Excellent,Good,Poor,Excellent,18.0,1.25,171.2,Steel 241 Window,479.65941
+2.0,,71.0,Urban,52.0,Excellent,False,Gas,False,True,2021-09-15,White,Martin,False,Good,Good,Good,Good,30.0,2.09,71.0,Aluminum OUR Window,184.34639
+4.0,5.0,146.0,Rural,38.0,None,False,Electric,False,True,2023-09-02,Yellow,,False,Good,Good,Poor,Good,6.0,4.18,87.0,Aluminum U6QOP,281.88428
+1.0,,46.0,Rural,33.0,Poor,True,Oil Heating,False,False,2024-03-20,Yellow,Johanna,False,Good,Good,Poor,Good,13.0,4.6,,Wood 1JQG6 Window,208.14683
+1.0,,53.0,Urban,54.0,Good,True,Gas,True,False,2023-05-09,Green,Roman,False,Good,Poor,Good,Good,18.0,1.61,,I5TCFG Wood KW4,157.96696
+,3.0,137.0,Urban,10.0,Good,False,Oil,False,True,2022-06-06,Green,Sabrina,False,Excellent,Good,Poor,Good,18.0,3.39,217.6,Steel NLOQQJY,407.1443
+3.0,3.0,108.0,,6.0,None,True,Electric,False,True,2023-05-05,Gray,Natalie,False,Excellent,Good,Excellent,Good,6.0,2.44,65.4,Aluminum B55JUU Window,249.23883
+3.0,,136.0,,32.0,Good,False,Oil Heating,True,True,2021-01-04,Gray,Sabrina,False,Good,Poor,Excellent,Poor,18.0,2.45,,2IT Steel 85T4 Window,398.00244
+1.0,1.0,46.0,Urban,61.0,Good,True,Gas,True,True,2021-02-24,Gray,Sabrina,False,Excellent,Good,Poor,Excellent,18.0,1.83,45.0,TKTEA5 Aluminum F8LS,127.21809
+,1.0,50.0,Urban,53.0,Poor,False,Gas,False,True,2021-11-07,White,,False,Good,Good,Good,Good,13.0,2.41,50.0,GNYMKN Wood 0LZ Window,155.81411
+3.0,1.0,127.0,,50.0,None,False,Oil,True,True,2022-07-03,Green,Johanna,False,Good,Good,Excellent,Good,6.0,2.24,,Aluminum LQQWQFG Window,345.07634
+2.0,,97.0,Suburbann,45.0,,True,Electric,False,True,2020-05-27,Yellow,Maria,False,Excellent,Poor,Excellent,Good,30.0,4.3,,Aluminum IKD,112.87251
+,,107.0,Suburban,8.0,Poor,False,Electricity,True,False,2024-03-17,Green,Denis,False,Excellent,Good,Excellent,Excellent,13.0,3.38,64.2,Aluminum EZORX Window,103.70569
+,2.0,123.0,Urban,43.0,None,True,Oil Heating,False,True,2023-06-08,Yellow,Denis,False,Good,Good,Excellent,Excellent,6.0,4.32,,Wood CS3ZL,299.83383
+,3.0,106.0,Suburbann,13.0,None,False,Oil Heating,True,False,2022-03-31,Green,Maria,False,Excellent,Good,Poor,Poor,6.0,3.38,5833.0,VTUCU Wood E4C Window,138.80494
+,2.0,106.0,,67.0,None,False,Oil Heating,False,True,2023-02-06,Gray,Denis,False,Excellent,Poor,Good,Excellent,6.0,2.61,169.6,F9ZSML Steel 2CS Window,438.30218
+,2.0,69.0,,49.0,None,True,Oil,False,False,2023-07-26,Gray,Sabrina,False,Good,Good,Good,Excellent,6.0,2.74,112.0,Steel 8MGSEAA,305.19865
+1.0,3.0,128.0,,49.0,Good,True,Oil Heating,False,True,2020-09-20,Gray,Andreas,False,Poor,Good,Good,Good,18.0,1.48,203.2,2CFWPC Aluminum DU36CO Window,248.73593
+1.0,,38.0,Rural,57.0,Good,False,Oil Heating,True,False,2021-02-28,Yellow,Johanna,False,Good,Excellent,Good,Good,18.0,2.54,59.2,Steel RENEWPH,270.83225
+1.0,2.0,74.0,,57.0,None,False,Gas,False,True,2023-05-20,Yellow,Sabrina,False,Good,Excellent,Excellent,Excellent,6.0,4.91,,CN3O Steel XIWFVBL,243.21791
+1.0,1.0,24.0,Rural,56.0,None,False,Oil,True,True,2021-06-30,White,Laura,False,Poor,Good,Good,Good,6.0,1.75,38.4,4XCP Aluminum 2NMGXV,98.25825
+,3.0,109.0,,57.0,None,False,Oil,False,True,2020-12-29,Green,,False,Poor,Good,Good,Excellent,6.0,3.16,,Aluminum CYD Window,198.86066
+2.0,2.0,95.0,Suburbann,37.0,None,True,Gas,False,True,2024-01-09,Green,Sandra,False,Poor,Poor,Good,Excellent,6.0,1.62,95.0,Steel BTB9K Window,156.45879
+,2.0,122.0,Urban,23.0,None,True,Gas,False,True,2022-08-28,White,Florian,False,Poor,Good,Excellent,Good,6.0,2.19,121.0,Steel K9M8GVG,287.8237
+1.0,1.0,78.0,Urban,56.0,None,False,Gas,False,False,2020-02-23,,Lukas,False,Excellent,Poor,Poor,Good,6.0,1.51,78.0,7FA Aluminum 0MO2EPH,89.2513
+1.0,,23.0,Suburban,,,False,Oil,False,False,2021-03-16,White,Stefan,False,Excellent,Poor,Good,Good,13.0,3.04,36.8,MXA5WP Wood G06RSY Window,61.92446
+,2.0,83.0,Suburbann,70.0,Good,False,Gas,False,True,2020-08-17,Green,Stefan,False,Poor,Poor,Poor,Good,18.0,2.66,,Wood CDX,110.94256
+1.0,1.0,21.0,Suburbann,45.0,None,False,Gas,True,True,2024-02-10,Gray,Stefan,False,Excellent,Good,Good,Poor,6.0,2.65,,MQAU Wood TSL Window,74.33539
+2.0,,127.0,Suburban,60.0,Poor,False,Electric,True,False,2022-01-19,Gray,Natalie,False,Good,Excellent,Good,Excellent,13.0,2.89,76.8,2G6I Steel WZQHG0N Window,148.41582
+1.0,3.0,140.0,,43.0,None,False,Gas,True,True,2020-04-09,White,,False,Poor,Excellent,Good,Good,6.0,2.46,140.0,MUUE40 Aluminum 867C,204.15507
+2.0,,99.0,,58.0,Excellent,False,Electricity,True,True,2024-03-12,Yellow,,False,Excellent,Good,Excellent,Poor,30.0,4.89,,Wood ZKI Window,387.25592
+,1.0,120.0,Urban,38.0,None,False,Gas,False,True,2020-09-08,White,Lukas,False,Good,Good,Poor,Poor,6.0,3.3,120.0,Q8H7O Steel MTO0 Window,262.25759
+1.0,2.0,64.0,Rural,53.0,None,False,Electricity,False,False,2022-07-21,Green,Daniel,False,Excellent,Good,Poor,Poor,6.0,3.12,38.4,KHR8L Steel YSY,224.47509
+,2.0,116.0,,,None,,Electric,False,False,2020-11-10,Yellow,Andreas,False,Good,Excellent,Good,Poor,6.0,1.36,,N6TZ Wood OLI3BE,215.52602
+,,136.0,Urban,65.0,None,False,Oil,True,True,2022-06-06,White,Maria,False,Good,Good,Good,Excellent,6.0,3.62,,Aluminum 2RAHAZG,5041.2354
+1.0,1.0,75.0,Rural,,Good,True,Oil Heating,False,False,2022-07-25,Yellow,Theresa,False,Excellent,Poor,Poor,Poor,18.0,3.65,120.0,Aluminum DNBF Window,184.88418
+2.0,1.0,96.0,Suburban,35.0,Good,True,Oil Heating,True,True,2022-10-02,Yellow,Martin,False,Excellent,Good,Good,Excellent,18.0,2.04,152.0,Steel SWO37CZ,207.61833
+2.0,2.0,117.0,Suburbann,35.0,None,False,Oil Heating,True,True,2022-10-02,Yellow,Sabrina,False,Excellent,Poor,Excellent,Excellent,6.0,3.54,,9PDV Wood 3XC,176.95716
+,2.0,66.0,,48.0,Poor,False,Oil Heating,False,True,2020-08-08,Gray,Natalie,False,Good,Excellent,Good,Excellent,13.0,2.44,8292.0,F13FT8 Steel ZVA2Z,362.60975
+1.0,,73.0,Rural,61.0,None,False,Electricity,False,True,2022-09-18,Yellow,Florian,False,Poor,Poor,Good,Poor,6.0,3.94,45.0,Aluminum YFJOK Window,119.37698
+1.0,3.0,124.0,Rural,45.0,,False,Gas,False,True,2020-03-08,White,Stefan,False,Good,Good,Excellent,Good,6.0,2.87,,7W0H Steel 15RZT Window,388.23637
+1.0,1.0,50.0,Suburbann,69.0,Good,False,Gas,True,True,2022-06-25,White,Sandra,False,Excellent,Excellent,Poor,Good,18.0,2.56,50.0,Steel 2TW,143.14671
+1.0,,46.0,Suburbann,39.0,None,True,Electricity,True,True,2020-09-13,White,Johanna,False,Good,Good,Excellent,Good,6.0,3.02,27.6,429U Aluminum 82Q5 Window,54.14585
+1.0,1.0,66.0,Suburban,,Poor,False,Electric,False,True,2022-03-07,Gray,Martin,False,Excellent,Poor,Good,Excellent,13.0,1.63,39.6,VO6O Steel 1P0VN6,126.37749
+,1.0,74.0,Urban,69.0,None,False,Electric,True,False,2023-02-14,Yellow,Sabrina,False,Good,Good,Excellent,Good,6.0,2.65,,7M9BR Steel 4W06Q41 Window,182.69432
+2.0,2.0,60.0,Rural,28.0,None,False,Electric,True,False,2021-04-22,Yellow,Johanna,False,Good,Excellent,Good,Good,6.0,1.3,,BHXS Wood NUFD0Z,195.30491
+2.0,1.0,74.0,Rural,61.0,,False,Oil Heating,False,False,2023-12-04,Gray,Martin,False,Excellent,Poor,Good,Poor,18.0,1.19,,Wood AJ2B02 Window,270.64079
+,,44.0,Rural,47.0,Good,False,Oil,False,True,2022-12-25,Yellow,Sabrina,False,Poor,Excellent,Excellent,Excellent,18.0,4.7,73.6,L7JS Steel 7BGX4JW,356.032
+1.0,3.0,114.0,,71.0,None,False,Gas,False,True,2022-07-15,Yellow,Lukas,False,Poor,Excellent,Poor,Poor,6.0,4.02,111.0,Steel BB5D6P Window,152.99477
+1.0,3.0,117.0,Suburban,40.0,,False,Oil,False,True,2020-11-25,White,Stefan,False,Excellent,Poor,Excellent,Good,6.0,3.14,,T0701MV Wood 3PTP84,159.37873
+,1.0,57.0,Urban,56.0,None,True,Oil Heating,False,False,2020-09-03,Yellow,Martin,False,Excellent,Poor,Excellent,Excellent,6.0,4.25,,Aluminum OQ4H Window,100.78649
+2.0,1.0,65.0,Rural,62.0,Good,False,Oil Heating,False,True,2020-12-31,Green,,False,Good,Good,Excellent,Excellent,18.0,3.31,,Aluminum CW98VO,235.793
+2.0,2.0,66.0,Suburbann,0.0,Excellent,False,Gas,True,True,2022-10-15,Yellow,Roman,False,Good,Good,Poor,Good,30.0,4.63,,Steel ISBCS1,184.94654
+,,100.0,Rural,13.0,None,True,Electricity,True,True,2021-12-23,Yellow,Laura,False,Good,Excellent,Good,Good,6.0,1.2,60.6,Steel W9DSP1,379.59629
+,1.0,76.0,,53.0,None,False,Gas,False,True,2023-10-30,Green,Sabrina,False,Poor,Poor,Good,Good,6.0,2.04,75.0,UJVH Steel 4IW,6050.5916
+,1.0,37.0,Rural,46.0,None,True,Electric,False,False,2020-03-23,White,Roman,False,Excellent,Good,Poor,Poor,6.0,2.96,,Steel POXGL9 Window,180.89956
+,,139.0,Urban,68.0,None,False,Oil Heating,False,True,2023-04-19,White,Lukas,False,Poor,Poor,Poor,Good,6.0,3.61,220.8,Wood F40MGWB,304.82575
+,2.0,96.0,Urban,55.0,,False,Oil Heating,False,False,2023-08-17,White,Roman,False,Excellent,Good,Good,Good,18.0,1.53,,UPLL Aluminum QYNJ Window,192.62001
+,2.0,82.0,Suburban,25.0,,True,Gas,False,True,2022-01-06,White,Natalie,False,Poor,Excellent,Excellent,Good,6.0,2.14,82.0,JVS9BQ Aluminum YEG3D Window,85.17434
+2.0,2.0,67.0,Suburbann,57.0,,False,Gas,True,False,2020-04-24,Gray,Denis,False,Good,Poor,Excellent,Excellent,6.0,2.66,,Steel BJ47,112.07211
+1.0,2.0,89.0,,37.0,None,False,Oil,False,False,2024-01-25,Yellow,,False,Good,Excellent,Poor,Excellent,6.0,4.52,142.4,CAE Wood GWMP43,280.15361
+1.0,1.0,61.0,,44.0,None,False,Electricity,True,True,2022-02-06,Yellow,Maria,False,Excellent,Good,Good,Good,6.0,1.88,36.0,SZD4RD1 Steel AGKT,289.75282
+,,72.0,Suburbann,41.0,Poor,False,Oil,False,True,2023-07-23,Green,Stefan,False,Good,Good,Excellent,Poor,13.0,2.79,113.6,5KO Wood UHVBL74 Window,135.53767
+2.0,2.0,86.0,,57.0,Poor,False,Gas,True,True,2022-01-11,Green,Theresa,False,Excellent,Good,Poor,Good,13.0,2.14,,Wood XHBP Window,129.49421
+1.0,,53.0,,22.0,None,False,Gas,True,True,2020-02-06,Green,Theresa,False,Good,Excellent,Poor,Good,6.0,1.78,52.0,Wood VLB2UJA,214.66588
+,2.0,134.0,Rural,28.0,None,False,Electricity,True,True,2021-03-15,Yellow,Maria,False,Poor,Poor,Good,Poor,6.0,2.85,81.0,Aluminum ATYS3R,224.73779
+1.0,1.0,49.0,Urban,7.0,None,False,Oil,True,True,2021-04-13,White,Natalie,False,Excellent,Excellent,Excellent,Excellent,6.0,1.89,78.4,ITM Wood C1AYY7 Window,197.932
+1.0,1.0,95.0,Urban,,None,,Gas,False,True,2021-10-08,White,Natalie,False,Excellent,Good,Poor,Good,6.0,2.24,,NIM277A Wood H8EHD Window,178.29389
+,1.0,120.0,Urban,29.0,None,False,Electric,False,True,2022-11-10,Green,Laura,False,Excellent,Good,Good,Excellent,6.0,2.71,,OI6U8ER Wood 84XFVP8 Window,217.6485
+1.0,,18.0,Rural,33.0,Good,False,Electricity,False,True,2021-09-29,White,Sabrina,False,Good,Poor,Poor,Good,18.0,1.74,,ME5 Aluminum TGK9 Window,107.22524
+,1.0,23.0,Urban,25.0,None,False,Oil Heating,False,True,2022-04-11,Green,Andreas,False,Good,Poor,Poor,Good,6.0,1.93,,Aluminum 44R258,59.36197
+1.0,,67.0,Rural,38.0,None,False,Oil Heating,False,True,2022-02-09,White,Stefan,False,Poor,Poor,Poor,Excellent,6.0,1.32,107.2,Steel IVCKG,315.61711
+1.0,3.0,105.0,Suburbann,41.0,None,False,Gas,True,False,2022-03-02,Green,Roman,False,Excellent,Good,Good,Poor,6.0,3.08,105.0,Steel ZAN Window,138.48531
+1.0,,41.0,Suburbann,61.0,Good,False,Gas,False,True,2021-07-01,White,,False,Good,Excellent,Excellent,Poor,18.0,2.89,42.0,3TMA Steel K40AU,2578.1786
+2.0,,93.0,Rural,56.0,Good,False,Oil,False,True,2023-05-07,Green,Sabrina,False,Good,Good,Poor,Excellent,18.0,3.38,,R131KO Wood 4SU Window,372.50135
+3.0,3.0,108.0,Rural,57.0,,False,Oil,False,True,2024-03-20,Yellow,,False,Good,Good,Good,Poor,6.0,4.21,169.6,Aluminum EC3K770,293.23744
+,5.0,140.0,Urban,39.0,None,False,Gas,True,True,2023-12-20,Yellow,Martin,False,Poor,Excellent,Excellent,Excellent,6.0,3.25,,Steel SXFXOF Window,366.54242
+,,106.0,Suburbann,47.0,Poor,False,Electricity,True,True,2021-10-22,Yellow,Natalie,False,Excellent,Good,Poor,Good,13.0,3.5,64.2,U8TV0 Aluminum 3RGPX,105.50857
+1.0,,73.0,Urban,,None,False,Gas,True,True,2021-09-01,White,Martin,False,Poor,Excellent,Good,Good,6.0,2.68,72.0,C2K Steel JIK Window,218.00458
+1.0,1.0,29.0,Rural,50.0,Good,True,Oil,True,True,2020-04-09,White,Martin,False,Poor,Excellent,Excellent,Good,18.0,2.33,48.0,DMMOT6 Aluminum E9HN8,169.95885
+,1.0,95.0,Rural,56.0,None,False,Oil,True,True,2023-11-10,Gray,Sandra,False,Good,Excellent,Excellent,Excellent,6.0,2.89,152.0,Aluminum BY9 Window,290.44639
+,,138.0,Urban,8.0,None,False,Electricity,True,True,2020-04-22,Yellow,Roman,False,Poor,Excellent,Excellent,Poor,6.0,3.76,,Wood J8LTYQ,234.9889
+1.0,1.0,59.0,Rural,61.0,Good,False,Electricity,True,True,2023-03-06,Yellow,Andreas,False,Good,Good,Excellent,Good,18.0,3.44,,Aluminum EK0AL0Y Window,191.80679
+,1.0,77.0,Suburban,55.0,Excellent,False,Oil,False,True,2022-08-09,Yellow,,False,Good,Good,Good,Excellent,30.0,4.59,,Steel GUD7E3,195.20114
+1.0,,5842.0,Suburban,,None,False,Electricity,False,True,2020-03-31,Yellow,,False,Poor,Poor,Good,Good,6.0,3.9,52.2,Steel 9L8 Window,113.91137
+,,136.0,Rural,-1.0,Good,False,Electric,False,False,2020-10-05,White,Natalie,False,Poor,Excellent,Good,Excellent,18.0,3.31,81.0,Steel OBHHNOT Window,371.3967
+1.0,1.0,90.0,Rural,48.0,None,False,Oil,True,True,2020-07-28,Gray,,False,Good,Excellent,Good,Excellent,6.0,1.97,,FM4057 Aluminum NB4,254.27683
+,,133.0,Urban,47.0,Good,True,Gas,True,True,2022-12-02,White,Lukas,False,Excellent,Poor,Good,Poor,18.0,2.96,132.0,JB491 Aluminum JVSSI8R,254.76061
+1.0,1.0,37.0,Suburban,51.0,None,,Oil,False,True,2020-01-08,Gray,Florian,False,Good,Poor,Excellent,Good,6.0,1.9,,Aluminum Y30,47.92356
+,,90.0,,35.0,,False,Oil,False,True,2023-06-30,Green,Florian,False,Good,Excellent,Good,Good,18.0,1.72,,Steel 5JM,321.44973
+1.0,1.0,26.0,Suburban,53.0,None,False,Gas,False,True,2020-12-31,Green,Sandra,False,Good,Good,Excellent,Good,6.0,2.45,,ZPEJDKI Wood NTUG2Q Window,68.82897
+1.0,1.0,98.0,Urban,65.0,Excellent,False,Electric,False,True,2020-05-03,White,Daniel,False,Excellent,Good,Excellent,Excellent,30.0,2.68,58.2,Wood 2FJO Window,239.32018
+1.0,,35.0,Suburban,51.0,,False,Oil Heating,True,False,2022-09-20,Yellow,Natalie,False,Good,Good,Good,Good,6.0,1.24,,Wood 2EQQ0DG,74.70463
+1.0,,22.0,Suburban,43.0,Good,False,Oil,False,True,2024-01-26,White,Martin,False,Good,Good,Good,Good,18.0,3.18,35.2,Wood HSLTL,95.10928
+3.0,,-682.0,Rural,46.0,None,False,Electricity,True,True,2022-11-09,Gray,Florian,False,Excellent,Excellent,Poor,Excellent,6.0,1.29,,Aluminum OO0MM2,251.9549
+1.0,,50.0,Urban,42.0,None,True,Oil Heating,True,False,2022-11-19,Yellow,Johanna,False,Good,Poor,Good,Excellent,6.0,2.87,78.4,Wood XCJSHN Window,143.47129
+2.0,1.0,-232.0,Urban,48.0,None,True,Oil Heating,False,True,2022-01-10,Green,,False,Excellent,Poor,Good,Excellent,6.0,3.44,155.2,9M1 Steel S3K7I,287.15197
+1.0,,5747.0,,34.0,Poor,False,Electric,False,True,2023-04-30,Gray,Johanna,False,Good,Poor,Good,Good,13.0,1.87,,Aluminum 7YJHAW Window,90.84932
+,2.0,118.0,,10.0,Excellent,False,Gas,True,True,2020-11-14,Gray,Johanna,False,Good,Good,Excellent,Good,30.0,2.51,,GDBJJ3 Wood 8TWD Window,187.26617
+2.0,1.0,128.0,Suburban,,None,True,Electricity,False,True,2022-12-12,Yellow,Martin,False,Good,Good,Good,Good,6.0,2.48,,Wood AFB7GL9,119.64812
+2.0,4.0,140.0,Urban,14.0,None,False,Electric,False,True,2022-01-14,Yellow,Andreas,False,Good,Good,Excellent,Excellent,6.0,2.97,84.0,Steel 25RI5BA Window,300.77182
+2.0,,105.0,,50.0,,True,Oil,True,True,2020-07-27,Gray,Laura,False,Good,Poor,Excellent,Good,30.0,2.4,168.0,H52 Wood 48HO,444.56516
+,1.0,45.0,,22.0,Good,False,Electricity,True,True,2021-05-29,Gray,Theresa,False,Good,Excellent,Excellent,Poor,18.0,1.55,27.0,Wood GDN9A5 Window,107.59629
+,2.0,129.0,Urban,44.0,None,False,Oil Heating,False,False,2022-02-28,Gray,,False,Good,Good,Excellent,Poor,6.0,2.55,,Wood N0YLO Window,233.69066
+1.0,1.0,24.0,Rural,31.0,Poor,False,Oil Heating,False,False,2023-01-06,White,Lukas,False,Good,Good,Poor,Good,13.0,3.11,40.0,9WVM Wood 80UY,164.43206
+3.0,,146.0,,48.0,None,,Oil,True,True,2020-10-25,Yellow,,False,Good,Poor,Good,Excellent,6.0,2.1,,Steel ECEYHK,513.093
+1.0,1.0,40.0,,33.0,,False,Gas,False,True,2022-10-24,Gray,Stefan,False,Poor,Good,Good,Excellent,6.0,1.5,37.0,G4PAF Steel YF1IYQ Window,184.18116
+1.0,,92.0,Rural,24.0,,False,Electricity,False,True,2023-09-09,White,Sabrina,False,Poor,Poor,Excellent,Good,6.0,3.09,,M1TUAZV Wood 6DI,254.21612
+1.0,,60.0,,56.0,None,,Oil,True,True,2022-06-03,White,Stefan,False,Excellent,Good,Good,Excellent,6.0,3.24,,Steel TWWOBS Window,244.39031
+1.0,2.0,96.0,Rural,,None,True,Gas,True,False,2021-12-12,Green,Martin,False,Poor,Good,Excellent,Good,6.0,2.72,96.0,81AOC7 Steel 6SUN150 Window,292.6281
+,1.0,71.0,Suburban,57.0,None,False,Oil,False,True,2020-10-06,White,Martin,False,Good,Good,Good,Good,6.0,1.97,,Aluminum U7NJ Window,79.00172
+1.0,1.0,43.0,Suburbann,50.0,Good,,Oil Heating,False,True,2020-05-07,White,Martin,False,Good,Good,Excellent,Poor,18.0,2.38,,P79R7 Aluminum JZ4WAQF,74.75105
+,1.0,22.0,Urban,29.0,,False,Oil Heating,True,True,2020-12-26,White,Natalie,False,Excellent,Excellent,Good,Good,18.0,3.51,,0N7 Wood 9PK,173.4144
+3.0,2.0,122.0,Suburbann,48.0,None,False,Electricity,False,True,2020-01-04,Gray,Andreas,False,Good,Excellent,Good,Good,6.0,2.27,72.6,Wood L56F,121.12918
+,,89.0,,58.0,Good,False,Oil Heating,False,False,2020-01-06,Gray,,False,Good,Good,Good,Poor,18.0,3.01,,Steel Z58YJ,336.21717
+,,54.0,Suburban,36.0,None,,Gas,False,True,2021-07-01,Yellow,Sabrina,False,Poor,Excellent,Good,Good,6.0,3.12,,3WS Steel 6I0CPPY,118.47669
+3.0,,116.0,Urban,67.0,Good,True,Oil,True,True,2024-03-12,Gray,Daniel,False,Poor,Good,Good,Poor,18.0,2.51,185.6,0BEEVN Wood LF8O20,308.02406
+,,133.0,Rural,45.0,Good,False,Gas,False,True,2021-02-13,White,Florian,False,Excellent,Good,Good,Excellent,18.0,1.55,,76A6NSP Wood S3FHD Window,390.4694
+1.0,1.0,46.0,Suburban,56.0,None,False,Oil,True,False,2021-02-25,Yellow,Theresa,False,Good,Good,Good,Good,6.0,4.29,72.0,Aluminum Z3Y2T,52.52757
+,1.0,72.0,,38.0,Good,False,Gas,False,True,2021-11-19,Green,Maria,False,Excellent,Excellent,Good,Good,18.0,1.75,,Wood 2J9EEOH Window,215.52463
+1.0,,26.0,Urban,39.0,Good,False,Oil Heating,True,True,2020-11-30,Green,Laura,False,Good,Poor,Good,Poor,18.0,2.46,,LUIRX34 Wood 4BLGQ17 Window,152.21845
+,4.0,145.0,Urban,54.0,None,False,Gas,False,False,2022-03-09,Yellow,,False,Good,Good,Good,Good,6.0,4.76,,Wood RKE4 Window,220.36385
+,1.0,99.0,,56.0,None,False,Oil Heating,True,False,2023-04-17,White,Denis,False,Good,Poor,Good,Excellent,6.0,1.87,,Aluminum MR8,96.47249
+2.0,1.0,60.0,,56.0,None,True,Electricity,False,True,2021-11-30,Green,Denis,False,Good,Excellent,Excellent,Poor,6.0,2.46,,KKZV61 Steel IDAMT27,196.17191
+,1.0,24.0,Urban,30.0,None,False,Oil Heating,True,True,2021-08-10,White,Sandra,False,Poor,Excellent,Good,Excellent,6.0,2.45,,MWS Wood 28UW,139.55517
+1.0,,29.0,Suburban,33.0,None,False,Oil Heating,False,False,2022-08-10,Yellow,,False,Good,Good,Good,Poor,6.0,2.4,44.8,Steel YDLVU Window,88.13581
+,,85.0,,48.0,None,False,Electric,False,True,2023-03-04,Gray,Johanna,False,Good,Poor,Good,Excellent,6.0,2.92,,WLH1 Steel XC30PB Window,304.29445
+1.0,1.0,40.0,Suburbann,12.0,Good,False,Gas,True,True,2022-12-28,Gray,Florian,False,Good,Good,Good,Good,18.0,2.66,40.0,U94 Aluminum XSFCH4O Window,81.75812
+,,23.0,Urban,68.0,None,False,Gas,False,False,2022-07-30,Green,Sandra,False,Excellent,Excellent,Good,Good,6.0,1.54,22.0,4V3 Wood EKP Window,95.59587
+1.0,2.0,96.0,Suburban,56.0,None,True,Gas,False,True,2023-12-21,Yellow,Roman,False,Excellent,Good,Good,Good,6.0,2.98,97.0,Steel ME8UZC Window,158.91664
+,1.0,8223.0,Suburban,49.0,Excellent,False,Gas,False,True,2020-07-23,Green,,False,Excellent,Poor,Good,Good,30.0,3.46,,Steel O7VWT4 Window,133.81882
+1.0,1.0,83.0,Suburbann,36.0,None,False,Oil Heating,False,True,2020-10-09,Gray,Theresa,False,Good,Poor,Excellent,Poor,6.0,1.38,,3PNION Wood CSTSB9X,119.33337
+1.0,1.0,29.0,Urban,65.0,None,False,Oil Heating,True,False,2022-10-25,Gray,Martin,False,Good,Poor,Excellent,Good,6.0,1.03,48.0,Aluminum Q0NO8,70.19246
+,2.0,125.0,Rural,45.0,None,True,Gas,True,True,2021-04-08,Yellow,Denis,False,Excellent,Poor,Excellent,Good,6.0,3.19,,Steel MYA,417.27371
+,,139.0,Suburban,,None,True,Electricity,False,True,2023-05-02,Yellow,Stefan,False,Excellent,Good,Good,Good,6.0,1.77,,Steel 2OG Window,167.14779
+3.0,,133.0,Urban,58.0,Poor,False,Oil,True,True,2020-06-29,White,,False,Good,Good,Excellent,Good,13.0,1.95,,9ZT Wood 5IO Window,317.98808
+1.0,,47.0,Urban,18.0,Poor,False,Oil Heating,True,True,2021-12-08,Yellow,,False,Good,Poor,Good,Good,13.0,4.92,75.2,Aluminum 9AZ0US,133.11111
+,,53.0,Rural,65.0,None,False,Electric,True,True,2020-01-21,Gray,Andreas,False,Excellent,Good,Excellent,Excellent,6.0,2.64,30.6,Wood FAU6 Window,204.28201
+1.0,1.0,51.0,Rural,38.0,None,True,Gas,False,True,2022-05-21,Gray,Stefan,False,Excellent,Good,Excellent,Excellent,6.0,2.96,,83FCV1F Steel MTO,299.41969
+,,52.0,Urban,38.0,None,False,Oil Heating,True,True,2023-05-05,Gray,Sabrina,False,Good,Poor,Poor,Good,6.0,1.9,,Aluminum ZWSH3S,116.57451
+,1.0,29.0,Urban,43.0,None,False,Oil,True,True,2020-04-05,White,Sandra,False,Good,Excellent,Excellent,Excellent,6.0,1.96,46.4,Steel 3PB3V Window,197.53328
+2.0,1.0,98.0,Rural,46.0,Good,True,Electricity,True,False,2024-01-23,Yellow,Andreas,False,Good,Good,Good,Good,18.0,2.93,58.8,Wood YCCOOA Window,272.95012
+2.0,1.0,87.0,Suburban,55.0,Good,True,Oil Heating,False,True,2023-07-06,Yellow,Stefan,False,Good,Good,Good,Poor,18.0,2.17,,813 Aluminum GYRD Window,118.3736
+,,93.0,Rural,66.0,,False,Electric,False,True,2022-11-27,Yellow,Martin,False,Poor,Good,Good,Poor,6.0,2.2,55.8,Steel JJTX,296.68559
+,,,,,,,,,,,,,,,,,,,,,,
+1.0,2.0,83.0,Urban,33.0,,,Oil Heating,False,False,2023-12-12,White,Denis,False,Poor,Good,Poor,Poor,6.0,2.7,136.0,Steel C0GJ Window,219.33793
+3.0,,-265.0,Urban,23.0,None,False,Oil,False,True,2021-03-16,White,Sabrina,False,Poor,Poor,Poor,Excellent,6.0,2.55,161.6,Steel XB3M97C Window,282.78057
+,3.0,131.0,,32.0,Poor,False,Oil Heating,False,True,2022-08-20,Green,Roman,False,Excellent,Good,Poor,Good,13.0,2.37,209.6,Wood XJ75 Window,464.04369
+1.0,1.0,116.0,Urban,56.0,None,False,Oil,False,True,2020-06-06,White,Lukas,False,Excellent,Poor,Excellent,Good,6.0,2.93,184.0,7QSSNL Wood 9AUK03 Window,246.25371
+,,71.0,Urban,67.0,None,False,Electricity,False,True,2023-12-07,Green,Sandra,False,Good,Good,Good,Good,6.0,2.42,42.0,Steel QYZ,211.36132
+3.0,,141.0,Suburbann,,None,True,Electricity,True,True,2021-07-16,Gray,Laura,False,Excellent,Good,Good,Good,6.0,2.54,84.0,Wood PQCBSKA Window,136.69641
+5.0,2.0,132.0,Rural,22.0,None,False,Electric,False,True,2020-09-23,Yellow,Lukas,False,Poor,Good,Excellent,Good,6.0,1.82,,FQK9 Aluminum PV7NY8J,246.71194
+1.0,1.0,25.0,Rural,50.0,,False,Electric,True,True,2024-03-23,Yellow,Natalie,False,Good,Excellent,Good,Poor,6.0,2.78,15.0,Aluminum TSQO2,96.36782
+4.0,,135.0,Rural,44.0,Poor,False,Oil Heating,False,True,2023-07-14,Yellow,Stefan,False,Excellent,Good,Good,Good,13.0,4.07,,E6HV8G2 Wood 1FCCCV,475.4446
+2.0,1.0,143.0,Rural,41.0,None,False,Oil,False,True,2022-08-12,Green,Daniel,False,Excellent,Excellent,Good,Poor,6.0,2.13,230.4,N4VO4 Aluminum 4JJV5,365.07845
+2.0,3.0,103.0,Urban,52.0,None,False,Electricity,False,True,2023-05-16,Yellow,Johanna,False,Good,Good,Good,Excellent,6.0,1.36,,P6N Steel ESJQW2P Window,255.39242
+,2.0,144.0,,42.0,,False,Electricity,False,True,2022-09-14,Yellow,Stefan,False,Poor,Good,Good,Excellent,18.0,4.93,,Steel 1U2Z3QI Window,453.68752
+,,42.0,Suburban,45.0,,True,Oil,False,False,2020-11-16,Yellow,,False,Excellent,Poor,Good,Good,6.0,3.95,,Aluminum T94E9 Window,46.24852
+3.0,1.0,123.0,Urban,35.0,Poor,False,Oil,True,False,2021-06-30,Gray,Maria,False,Excellent,Good,Excellent,Excellent,13.0,2.6,196.8,Wood ZFK20 Window,266.47092
+2.0,1.0,71.0,,56.0,None,False,Electric,False,False,2023-10-25,Green,,False,Good,Good,Poor,Good,6.0,1.53,42.6,R868G Wood KM0,175.46508
+2.0,3.0,116.0,Urban,70.0,Excellent,False,Oil Heating,False,False,2022-09-02,Green,Sandra,False,Poor,Good,Poor,Good,30.0,1.69,,V33 Steel QFA,311.32293
+,2.0,74.0,Rural,,Excellent,False,Oil Heating,False,True,2022-06-26,Yellow,,False,Good,Good,Poor,Good,30.0,3.45,118.4,Steel QBPZIKK Window,423.23177
+1.0,1.0,35.0,Urban,38.0,,False,Oil Heating,False,True,2023-07-17,Gray,Lukas,True,Poor,Poor,Poor,Excellent,6.0,1.1,57.6,JI299 Steel HJ1OPH,188.49035
+,,140.0,Rural,28.0,,False,Electric,False,True,2023-02-11,Gray,Lukas,False,Poor,Good,Excellent,Good,30.0,2.24,,Aluminum 223U,343.83342
+,5.0,134.0,Suburban,45.0,Excellent,False,Gas,True,True,2022-03-24,Yellow,,False,Excellent,Poor,Poor,Good,30.0,3.97,,YVIG Wood D23B,197.57396
+1.0,2.0,65.0,Suburbann,31.0,None,True,Oil,False,False,2024-01-30,Yellow,Theresa,False,Poor,Excellent,Poor,Poor,6.0,2.66,,IDYA9 Wood YDG3I Window,91.36751
+,,39.0,Rural,70.0,,False,Oil,False,False,2020-02-28,Gray,Laura,False,Excellent,Good,Poor,Good,6.0,2.3,60.8,JRO8M Wood YSR,148.09447
+,,20.0,Rural,33.0,None,False,Gas,False,False,2020-11-06,Yellow,Lukas,False,Poor,Good,Excellent,Excellent,6.0,2.37,,Steel GID,189.19737
+1.0,1.0,31.0,Suburban,49.0,None,False,Gas,False,True,2020-04-19,White,Daniel,False,Excellent,Good,Good,Good,6.0,2.11,,NIO6M Wood MK6DV7K,71.46134
+,,65.0,Suburbann,21.0,None,False,Oil Heating,True,False,2020-12-29,Gray,Denis,False,Good,Good,Excellent,Excellent,6.0,1.09,,JHV Steel I7PIB93 Window,129.10162
+,1.0,5310.0,Urban,43.0,None,False,Oil,False,False,2022-10-01,Yellow,Johanna,False,Poor,Poor,Excellent,Excellent,6.0,3.39,65.6,AHQYQ Steel 6V4QX90 Window,166.75554
+1.0,1.0,7436.0,Suburban,54.0,None,False,Electricity,False,True,2020-08-23,Yellow,Stefan,False,Poor,Excellent,Poor,Poor,6.0,1.43,,TY88L Steel 7HAQKLJ Window,89.37498
+1.0,,36.0,Urban,,None,True,Gas,False,True,2022-05-22,Yellow,Daniel,False,Good,Excellent,Good,Excellent,6.0,4.6,35.0,MVP49 Wood MJ05OI,126.39767
+,3.0,6440.0,,34.0,None,False,Oil,True,False,2023-12-16,Yellow,Theresa,False,Good,Good,Excellent,Excellent,6.0,1.85,,Aluminum DM2UN9C Window,132.92976
+,,111.0,Suburban,56.0,Excellent,False,Electricity,True,True,2022-09-18,White,Stefan,False,Good,Good,Poor,Good,30.0,1.81,65.4,Aluminum AJR77N Window,130.58184
+,1.0,85.0,Rural,7.0,None,False,Gas,False,True,2020-01-25,Yellow,Theresa,False,Poor,Good,Good,Good,6.0,3.71,,SMYROA Wood 7R4FTZT Window,251.71002
+3.0,,108.0,,25.0,Poor,False,Gas,False,True,2020-05-31,Green,Daniel,False,Good,Poor,Good,Excellent,13.0,2.21,108.0,Aluminum TL7,3620.8370000000004
+1.0,,52.0,Suburbann,32.0,None,False,Electric,False,True,2021-06-26,Gray,Johanna,False,Poor,Excellent,Good,Excellent,6.0,2.13,31.2,Aluminum UJ4C Window,52.82677
+1.0,,58.0,Urban,40.0,Good,False,Oil,False,True,2020-11-25,Gray,Sandra,False,Excellent,Poor,Excellent,Excellent,18.0,1.38,94.4,VYW Aluminum VPD,162.5004
+1.0,2.0,142.0,Urban,56.0,None,True,Gas,True,True,2020-09-07,White,Laura,False,Poor,Good,Excellent,Excellent,6.0,3.77,,Wood 2A9FAZ Window,254.6641
+,1.0,60.0,Rural,62.0,Excellent,False,Oil Heating,True,True,2020-08-10,Gray,Martin,False,Excellent,Good,Excellent,Excellent,30.0,1.13,94.4,OPV6D Wood 70V8 Window,352.29032
+1.0,,48.0,Urban,17.0,None,False,Gas,False,True,2023-11-09,Gray,,False,Excellent,Excellent,Good,Poor,6.0,1.08,,Steel 50C0WA Window,4229.2804
+1.0,1.0,20.0,,57.0,Poor,False,Oil Heating,True,True,2022-07-07,,Sandra,False,Good,Good,Good,Good,13.0,4.28,,Steel S5ZF,195.40573
+3.0,,148.0,Rural,26.0,None,False,Electric,True,False,2023-02-10,Green,Andreas,False,Excellent,Poor,Excellent,Poor,6.0,3.35,89.4,Wood KXT2 Window,315.56099
+1.0,1.0,86.0,Suburbann,,None,False,Electric,True,True,2021-06-26,Gray,,False,Good,Good,Excellent,Excellent,6.0,1.59,51.6,O5NSVJ4 Aluminum CTC Window,72.32297
+1.0,1.0,52.0,Suburban,54.0,None,False,Gas,True,True,2021-08-08,Gray,Lukas,False,Excellent,Excellent,Excellent,Poor,6.0,1.75,50.0,VL9XMBJ Steel OND3 Window,125.74918
+1.0,1.0,91.0,,54.0,Excellent,False,Gas,False,False,2021-02-18,Gray,Laura,False,Poor,Excellent,Good,Excellent,30.0,2.87,,Wood VAI,211.33658
+,,,,,,,,,,,,,,,,,,,,,,
+,,63.0,Suburbann,47.0,Poor,False,Gas,True,True,2022-09-27,Green,Andreas,False,Good,Good,Good,Poor,13.0,2.74,,Steel EEFP Window,144.43357
+1.0,,63.0,Rural,49.0,None,False,Gas,True,True,2021-01-14,White,,False,Good,Good,Excellent,Excellent,6.0,1.54,64.0,Aluminum 57BP Window,179.85409
+1.0,1.0,119.0,Rural,34.0,Excellent,False,Oil Heating,True,True,2022-10-27,Gray,Laura,False,Excellent,Good,Good,Good,30.0,2.75,192.0,Aluminum ZNO,422.58851
+,1.0,102.0,,66.0,Good,,Gas,True,True,2020-05-22,Green,Lukas,False,Excellent,Excellent,Poor,Good,18.0,2.38,100.0,Aluminum 0FJ,270.47976
+,,,,,,,,,,,,,,,,,,,,,,
+2.0,,116.0,,64.0,None,False,Electricity,True,True,2022-11-01,Yellow,,False,Poor,Excellent,Poor,Good,6.0,2.84,69.6,Wood 4KI69Q,202.875
+2.0,,68.0,Rural,50.0,None,False,Electric,True,False,2022-09-19,Yellow,Laura,False,Excellent,Excellent,Excellent,Excellent,6.0,2.44,,Wood I9YK,222.31266
+3.0,,148.0,Rural,63.0,None,False,Gas,False,False,2020-10-10,Gray,Sabrina,False,Poor,Excellent,Good,Good,6.0,1.99,,BO6KG2 Wood G0Q6R,309.07386
+2.0,1.0,97.0,Urban,34.0,Poor,False,Electric,False,True,2020-02-14,Yellow,Maria,False,Excellent,Good,Good,Good,13.0,4.72,58.2,Aluminum RY4 Window,145.39841
+,1.0,59.0,,,None,False,Gas,True,False,2021-04-30,Gray,Roman,False,Excellent,Excellent,Good,Good,6.0,2.59,,Q32 Wood TF2,129.44935
+3.0,1.0,117.0,Suburban,35.0,Good,False,Electric,False,True,2021-03-21,Yellow,,False,Excellent,Excellent,Excellent,Excellent,18.0,2.29,,9Y2DJI Aluminum GLMWW Window,122.34682
+,1.0,58.0,Urban,39.0,None,False,Oil Heating,False,True,2023-09-19,White,Sabrina,False,Poor,Excellent,Excellent,Good,6.0,1.98,,Wood GX1YEM4 Window,182.6746
+2.0,1.0,74.0,,67.0,Good,False,Electricity,False,True,2021-01-23,Green,Maria,False,Excellent,Good,Excellent,Good,18.0,3.35,44.4,Aluminum D2JU,140.09562
+1.0,1.0,110.0,Urban,,None,True,Oil Heating,True,False,2022-12-28,White,Sandra,False,Good,Good,Good,Excellent,6.0,3.19,172.8,Wood 3J9 Window,215.49329
+2.0,5.0,141.0,,34.0,None,False,Oil Heating,True,True,2023-02-06,Yellow,Sandra,False,Excellent,Good,Good,Excellent,6.0,4.82,225.6,Aluminum WHD Window,417.00747
+1.0,,70.0,Suburbann,16.0,None,False,Gas,True,True,2023-06-16,Gray,Laura,False,Good,Poor,Good,Poor,6.0,2.5,71.0,6IVLSO Steel PV10NQ,142.12557
+,3.0,102.0,Urban,23.0,None,False,Gas,False,True,2023-09-14,Green,Martin,False,Excellent,Excellent,Excellent,Good,6.0,3.28,,V7N15 Wood K0MTW Window,242.63318
+,5.0,132.0,Rural,28.0,Excellent,False,Gas,True,True,2024-03-06,Yellow,,False,Excellent,Good,Good,Excellent,30.0,2.19,132.0,VJEZQP Aluminum QVPR,447.50945
+1.0,2.0,148.0,Rural,31.0,,False,Oil,True,True,2022-09-01,Gray,,False,Poor,Poor,Good,Good,18.0,2.25,238.4,8A2ZT Aluminum 03HD Window,419.67042
+2.0,1.0,94.0,Urban,44.0,Good,True,Electric,False,True,2021-05-24,Green,Sandra,False,Good,Poor,Poor,Good,18.0,1.66,56.4,Aluminum C2LU6WI Window,143.11076
+,2.0,69.0,Suburbann,69.0,None,True,Gas,False,True,2023-06-18,Yellow,Stefan,False,Good,Good,Poor,Good,6.0,3.89,68.0,USVD Wood 68E2T Window,98.00338
+,2.0,125.0,Suburban,71.0,None,,Electricity,False,False,2021-05-31,Yellow,Laura,False,Excellent,Poor,Good,Good,6.0,3.97,,Steel P7R,122.9839
+,1.0,23.0,,36.0,None,False,Electric,False,True,2021-03-21,Gray,Daniel,False,Excellent,Good,Good,Excellent,6.0,1.63,,Wood G4D3C,115.3231
+,1.0,51.0,Rural,60.0,Poor,False,Oil Heating,True,True,2020-02-07,Gray,Martin,False,Good,Poor,Excellent,Good,13.0,1.55,81.6,Wood WO7Y6 Window,246.24276
+1.0,1.0,36.0,Suburbann,66.0,,False,Oil,True,False,2022-09-05,Gray,Florian,False,Excellent,Good,Poor,Excellent,6.0,1.02,,U45PB Wood W4CPJB,74.49589
+1.0,3.0,103.0,Suburban,,None,True,Electric,False,False,2022-12-27,Gray,Maria,False,Excellent,Good,Good,Good,6.0,1.72,62.4,TFU9XT Aluminum XXJX Window,68.12517
+1.0,1.0,49.0,,45.0,None,False,Oil,True,True,2023-06-11,Yellow,Martin,False,Excellent,Excellent,Excellent,Excellent,6.0,3.34,,Aluminum IPRRN,147.07551
+2.0,1.0,61.0,Urban,34.0,Good,False,Oil Heating,False,True,2021-01-25,Gray,Sabrina,False,Poor,Poor,Poor,Good,18.0,1.2,99.2,Wood O9R Window,195.55564
+1.0,1.0,93.0,Suburbann,64.0,Poor,True,Oil Heating,False,True,2021-01-21,Green,Denis,False,Poor,Excellent,Good,Excellent,13.0,3.43,148.8,3UUP Steel UXT,170.46746
+1.0,,112.0,Rural,,None,False,Oil,True,True,2021-05-07,Gray,Sabrina,False,Good,Good,Excellent,Good,6.0,2.46,,Steel 2M1SFF Window,434.46664
+1.0,1.0,120.0,Suburban,37.0,None,False,Oil,False,True,2023-10-13,Green,,False,Good,Good,Good,Good,6.0,1.89,193.6,HVK Aluminum JVU2ES,133.7091
+2.0,,77.0,Urban,,Good,False,Oil Heating,False,True,2022-07-11,White,Sabrina,False,Good,Good,Poor,Good,18.0,2.83,,6TD Aluminum 26H Window,3419.3725999999997
+,,91.0,,,Good,False,Electricity,False,True,2021-01-24,Gray,Florian,False,Good,Excellent,Good,Good,18.0,2.11,,O8ZV2 Steel 2CG9V,150.42451
+2.0,,149.0,Rural,44.0,,False,Gas,False,True,2021-11-01,White,Daniel,False,Good,Poor,Good,Poor,6.0,1.74,,Aluminum T6UL,277.54114
+1.0,1.0,50.0,Urban,18.0,Good,False,Oil Heating,False,False,2020-03-02,White,Theresa,False,Good,Good,Excellent,Poor,18.0,2.68,81.6,Aluminum LC6 Window,119.2975
+1.0,1.0,43.0,Suburbann,37.0,None,False,Electricity,False,True,2024-03-29,Green,Florian,False,Poor,Good,Good,Good,6.0,2.32,,PYE4DIW Aluminum EL3J,43.35417
+,2.0,116.0,,44.0,None,False,Gas,False,True,2022-08-15,White,Sandra,False,Good,Excellent,Good,Excellent,6.0,1.56,116.0,Wood 6QJG Window,236.12089
+1.0,,27.0,Suburban,59.0,Poor,,Oil,True,True,2023-06-11,Green,Daniel,False,Good,Good,Good,Excellent,13.0,2.39,43.2,MM1EW Aluminum PWRQPT,64.47723
+1.0,,19.0,,15.0,None,True,Gas,True,False,2022-03-07,Green,Martin,False,Poor,Excellent,Good,Excellent,6.0,2.41,20.0,1N2 Wood XIQ1Q Window,110.53618
+,1.0,80.0,Suburbann,,None,False,Electric,False,True,2023-05-24,Green,Martin,False,Poor,Excellent,Poor,Good,6.0,3.31,,6F4 Wood TLVX,83.87694
+1.0,,79.0,Rural,,Good,False,Oil,False,False,2023-12-24,Green,Johanna,False,Poor,Poor,Excellent,Excellent,18.0,3.22,,Wood KF80FY Window,275.23401
+1.0,1.0,22.0,Rural,34.0,None,False,Oil Heating,True,True,2024-03-16,Green,Laura,False,Poor,Excellent,Good,Good,6.0,3.44,35.2,COW Wood 5MMLAA6,193.1176
+1.0,2.0,132.0,,10.0,None,False,Oil,True,True,2021-02-09,Green,Sandra,False,Good,Excellent,Excellent,Good,6.0,2.76,211.2,G7R Steel UTM99OZ,502.1608
+2.0,,96.0,,45.0,Poor,False,Electric,False,True,2021-12-05,Gray,Roman,False,Good,Poor,Poor,Excellent,13.0,1.95,,Steel JH54G4 Window,244.24278
+3.0,3.0,128.0,Rural,58.0,Poor,False,Oil Heating,True,True,2024-01-26,White,Martin,False,Excellent,Excellent,Excellent,Poor,13.0,2.83,,77N Aluminum DUA Window,410.6043
+,1.0,49.0,Suburban,,None,True,Electric,False,False,2022-08-10,Green,,False,Good,Good,Excellent,Excellent,6.0,1.52,28.8,601CVT Steel OZTQ Window,92.01383
+,2.0,67.0,Urban,62.0,None,False,Oil Heating,False,True,2023-01-14,White,Daniel,False,Good,Poor,Good,Good,6.0,1.92,107.2,J4LE Wood RBV7,181.15595
+1.0,,61.0,Urban,45.0,None,True,Electric,True,True,2023-12-31,Gray,Martin,False,Good,Poor,Good,Excellent,6.0,2.91,35.4,1CSB1Z Steel KSN Window,210.03776
+1.0,3.0,101.0,,9.0,None,False,Gas,False,True,2022-12-12,Yellow,Theresa,False,Excellent,Excellent,Good,Poor,6.0,1.47,,TR3KS Wood 769S3,229.97021
+3.0,2.0,105.0,Suburbann,59.0,Good,False,Gas,True,False,2020-12-14,Yellow,Daniel,False,Excellent,Good,Good,Excellent,18.0,1.29,107.0,Y3SA Steel NM5 Window,157.34892
+,1.0,33.0,Suburban,65.0,None,False,Gas,True,True,2022-04-13,Yellow,Stefan,False,Poor,Good,Excellent,Good,6.0,1.87,34.0,Wood C26XXU,77.34537
+1.0,,36.0,,40.0,Good,False,Gas,False,True,2020-12-15,White,Florian,False,Good,Good,Good,Excellent,18.0,3.37,,Wood 4O3CGX2,96.57702
+2.0,,79.0,Urban,56.0,Poor,False,Gas,False,False,2023-11-14,Yellow,Daniel,False,Good,Poor,Excellent,Good,13.0,3.36,,Steel LGW31 Window,4311.0886
+2.0,,90.0,Rural,53.0,None,False,Oil Heating,False,False,2022-09-19,Green,,False,Excellent,Poor,Excellent,Good,6.0,3.33,,VQ8E Steel 2L4GP Window,334.88286
+1.0,,55.0,Rural,44.0,Good,False,Oil Heating,False,True,2020-10-23,Gray,Roman,False,Good,Good,Good,Good,18.0,2.88,88.0,IW8 Wood VYTYNK,271.09459
+3.0,2.0,132.0,Rural,24.0,None,True,Oil Heating,False,True,2022-06-15,Green,Stefan,False,Good,Good,Good,Poor,6.0,2.57,211.2,Steel REY7K3,486.33016
+1.0,2.0,113.0,,54.0,,False,Gas,False,True,2022-05-11,Green,Theresa,False,Poor,Good,Excellent,Good,13.0,2.47,113.0,Aluminum 0Y2Y,255.47721
+,1.0,94.0,Rural,21.0,None,False,Electricity,False,True,2020-05-19,Gray,,False,Excellent,Good,Excellent,Excellent,6.0,1.32,,AG69EH1 Aluminum XMYLQ72 Window,195.99372
+,1.0,64.0,Suburban,,None,True,Electricity,False,False,2022-03-09,White,,False,Poor,Poor,Excellent,Good,6.0,3.4,,FC9 Steel T4S,90.11415
+5.0,2.0,134.0,,31.0,None,True,Gas,False,True,2021-10-13,Green,Theresa,False,Good,Good,Poor,Good,6.0,2.91,132.0,UJZDAF Steel EMR,182.68427
+,2.0,151.0,Urban,58.0,None,False,Electricity,True,True,2020-10-14,Gray,Florian,False,Poor,Poor,Good,Poor,6.0,1.05,89.4,MDN Aluminum QTW9JOA,171.50128
+,1.0,35.0,Rural,34.0,Good,False,Gas,False,True,2023-11-22,Gray,,False,Poor,Good,Good,Good,18.0,2.41,36.0,1AY0S Steel BM8PB,304.06999
+,,126.0,Suburbann,55.0,Good,False,Gas,False,True,2023-06-14,Yellow,Daniel,False,Good,Poor,Good,Poor,18.0,1.55,,Aluminum MYEK Window,132.80321
+,,141.0,Suburbann,45.0,None,True,Electricity,False,True,2021-03-06,White,Sandra,False,Excellent,Good,Good,Good,6.0,2.16,84.6,PJ29QMZ Wood PJ02,141.42154
+,1.0,54.0,Rural,59.0,None,False,Gas,False,True,2021-05-22,White,Natalie,False,Good,Excellent,Good,Excellent,6.0,2.16,,1WHXA5E Wood JDUB4L Window,211.85183
+1.0,1.0,40.0,Urban,33.0,Excellent,True,Oil Heating,True,True,2020-01-04,White,Andreas,False,Good,Good,Good,Excellent,30.0,2.8,,GVI8C Wood KN9G Window,216.60641
+2.0,,90.0,,17.0,None,False,Gas,False,False,2021-02-07,White,Lukas,False,Poor,Good,Good,Excellent,6.0,1.51,,Steel 15RC Window,289.11953
+2.0,1.0,97.0,Rural,44.0,Good,False,Oil,True,False,2020-09-08,Green,Florian,False,Excellent,Excellent,Good,Good,18.0,1.82,155.2,Aluminum 54GJUET Window,268.55608
+2.0,1.0,86.0,Suburban,43.0,,False,Electric,False,True,2022-08-25,White,Roman,False,Good,Excellent,Poor,Excellent,6.0,2.22,51.6,Steel H6VLJD Window,136.7994
+,1.0,59.0,,20.0,,False,Gas,False,True,2021-08-29,Yellow,Theresa,False,Excellent,Good,Excellent,Good,18.0,3.42,,Wood A1MA88E Window,201.02982
+,1.0,52.0,,34.0,None,False,Electricity,True,True,2021-09-27,Gray,Natalie,False,Good,Good,Excellent,Excellent,6.0,2.47,,F5725W Steel A4JX46Q Window,205.64311
+,,33.0,,16.0,None,True,Electric,False,True,2022-12-31,Yellow,Stefan,False,Good,Good,Good,Poor,6.0,2.2,18.6,UG6 Wood E2F000K,117.68647
+2.0,1.0,81.0,Urban,52.0,Good,False,Gas,False,True,2022-02-17,White,Stefan,False,Poor,Good,Good,Good,18.0,1.3,83.0,CIK6H Aluminum 8IBGJ Window,158.83264
+,1.0,41.0,Rural,39.0,None,False,Oil,False,True,2020-10-14,Green,Stefan,False,Good,Good,Excellent,Good,6.0,2.61,,Aluminum GS6XSN,135.85786
+2.0,1.0,64.0,,50.0,Good,,Electricity,True,True,2023-12-05,Gray,Roman,False,Good,Good,Good,Good,18.0,1.21,,0MXOI Aluminum USIOP8 Window,145.54181
+1.0,,21.0,Rural,,Good,False,Oil,False,True,2021-06-08,Yellow,,False,Excellent,Excellent,Excellent,Poor,18.0,2.94,33.6,Wood AVHCJUB,199.70758
+3.0,2.0,102.0,Urban,52.0,Good,False,Electricity,False,False,2021-08-12,Green,Johanna,False,Good,Good,Poor,Good,18.0,2.66,,SE5S Steel TOTQZH Window,221.0692
+,,141.0,Suburbann,56.0,None,False,Electric,False,True,2023-09-03,Yellow,,False,Excellent,Poor,Poor,Excellent,6.0,4.38,85.2,Steel JOR Window,168.7687
+,1.0,26.0,Rural,61.0,Excellent,True,Oil Heating,True,True,2021-12-29,Yellow,Stefan,False,Excellent,Excellent,Poor,Excellent,30.0,4.18,41.6,8XM6 Aluminum Q5B Window,217.21752
+,1.0,29.0,Rural,46.0,None,False,Oil,True,True,2022-10-25,White,Theresa,False,Poor,Poor,Excellent,Poor,6.0,1.78,,E6C Wood 6MYE392,182.74675
+1.0,2.0,77.0,Urban,38.0,None,False,Oil,False,True,2020-06-16,White,,False,Poor,Excellent,Excellent,Good,6.0,1.85,,Aluminum Z1V58,152.93222
+4.0,5.0,136.0,Suburbann,65.0,Good,True,Oil Heating,False,False,2022-07-15,Green,,False,Good,Good,Poor,Poor,18.0,3.27,,OER2 Aluminum AGYAD,143.72133
+4.0,3.0,130.0,Rural,70.0,None,False,Oil,False,False,2023-10-19,Yellow,Martin,False,Good,Poor,Good,Good,6.0,3.95,208.0,8QHVBA Steel UQXYKR Window,411.05078
+1.0,,27.0,Urban,-1.0,None,,Oil Heating,True,True,2021-03-26,White,Lukas,False,Excellent,Good,Good,Good,6.0,3.52,43.2,Steel R6S1D Window,200.78245
+2.0,2.0,83.0,Suburban,46.0,,False,Electricity,True,True,2023-07-17,Green,,False,Good,Good,Good,Poor,6.0,2.58,,PGZV50 Wood XCC5 Window,108.39461
+,3.0,126.0,,42.0,None,False,Oil,True,True,2022-01-10,White,,False,Excellent,Poor,Good,Excellent,6.0,1.82,,8WKJ08 Aluminum L9N Window,150.37814
+1.0,1.0,109.0,Suburban,36.0,None,False,Oil,False,True,2021-06-24,Gray,Sabrina,False,Good,Excellent,Excellent,Poor,6.0,1.63,,H7C Steel AO359PU,179.10788
+2.0,,64.0,Suburbann,,Good,False,Oil,False,True,2022-11-06,Yellow,Maria,False,Poor,Good,Good,Poor,18.0,4.85,,AHNFV3 Wood CBS Window,123.85248
+3.0,,139.0,Urban,38.0,Good,False,Electricity,True,True,2021-11-29,White,Sandra,False,Excellent,Good,Excellent,Good,18.0,3.64,,Steel ZDF,347.64431
+,,51.0,Urban,66.0,,False,Oil,False,True,2021-10-31,Green,,False,Excellent,Excellent,Good,Good,6.0,2.98,81.6,Aluminum VHSR0UO,113.02546
+,2.0,61.0,Rural,38.0,Excellent,False,Gas,True,True,2024-03-29,Gray,Lukas,False,Good,Good,Good,Good,30.0,2.54,,Aluminum 6ONGVC Window,274.82811
+3.0,1.0,125.0,Urban,40.0,None,False,Gas,False,True,2020-05-04,Green,Daniel,False,Excellent,Good,Excellent,Good,6.0,2.05,,Steel ZL4OJ Window,287.57095
+1.0,3.0,108.0,,64.0,None,,Oil Heating,False,True,2020-12-02,White,,False,Excellent,Excellent,Good,Poor,6.0,2.38,172.8,Wood TPZ27,246.24659
+2.0,2.0,100.0,,36.0,Good,False,Oil,False,False,2023-02-20,Gray,Stefan,False,Excellent,Good,Poor,Good,18.0,1.53,-421.0,ASRR Steel 4NR0N3 Window,391.29628
+1.0,2.0,77.0,Suburban,45.0,None,False,Electricity,True,False,2023-05-19,White,Sabrina,False,Excellent,Excellent,Excellent,Excellent,6.0,2.71,46.2,0V09 Steel 4SEFJB,125.95653
+2.0,1.0,97.0,Urban,27.0,None,True,Gas,False,False,2023-01-18,Green,,False,Excellent,Good,Good,Excellent,6.0,1.53,99.0,72T Aluminum AHM8,142.27709
+,1.0,29.0,Urban,31.0,None,False,Electricity,True,True,2022-02-25,Gray,Laura,False,Good,Excellent,Good,Excellent,6.0,2.67,18.0,Wood O2QO Window,138.40271
+2.0,,94.0,Rural,63.0,None,False,Oil Heating,False,True,2024-02-07,White,Andreas,False,Poor,Good,Good,Good,6.0,1.58,150.4,Wood LSBK Window,325.62791
+2.0,5.0,145.0,Rural,60.0,None,,Oil Heating,True,True,2023-08-22,Gray,Andreas,False,Excellent,Good,Good,Excellent,6.0,2.43,235.2,MXW Wood MW65 Window,498.5805
+1.0,2.0,69.0,Rural,28.0,Poor,False,Oil Heating,False,True,2021-08-23,Yellow,Stefan,False,Excellent,Excellent,Good,Good,13.0,3.28,108.8,Steel YDH,381.65751
+,,63.0,Rural,26.0,None,False,Electric,True,True,2023-09-18,White,Theresa,False,Good,Good,Good,Excellent,6.0,3.56,38.4,K61H Steel BSEI5L Window,321.85678
+,2.0,69.0,Rural,,None,False,Gas,True,False,2023-08-13,White,Natalie,False,Excellent,Poor,Good,Good,6.0,2.0,69.0,9EXF Aluminum WJF,140.90363
+,1.0,50.0,,36.0,,False,Oil,True,False,2023-10-17,Gray,Andreas,False,Good,Good,Excellent,Good,18.0,1.8,,Aluminum I0O3P5,138.31909
+1.0,1.0,52.0,Urban,32.0,None,,Gas,False,True,2022-08-25,Green,Martin,False,Poor,Poor,Good,Excellent,6.0,1.55,51.0,Aluminum HI6TPK,90.36814
+,,29.0,Urban,59.0,None,True,Oil,False,False,2022-01-07,Gray,Stefan,False,Poor,Good,Poor,Good,6.0,1.61,,VCAR Aluminum BPWK094 Window,49.0218
+5.0,,132.0,Urban,32.0,None,False,Oil Heating,True,True,2021-02-13,Yellow,Roman,False,Good,Good,Excellent,Good,6.0,1.79,211.2,9YUSLD6 Steel EAD,378.38229
+,1.0,106.0,,41.0,Excellent,False,Gas,False,True,2021-07-16,Gray,Natalie,True,Good,Excellent,Excellent,Good,30.0,2.01,,Steel 0JHE Window,473.79742
+,1.0,56.0,Suburban,65.0,None,False,Gas,False,False,2022-08-28,Gray,Johanna,False,Poor,Good,Good,Poor,6.0,2.74,56.0,PLP Wood 1H4BRWN,66.09074
+1.0,2.0,81.0,Urban,67.0,None,False,Electric,False,False,2020-03-10,Gray,Laura,False,Poor,Good,Excellent,Good,6.0,1.36,49.2,Steel QJZKJYW,165.06985
+,,63.0,Suburbann,44.0,,True,Gas,True,True,2021-01-10,Yellow,Laura,False,Good,Excellent,Good,Good,6.0,3.39,,Wood JTXT8 Window,103.06278
+,,103.0,Rural,,Good,True,Electric,False,True,2022-02-04,Gray,Johanna,False,Excellent,Excellent,Excellent,Poor,18.0,1.3,61.8,UVTPHWY Aluminum ZIFB0PI,248.15639
+2.0,2.0,95.0,Suburbann,47.0,None,False,Electricity,True,False,2021-12-23,White,Laura,False,Excellent,Poor,Good,Poor,6.0,1.54,,Steel OL7,118.3709
+1.0,,68.0,Urban,44.0,Excellent,False,Electric,False,False,2022-05-27,White,,False,Poor,Excellent,Excellent,Excellent,30.0,3.4,41.4,ZUU Steel 1YF,235.60505
+1.0,2.0,81.0,Urban,47.0,Excellent,False,Gas,False,False,2023-05-02,White,Daniel,False,Good,Good,Excellent,Good,30.0,3.43,,Aluminum KE08JD Window,172.15148
+3.0,2.0,134.0,Urban,42.0,Good,False,Electric,True,True,2023-05-23,Gray,,False,Good,Good,Excellent,Good,18.0,2.77,79.2,Steel EZSH8Q2 Window,331.62908
+2.0,2.0,101.0,Suburbann,60.0,,,Gas,False,False,2023-01-24,Yellow,,False,Good,Good,Good,Excellent,6.0,3.54,100.0,PD05UFH Aluminum QCWJ,80.65366
+2.0,,89.0,Rural,54.0,None,False,Gas,True,True,2020-02-20,Gray,Lukas,False,Poor,Good,Excellent,Excellent,6.0,1.09,88.0,Wood BSK,276.91167
+,,44.0,Suburbann,33.0,Excellent,False,Oil Heating,False,False,2021-10-08,Yellow,Roman,False,Excellent,Poor,Excellent,Good,30.0,3.17,,AFM Wood A4QF Window,112.76092
+,,37.0,Urban,51.0,Good,True,Electricity,False,False,2022-08-03,White,Natalie,False,Poor,Good,Good,Good,18.0,3.39,22.2,Aluminum IO3T6XH Window,78.4156
+,2.0,71.0,Urban,39.0,Good,False,Gas,False,True,2022-06-01,Green,Johanna,False,Good,Good,Poor,Good,18.0,3.17,71.0,Wood 8P8 Window,206.24178
+,,106.0,Suburban,36.0,Excellent,False,Electric,False,True,2022-03-13,,Daniel,False,Excellent,Excellent,Good,Good,30.0,1.94,63.0,Wood 5THSZP Window,161.57501
+,,23.0,Suburban,46.0,None,False,Oil Heating,False,True,2021-04-09,Yellow,Andreas,False,Good,Poor,Poor,Poor,6.0,3.94,36.8,Aluminum G62 Window,29.12382
+,2.0,99.0,Urban,71.0,Good,True,Oil,False,False,2023-02-14,Green,Roman,False,Good,Excellent,Excellent,Good,18.0,3.13,,Wood SWF2 Window,232.88285
+1.0,,22.0,,54.0,Good,False,Oil Heating,False,False,2024-02-07,Yellow,Stefan,False,Good,Good,Excellent,Poor,18.0,3.22,,Steel PVT,175.82782
+,1.0,69.0,Urban,,None,False,Electric,True,False,2023-02-23,Yellow,Maria,False,Excellent,Excellent,Excellent,Good,6.0,3.62,41.4,ZIRFAN Aluminum 3F12 Window,99.12965
+,,106.0,Suburban,,Good,False,Electric,False,False,2022-06-17,Gray,Maria,False,Good,Excellent,Good,Poor,18.0,2.04,,Aluminum Q2WHT0Q,1688.549
+2.0,1.0,86.0,Rural,48.0,,False,Gas,False,True,2022-05-17,Yellow,Martin,False,Excellent,Good,Poor,Excellent,6.0,3.13,,LRFXD16 Aluminum 600,196.04302
+2.0,,98.0,Rural,37.0,None,False,Gas,True,False,2020-07-12,Gray,Maria,False,Excellent,Excellent,Good,Good,6.0,2.36,97.0,OU85W3 Wood F1HRRX Window,256.66968
+,,104.0,Rural,33.0,Good,False,Electricity,False,True,2020-08-15,Gray,Florian,False,Excellent,Good,Good,Good,18.0,2.63,61.8,TIK Aluminum 2CYQ7 Window,235.46423
+3.0,1.0,123.0,Suburbann,54.0,Excellent,True,Electric,False,True,2020-05-25,Yellow,Andreas,False,Good,Good,Excellent,Excellent,30.0,3.89,73.2,Wood 907Q4J Window,160.48132
+,2.0,76.0,Suburban,68.0,None,False,Gas,False,True,2022-07-21,White,,False,Excellent,Good,Good,Poor,6.0,1.77,,Aluminum UFDYI,75.05498
+,1.0,57.0,,,None,False,Gas,False,True,2022-05-17,White,Sabrina,False,Good,Good,Good,Poor,6.0,2.0,,Steel OQTJ,258.54079
+2.0,,95.0,Urban,22.0,,True,Oil,True,True,2022-06-22,Gray,,False,Good,Excellent,Excellent,Good,6.0,2.4,152.0,Aluminum U8I5A Window,209.20712
+,1.0,84.0,Rural,68.0,Excellent,True,Gas,False,False,2022-12-16,Gray,Florian,False,Poor,Good,Good,Good,30.0,2.49,83.0,Wood COC,282.75244
+,,118.0,Suburbann,71.0,None,False,Oil Heating,False,True,2021-12-23,Green,Theresa,False,Good,Excellent,Good,Excellent,6.0,3.08,188.8,Steel 3IFPE3,188.06445
+,1.0,101.0,Rural,,Poor,False,Oil,True,True,2022-03-16,Yellow,Denis,False,Excellent,Good,Good,Poor,13.0,4.69,,Aluminum 6BORZN Window,272.5281
+1.0,3.0,125.0,Suburban,55.0,Good,True,Oil,False,True,2021-12-11,Green,Lukas,False,Excellent,Good,Excellent,Good,18.0,1.74,198.4,Aluminum RA6H8,160.81482
+,,125.0,Urban,47.0,,False,Oil,True,True,2024-03-18,Gray,,False,Good,Poor,Good,Good,6.0,1.57,,Wood IH54P Window,293.22569
+,1.0,128.0,Urban,19.0,Excellent,False,Gas,False,True,2022-04-11,Yellow,Andreas,False,Excellent,Excellent,Poor,Good,30.0,2.45,127.0,L68MQD Aluminum L8SV80 Window,258.02001
+1.0,,83.0,,33.0,None,False,Gas,True,True,2022-10-03,Yellow,Sabrina,False,Poor,Excellent,Good,Poor,6.0,2.57,,Steel OS8 Window,145.73291
+3.0,3.0,106.0,Urban,27.0,Good,False,Oil,False,True,2023-09-16,White,Roman,False,Excellent,Excellent,Excellent,Good,18.0,3.01,169.6,Steel YH8YLEK,381.74564
+,,44.0,Urban,28.0,None,,Electricity,False,True,2021-05-20,White,Florian,False,Good,Good,Excellent,Excellent,6.0,3.54,,KJ5NS Aluminum ZJRFDQ,88.32336
+2.0,2.0,61.0,Suburban,31.0,None,False,Gas,False,False,2023-09-08,Gray,Denis,False,Poor,Excellent,Good,Excellent,6.0,1.4,61.0,VRG9IPA Steel VLRL,116.27013
+,,107.0,Urban,18.0,Poor,False,Gas,False,False,2022-07-28,Gray,Andreas,False,Poor,Good,Good,Good,13.0,2.0,,WUK4CBU Aluminum 9HOL Window,161.89041
+,1.0,46.0,Suburbann,48.0,None,False,Electric,False,True,2023-12-19,Green,Stefan,False,Poor,Poor,Good,Good,6.0,2.67,26.4,YJPNP Wood HOY5N0S Window,70.47408
+,1.0,79.0,,55.0,Good,,Oil,False,True,2020-05-18,Yellow,Sabrina,False,Excellent,Poor,Excellent,Good,18.0,1.54,129.6,Wood 19B7,140.85076
+,,94.0,Suburban,65.0,Excellent,,Electric,False,False,2020-03-21,Yellow,Florian,False,Poor,Excellent,Good,Excellent,30.0,3.18,56.4,8W2V Aluminum K71F Window,88.11976
+1.0,1.0,78.0,Rural,46.0,None,False,Oil,False,False,2022-05-30,Yellow,Maria,False,Good,Good,Excellent,Good,6.0,1.8,,XDC6K Aluminum TY1BZLH,180.47539
+1.0,,52.0,Urban,68.0,None,True,Oil,True,True,2022-08-16,Gray,Roman,False,Good,Good,Good,Excellent,6.0,1.13,81.6,Wood LVU7Y,171.82423
+,,147.0,Suburban,69.0,None,False,Gas,True,False,2021-11-16,Yellow,Natalie,False,Good,Excellent,Excellent,Excellent,6.0,1.43,146.0,UJ8 Wood POCF,139.65865
+2.0,,106.0,Suburban,20.0,None,False,Electricity,True,True,2020-01-25,Gray,Sabrina,False,Poor,Good,Poor,Excellent,6.0,1.85,63.6,Wood L393 Window,115.69551
+1.0,1.0,58.0,,42.0,None,True,Oil,False,False,2023-01-24,Green,,False,Poor,Excellent,Good,Excellent,6.0,2.46,,4ET Steel M2888O Window,268.14479
+,,105.0,Rural,24.0,None,False,Gas,False,False,2020-01-15,Green,Denis,False,Excellent,Good,Good,Poor,6.0,1.82,,JP3 Steel CV8SD Window,305.33791
+,,115.0,,30.0,,False,Electric,False,True,2022-06-01,White,Stefan,False,Poor,Good,Good,Poor,30.0,3.19,,Steel 3B2IN Window,181.01721
+3.0,2.0,113.0,Urban,53.0,None,False,Gas,False,False,2023-04-17,Green,Sandra,False,Excellent,Good,Poor,Poor,6.0,2.46,,AS4QD Wood EL9463,188.58824
+1.0,,54.0,Urban,43.0,None,False,Gas,True,True,2023-06-30,Green,Roman,False,Excellent,Excellent,Good,Poor,6.0,2.18,,EELUC6 Steel 819 Window,223.33836
+1.0,1.0,36.0,Rural,,None,True,Electric,False,True,2020-06-06,Yellow,Natalie,False,Poor,Good,Good,Excellent,6.0,3.54,21.0,0TCMLN Steel LNE32V,211.7966
+1.0,1.0,42.0,Rural,,None,,Electricity,False,True,2023-04-05,Gray,Johanna,False,Poor,Poor,Excellent,Excellent,6.0,1.6,,7S47 Steel 1TA Window,230.38905
+1.0,,21.0,Suburbann,57.0,Good,False,Oil,True,False,2022-09-05,Yellow,Sandra,False,Good,Good,Good,Poor,18.0,2.45,35.2,Aluminum RJ4YMT Window,51.61983
+,,50.0,Suburban,46.0,None,False,Oil Heating,False,False,2021-10-20,Green,Martin,False,Poor,Good,Good,Excellent,6.0,1.62,78.4,Aluminum 76LUP5 Window,52.29736
+,1.0,25.0,Suburban,45.0,,False,Gas,True,True,2022-03-13,Yellow,Johanna,False,Good,Excellent,Poor,Good,18.0,2.5,,Wood 1KR Window,94.25836
+5.0,2.0,130.0,,49.0,,False,Gas,False,True,2020-05-06,White,Maria,False,Poor,Good,Poor,Good,18.0,2.83,,DFB Steel YH4A47F Window,313.71622
+2.0,2.0,80.0,Urban,60.0,,False,Electricity,False,True,2020-08-28,Gray,Andreas,False,Excellent,Good,Good,Good,6.0,2.9,,I9RDO Aluminum AX01 Window,112.0061
+2.0,,66.0,Rural,35.0,None,False,Oil Heating,False,True,2022-10-23,Yellow,Natalie,False,Excellent,Good,Poor,Excellent,6.0,3.24,104.0,Steel 5ZFFW,355.45707
+,,69.0,Rural,61.0,Good,False,Gas,True,False,2022-06-18,Gray,,False,Poor,Good,Good,Good,18.0,1.36,69.0,NVPV Aluminum E0CD,178.23773
+,1.0,90.0,Suburbann,44.0,Excellent,False,Electricity,False,False,2020-11-29,Gray,Laura,False,Good,Good,Good,Good,30.0,2.37,,GUC7Y3S Wood MCKD5U Window,115.45939
+1.0,1.0,39.0,Urban,71.0,,False,Electricity,True,True,2020-09-08,Yellow,Natalie,False,Good,Good,Good,Good,6.0,4.0,,Aluminum VBDKQ8W Window,1418.6308
+2.0,,97.0,Rural,,None,False,Gas,False,True,2020-06-08,Yellow,Maria,False,Good,Excellent,Poor,Poor,6.0,3.29,,CLKFBE Steel DQ5,324.18286
+2.0,,88.0,,,Good,False,Gas,False,False,2022-04-29,Yellow,Florian,False,Good,Excellent,Excellent,Good,18.0,4.1,86.0,T7T Wood 7M3,259.4694
+,,67.0,Suburbann,45.0,Poor,False,Gas,True,True,2020-08-07,Gray,Johanna,False,Excellent,Good,Excellent,Good,13.0,1.14,,G0Z0D Wood 1V4FZVQ,116.21858
+,1.0,27.0,Urban,22.0,None,False,Gas,False,True,2021-02-11,Gray,Denis,False,Excellent,Poor,Good,Good,6.0,3.09,28.0,Wood 3NI Window,119.5363
+2.0,1.0,91.0,Suburbann,14.0,None,False,Electric,False,True,2022-10-23,White,Florian,False,Good,Good,Excellent,Good,6.0,3.72,54.6,Wood V9XI8 Window,113.40347
+,1.0,43.0,Rural,43.0,None,True,Oil,False,True,2021-06-09,Gray,Roman,False,Good,Good,Good,Excellent,6.0,1.64,67.2,Aluminum THQMMU3,139.39768
+1.0,1.0,34.0,Urban,21.0,Excellent,False,Electric,True,True,2023-03-02,Green,Lukas,False,Excellent,Good,Good,Excellent,30.0,1.87,19.8,A0U Aluminum SSQWM,162.8771
+1.0,,32.0,Rural,17.0,None,False,Electricity,False,True,2022-12-04,Yellow,,False,Good,Excellent,Poor,Poor,6.0,3.0,,Steel RIH,239.95638
+,1.0,32.0,Suburban,41.0,,False,Oil Heating,True,False,2020-08-21,White,Denis,False,Good,Excellent,Good,Good,18.0,3.78,54.4,6347 Aluminum B0FNXU Window,65.19195
+,2.0,100.0,Urban,29.0,,False,Oil Heating,True,True,2024-03-09,Gray,Florian,False,Good,Good,Excellent,Excellent,6.0,1.48,,UPIO6F Wood R4XA40 Window,277.66786
+1.0,1.0,26.0,Suburban,62.0,None,False,Oil,False,False,2020-11-24,Green,Theresa,False,Excellent,Good,Good,Excellent,6.0,3.35,,XGBZP Wood SBUQJWJ,62.52629
+1.0,,71.0,Rural,,None,False,Electricity,True,False,2023-09-12,White,Martin,False,Poor,Good,Good,Excellent,6.0,3.22,42.0,Steel RXMS Window,246.098
+1.0,1.0,57.0,Rural,45.0,None,False,Oil Heating,False,False,2023-01-24,Green,Lukas,False,Good,Excellent,Good,Good,6.0,2.43,,Wood DA24XN Window,210.01202
+1.0,2.0,82.0,Urban,54.0,None,False,Oil Heating,True,False,2020-08-04,Yellow,Florian,False,Poor,Good,Good,Excellent,6.0,1.38,131.2,YZBQ Wood Q4HO Window,175.29105
+1.0,,140.0,Urban,16.0,,False,Gas,False,True,2024-01-02,Yellow,Stefan,False,Good,Good,Excellent,Excellent,18.0,4.86,140.0,VWFRJC3 Steel 5UX0K Window,369.46555
+1.0,1.0,69.0,Rural,52.0,Excellent,False,Electricity,False,True,2022-08-25,Gray,Theresa,False,Good,Good,Excellent,Poor,30.0,2.65,,Wood YZDG0,296.60456
+,3.0,124.0,,35.0,None,False,Oil,False,True,2023-08-21,Yellow,Maria,False,Poor,Poor,Good,Excellent,6.0,2.22,,Aluminum LGCVXN6 Window,321.5148
+1.0,,75.0,Suburban,28.0,,True,Gas,False,False,2022-03-20,White,Denis,False,Good,Good,Good,Good,6.0,2.5,,H14RGU Wood OMN,90.40902
+2.0,1.0,62.0,Rural,13.0,Good,False,Gas,False,True,2021-05-14,White,Theresa,False,Poor,Excellent,Excellent,Good,18.0,2.56,,Wood 43A3B9,286.68171
+1.0,,95.0,Rural,,None,False,Electric,True,True,2023-04-08,Yellow,Stefan,False,Excellent,Excellent,Excellent,Excellent,6.0,4.76,,Steel 3W6EL8 Window,354.10909
+3.0,1.0,114.0,,18.0,None,False,Oil Heating,False,True,2023-05-26,Yellow,,False,Poor,Poor,Poor,Good,6.0,2.92,,HZ7CF Steel EWI Window,439.63775
+1.0,,36.0,Rural,25.0,Good,,Gas,False,True,2020-01-15,Green,Stefan,False,Good,Excellent,Excellent,Good,18.0,2.96,36.0,1OP Aluminum 0PC,166.16325
+,,144.0,Urban,49.0,None,False,Electricity,True,True,2021-02-16,Gray,Daniel,True,Excellent,Excellent,Good,Excellent,6.0,1.91,87.0,Aluminum PAKKRY Window,212.58618
+1.0,2.0,7804.0,,54.0,Poor,,Electricity,False,True,2022-08-01,Gray,Florian,False,Excellent,Good,Excellent,Excellent,13.0,3.01,,Aluminum WPQF8I,209.99847
+1.0,1.0,94.0,Rural,55.0,None,False,Gas,False,False,2022-02-20,Green,,False,Good,Excellent,Excellent,Excellent,6.0,2.54,94.0,Steel 5C5,299.73255
+1.0,1.0,29.0,Suburban,51.0,Good,False,Electricity,False,True,2023-08-12,Gray,Laura,False,Excellent,Good,Poor,Excellent,18.0,1.29,,Wood 29R Window,91.91269
+1.0,,49.0,,31.0,Poor,True,Gas,True,True,2020-11-24,Gray,Johanna,False,Good,Good,Excellent,Poor,13.0,2.25,51.0,Aluminum P8Z Window,72.41831
+,,90.0,Urban,66.0,None,False,Gas,True,True,2021-10-17,Gray,Daniel,False,Poor,Good,Good,Poor,6.0,3.01,,8BR Aluminum G54 Window,132.16322
+1.0,,89.0,,54.0,Poor,False,Gas,False,True,2023-01-20,Yellow,,False,Poor,Excellent,Poor,Good,13.0,4.78,,KN5XRBL Steel LIP8P,258.63865
+,2.0,92.0,,19.0,Excellent,False,Electric,False,True,2020-07-20,Yellow,Daniel,False,Good,Good,Good,Good,30.0,3.7,55.2,Wood 28Z1YN1,141.70574
+5.0,,146.0,Suburbann,,,True,Gas,True,False,2023-08-30,Green,Lukas,False,Poor,Poor,Good,Poor,6.0,2.78,146.0,225ODFQ Wood WYFLMOV Window,135.9285
+1.0,1.0,104.0,Suburbann,44.0,Excellent,False,Electricity,True,True,2021-08-15,Yellow,Natalie,False,Excellent,Good,Good,Excellent,30.0,3.65,,Aluminum O8OC Window,129.30496
+,4.0,137.0,Urban,66.0,Excellent,False,Gas,False,True,2022-05-21,Gray,Lukas,False,Excellent,Excellent,Good,Good,30.0,2.39,,DSH Aluminum 63ZT Window,290.26361
+,1.0,73.0,Suburbann,21.0,,False,Oil Heating,True,True,2021-09-14,Green,Sandra,False,Excellent,Good,Excellent,Excellent,18.0,2.8,115.2,G0BI3 Steel D7UB Window,185.18494
+,4.0,141.0,Rural,24.0,None,False,Gas,False,False,2023-05-11,Gray,Sandra,False,Poor,Good,Good,Excellent,6.0,2.51,143.0,Wood ETNEI Window,325.75954
+,,108.0,Suburbann,39.0,None,False,Gas,False,True,2022-05-15,Green,Daniel,False,Excellent,Excellent,Good,Excellent,6.0,2.66,109.0,QAT0 Aluminum TSUYP1,111.87648
+2.0,,110.0,Suburban,35.0,None,False,Oil,False,True,2023-08-17,Green,,False,Good,Excellent,Excellent,Excellent,6.0,3.13,177.6,Aluminum NDQC Window,137.96769
+,,43.0,,70.0,Good,False,Gas,False,False,2022-05-03,Yellow,Theresa,False,Poor,Excellent,Excellent,Good,18.0,4.01,43.0,V71O Steel EGY4 Window,254.88464
+1.0,,-895.0,Suburbann,15.0,None,False,Electric,False,True,2023-03-16,Green,Roman,False,Good,Poor,Excellent,Poor,6.0,1.82,13.8,Aluminum VNJB,34.5637
+1.0,1.0,45.0,Rural,52.0,,False,Gas,False,True,2021-06-25,White,Denis,False,Good,Poor,Good,Good,6.0,2.05,,Wood VY2CL,177.27665
+,,126.0,Rural,28.0,None,True,Electricity,True,True,2023-09-12,White,Denis,False,Good,Excellent,Good,Excellent,6.0,3.32,,KXCNY Wood 13THUYI Window,347.85033
+1.0,1.0,40.0,,-18.0,Excellent,False,Oil,False,True,2020-04-22,Yellow,Stefan,False,Poor,Good,Good,Good,30.0,4.47,,Wood PWP6E,116.07669
+,3.0,121.0,Suburbann,54.0,Excellent,False,Electric,True,True,2020-04-19,Yellow,Sandra,False,Excellent,Poor,Good,Good,30.0,3.07,,Wood 2RFN Window,160.16198
+2.0,1.0,112.0,,37.0,None,False,Gas,True,False,2020-10-23,Green,,False,Excellent,Excellent,Good,Good,6.0,2.68,113.0,Aluminum 95IK,92.33584
+,1.0,46.0,Suburbann,,None,,Oil,True,False,2021-05-16,Gray,Maria,False,Excellent,Good,Poor,Excellent,6.0,2.02,73.6,C0OEXPK Aluminum AKYV6Z,51.11062
+,,105.0,Rural,48.0,,,Electric,True,False,2023-04-11,White,Lukas,False,Poor,Poor,Good,Good,18.0,3.28,63.0,Aluminum ME3OGYR,205.07658
+2.0,1.0,112.0,Urban,,None,True,Gas,False,True,2022-01-03,Gray,Daniel,False,Poor,Good,Poor,Poor,6.0,2.32,,WSO Wood VDO1 Window,190.05984
+1.0,,87.0,,23.0,None,False,Gas,False,False,2021-03-18,White,Andreas,False,Good,Good,Good,Good,6.0,3.19,,Aluminum F09 Window,156.40095
+3.0,,123.0,Urban,46.0,None,False,Oil Heating,False,True,2021-09-03,White,Stefan,False,Excellent,Good,Good,Good,6.0,3.07,196.8,Wood XYB Window,286.55452
+1.0,2.0,108.0,,51.0,None,False,Electric,False,True,2022-09-11,Yellow,Laura,False,Good,Poor,Good,Good,6.0,4.68,,D5R91 Steel T4H85 Window,233.35017
+1.0,1.0,83.0,,51.0,,False,Oil,False,True,2021-09-21,Yellow,Florian,False,Excellent,Good,Poor,Good,6.0,4.43,,Steel KURDQ,252.34981
+2.0,,139.0,Rural,42.0,,False,Gas,True,False,2022-02-26,White,Martin,False,Good,Excellent,Good,Good,6.0,1.52,,Steel TAW4WH Window,389.19463
+1.0,,117.0,Rural,33.0,None,False,Oil Heating,True,False,2023-08-25,Green,Johanna,False,Good,Good,Excellent,Good,6.0,2.8,190.4,Steel 8NXZZH Window,407.8944
+1.0,1.0,37.0,,-1.0,None,True,Oil Heating,False,True,2020-03-05,Yellow,Natalie,False,Good,Poor,Good,Good,6.0,4.92,60.8,UWSGM1U Wood 3NG Window,140.39316
+1.0,,53.0,Suburbann,38.0,None,False,Oil,False,True,2020-11-19,White,Johanna,False,Good,Excellent,Poor,Good,6.0,3.62,81.6,AB4B8 Aluminum ZZL8L Window,64.17935
+,,98.0,Suburbann,32.0,None,False,Electricity,False,True,2021-01-22,Gray,,False,Excellent,Poor,Excellent,Good,6.0,1.75,59.4,FBURXED Wood YIE870Q Window,107.51962
+3.0,,128.0,Rural,44.0,None,True,Oil Heating,True,True,2024-02-21,Green,Theresa,False,Poor,Excellent,Good,Good,6.0,2.25,204.8,FR0CQ Wood P67Q0OV,446.34564
+3.0,,127.0,Urban,66.0,Good,False,Electric,False,True,2022-03-17,Yellow,Natalie,False,Poor,Poor,Good,Poor,18.0,4.65,,3YB0 Aluminum SQYYZCU Window,177.25217
+1.0,,50.0,Urban,,None,False,Gas,True,True,2020-12-12,White,Florian,False,Good,Good,Poor,Good,6.0,3.48,50.0,Steel A0EC9P,178.8147
+,1.0,36.0,Suburbann,59.0,,False,Gas,False,True,2021-09-22,Yellow,Theresa,False,Poor,Excellent,Good,Good,13.0,2.47,35.0,Aluminum ESP Window,51.46267
+1.0,,56.0,Suburbann,70.0,None,,Oil,True,True,2023-06-18,Green,,False,Poor,Excellent,Excellent,Good,6.0,2.36,88.0,G1AA Steel 4IR8S,140.67665
+,2.0,70.0,Suburbann,61.0,None,False,Oil Heating,True,True,2020-03-15,Gray,Laura,False,Excellent,Good,Poor,Excellent,6.0,1.27,,Aluminum CPDH Window,86.76399
+,1.0,32.0,Urban,64.0,None,False,Oil Heating,False,False,2024-03-17,White,Stefan,False,Good,Good,Excellent,Poor,6.0,2.31,,Wood KZ069A,109.20492
+1.0,1.0,36.0,Suburban,61.0,None,False,Gas,True,False,2020-03-24,Green,Martin,False,Excellent,Good,Good,Excellent,6.0,1.91,,5XCD Aluminum K07 Window,43.82441
+5.0,,135.0,Urban,45.0,Excellent,False,Oil,False,True,2021-01-29,Green,,False,Excellent,Good,Good,Poor,30.0,2.02,216.0,7R16V Wood 563A,368.0579
+1.0,3.0,108.0,Rural,42.0,Excellent,False,Electricity,True,True,2022-05-17,White,Andreas,False,Good,Excellent,Excellent,Good,30.0,1.94,,Wood RMSVCT Window,397.38403
+,,73.0,Rural,53.0,None,False,Oil,False,False,2021-10-26,Gray,Denis,False,Good,Poor,Good,Good,6.0,2.67,115.2,2S2U Aluminum D44 Window,151.21137
+,2.0,111.0,Rural,,None,,Oil,False,False,2022-08-06,Green,,False,Good,Poor,Good,Poor,6.0,2.9,,Aluminum NFV4 Window,211.13986
+,,141.0,,65.0,None,False,Gas,True,False,2021-10-04,Green,Martin,False,Excellent,Poor,Excellent,Excellent,6.0,2.3,141.0,Steel UXFL Window,164.1944
+1.0,,37.0,,,None,False,Electric,False,True,2023-05-19,Gray,Johanna,False,Poor,Good,Good,Poor,6.0,2.65,22.2,Wood MFX78,59.34682
+1.0,1.0,44.0,Rural,25.0,None,True,Oil Heating,False,False,2020-04-07,Gray,Sabrina,False,Excellent,Poor,Excellent,Poor,6.0,1.91,67.2,IGUQAU8 Wood YYK,169.5888
+1.0,1.0,68.0,,57.0,,False,Gas,True,True,2021-06-30,Gray,Theresa,False,Good,Good,Good,Good,6.0,1.65,67.0,Steel LPVO Window,216.88253
+,1.0,113.0,Rural,57.0,None,True,Electricity,True,True,2020-03-15,Gray,,False,Poor,Excellent,Good,Good,6.0,1.14,66.6,Steel F6JF8,331.94119
+,1.0,22.0,Suburbann,62.0,Good,False,Electric,True,True,2020-03-22,Green,Maria,False,Good,Excellent,Good,Good,18.0,1.9,,Steel QX5,116.25114
+2.0,1.0,91.0,,22.0,Good,False,Electric,True,True,2020-10-19,White,Lukas,False,Good,Good,Excellent,Excellent,18.0,2.74,,PW4 Wood J0R0F Window,2749.9452
+1.0,,34.0,Suburban,13.0,None,True,Gas,True,True,2023-09-23,Green,Denis,False,Good,Good,Good,Good,6.0,2.7,,3F1 Aluminum 7B8D2,57.45561
+2.0,1.0,96.0,Suburbann,5.0,,False,Gas,False,False,2021-11-21,Green,,False,Good,Good,Excellent,Excellent,30.0,2.68,,CAC2 Steel WFL030D,168.41756
+2.0,,60.0,,42.0,None,,Oil,False,True,2022-10-06,White,,False,Good,Poor,Good,Poor,6.0,3.45,97.6,Wood 63XN8 Window,171.23345
+1.0,2.0,125.0,Suburbann,,None,False,Oil Heating,False,False,2023-12-16,White,Lukas,False,Good,Excellent,Good,Good,6.0,2.27,,JL5XRQ Aluminum PBW Window,110.8619
+2.0,2.0,123.0,Suburban,55.0,None,False,Electric,True,True,2022-07-30,White,,False,Good,Poor,Good,Good,6.0,1.54,,EU27 Steel EUV Window,157.61555
+1.0,1.0,40.0,Urban,25.0,None,False,Gas,True,True,2021-08-05,White,Theresa,False,Good,Poor,Good,Good,6.0,3.19,,Aluminum 02U Window,88.43567
+2.0,,101.0,,57.0,Poor,False,Electric,False,True,2021-09-11,Yellow,Lukas,False,Excellent,Poor,Good,Good,13.0,2.7,,Wood 9X8LH5E,269.7886
+,,109.0,Rural,44.0,None,False,Oil Heating,False,True,2023-10-11,Green,Roman,False,Good,Excellent,Poor,Excellent,6.0,2.84,,Wood 585Q5AQ Window,386.70969
+1.0,,35.0,Suburban,54.0,Good,False,Oil,False,False,2022-07-15,Gray,Andreas,False,Poor,Poor,Excellent,Poor,18.0,2.87,,40O Steel 4PL5U,103.41371
+1.0,,68.0,Rural,42.0,None,False,Oil,False,False,2021-04-26,Green,Laura,False,Good,Good,Poor,Good,6.0,2.47,,Wood WQYB40 Window,211.41496
+1.0,,61.0,Rural,25.0,None,False,Gas,False,True,2020-05-14,Green,Maria,False,Poor,Good,Good,Good,6.0,1.63,,Steel MH6,271.73565
+,1.0,70.0,Rural,39.0,None,True,Oil,False,False,2023-10-13,Green,Johanna,False,Excellent,Good,Good,Good,6.0,3.1,108.8,XI09F Steel WJ6VXM Window,301.30353
+,3.0,121.0,Urban,64.0,Good,False,Oil,False,True,2020-08-01,Green,Stefan,False,Good,Good,Good,Good,18.0,3.34,195.2,Wood EKUIP8X,291.17924
+1.0,1.0,50.0,Urban,55.0,None,True,Gas,True,True,2022-09-26,Gray,Martin,False,Poor,Poor,Good,Excellent,6.0,1.62,49.0,1LPPXF Wood DWY,144.6681
+,1.0,32.0,Suburbann,,Excellent,False,Electric,True,True,2024-03-17,Gray,Daniel,False,Good,Excellent,Good,Excellent,30.0,1.95,19.2,JTX6M5 Aluminum EE6,89.92904
+,,75.0,Rural,30.0,None,False,Electricity,False,True,2021-04-07,Gray,Lukas,False,Poor,Excellent,Good,Excellent,6.0,1.37,46.2,8986 Steel XU7,302.20508
+,1.0,140.0,Rural,70.0,None,False,Gas,False,False,2023-11-18,Green,Daniel,False,Good,Good,Poor,Good,6.0,1.68,140.0,CP1YX8 Aluminum 11GKV2 Window,218.26887
+,,86.0,,52.0,None,False,Oil Heating,False,True,2022-12-05,White,Denis,False,Excellent,Good,Good,Good,6.0,1.47,,Wood 6LW Window,227.53344
+1.0,3.0,103.0,Rural,55.0,None,False,Electric,False,True,2024-02-17,White,Andreas,False,Excellent,Good,Excellent,Excellent,6.0,1.73,63.0,Steel QCEZCK Window,374.48439
+2.0,2.0,61.0,,,None,False,Gas,True,False,2021-07-22,White,Lukas,False,Poor,Good,Excellent,Excellent,6.0,2.68,61.0,Steel 4THAWD9 Window,109.71902
+,,118.0,,49.0,Good,False,Oil Heating,False,True,2022-01-26,White,Theresa,False,Poor,Excellent,Excellent,Good,18.0,2.0,187.2,YZ8YG Aluminum VE5TRX Window,258.68784
+,,148.0,,56.0,,,Electric,True,True,2022-11-16,Gray,,False,Good,Good,Poor,Good,18.0,1.42,,1YBMKT8 Wood F68WR Window,275.65974
+,1.0,32.0,Rural,63.0,Poor,False,Oil Heating,False,False,2022-12-25,White,Sabrina,False,Good,Excellent,Poor,Excellent,13.0,3.36,,Wood LYB8 Window,179.08644
+2.0,,120.0,Suburbann,63.0,,False,Electric,False,False,2024-03-06,Gray,Lukas,False,Excellent,Good,Excellent,Good,30.0,1.24,71.4,5A68 Steel SC69H2T,173.36501
+2.0,,142.0,Urban,67.0,Good,False,Electricity,False,True,2020-05-27,Yellow,Denis,False,Excellent,Poor,Good,Good,18.0,2.17,,Aluminum NY08 Window,200.54205
+1.0,2.0,73.0,Urban,,,True,Oil,True,True,2023-08-31,White,,False,Poor,Poor,Good,Good,6.0,2.47,118.4,H132PT Steel Y7I52,249.91798
+2.0,4.0,145.0,Urban,59.0,None,True,Gas,False,False,2022-06-20,Yellow,Theresa,False,Good,Good,Excellent,Excellent,6.0,4.34,145.0,PVAC3 Steel F4OW2 Window,273.78549
+,1.0,67.0,Suburbann,42.0,,False,Gas,False,True,2021-04-26,White,Laura,False,Good,Poor,Good,Excellent,6.0,2.63,,Steel QYIIGJD,128.43057
+,3.0,144.0,Rural,,,,Oil,True,False,2021-08-09,White,Lukas,False,Excellent,Excellent,Poor,Good,6.0,1.35,,F824J4 Aluminum SFI045 Window,315.15318
+1.0,3.0,116.0,Suburban,49.0,None,False,Oil Heating,False,False,2020-12-11,Green,Lukas,False,Good,Excellent,Poor,Excellent,6.0,2.53,185.6,Steel TCASFGL,155.6722
+,,90.0,Rural,57.0,None,False,Electricity,False,True,2023-07-31,Yellow,Roman,False,Good,Excellent,Excellent,Poor,6.0,4.83,54.0,YJW Aluminum J9NNI,182.68257
+,3.0,141.0,,35.0,Good,False,Gas,True,True,2021-09-11,Gray,Lukas,False,Good,Good,Good,Good,18.0,2.02,,BYKG0 Aluminum VTU Window,157.06513
+,1.0,144.0,Urban,7.0,None,False,Electricity,False,True,2023-01-15,Yellow,Lukas,False,Good,Excellent,Good,Good,6.0,2.04,,Aluminum 3IP0 Window,198.74301
+1.0,,97.0,Urban,35.0,Good,False,Oil Heating,False,False,2020-08-15,White,Florian,False,Poor,Excellent,Excellent,Good,18.0,3.8,,37WSRD Aluminum SP8,179.57221
+,1.0,33.0,Suburbann,51.0,Poor,False,Oil,False,True,2020-11-18,Yellow,Andreas,False,Poor,Excellent,Good,Good,13.0,1.3,,Aluminum 806E2X,57.81793
+1.0,1.0,24.0,,61.0,None,False,Gas,False,False,2022-01-17,White,Laura,False,Good,Excellent,Good,Good,6.0,1.4,21.0,Wood OFBZK5G,54.433
+,1.0,50.0,Suburbann,52.0,Excellent,True,Electricity,False,True,2021-08-10,Green,Andreas,False,Excellent,Good,Excellent,Good,30.0,2.75,30.0,2II2 Wood KD1 Window,121.67632
+2.0,,116.0,,69.0,None,False,Gas,True,True,2022-07-12,Gray,Daniel,False,Good,Good,Excellent,Excellent,6.0,1.82,,Aluminum W1KO Window,193.85279
+,,78.0,Urban,71.0,None,False,Gas,True,True,2020-08-11,Yellow,Florian,False,Good,Good,Poor,Poor,6.0,3.84,,7DEA Wood 69EJ1U Window,164.99539
+5.0,3.0,135.0,Rural,70.0,None,True,Oil,False,False,2023-05-01,Gray,Sabrina,False,Poor,Good,Poor,Good,6.0,1.99,216.0,Steel XAK89AP Window,413.52888
+,,103.0,Urban,50.0,None,False,Electricity,False,True,2020-01-05,White,,False,Excellent,Excellent,Excellent,Good,6.0,1.94,61.8,R2W Wood L545OU,196.2894
+,,127.0,Suburban,52.0,,False,Electricity,True,False,2020-07-14,Yellow,Stefan,False,Poor,Poor,Good,Good,13.0,4.93,75.6,Steel XG262D,127.96185
+1.0,1.0,25.0,Urban,47.0,None,False,Electric,False,True,2023-06-12,Yellow,Florian,False,Good,Good,Poor,Poor,6.0,2.01,15.0,P4ES Steel 5620ARW Window,151.15993
+,,104.0,Urban,33.0,Excellent,False,Oil,False,True,2022-06-19,Yellow,Maria,False,Excellent,Good,Good,Excellent,30.0,2.35,164.8,IPXNW Wood MG6Q Window,338.67113
+2.0,1.0,59.0,Suburban,,None,True,Oil,True,True,2022-03-16,Gray,Sabrina,False,Good,Poor,Poor,Excellent,6.0,1.17,,Wood RT5NP Window,104.30021
+2.0,1.0,78.0,Urban,26.0,Excellent,False,Gas,False,True,2023-06-03,Gray,Martin,False,Good,Good,Poor,Good,30.0,1.19,78.0,7O1Q Steel WBSUY Window,304.19322
+2.0,,64.0,Suburbann,50.0,Good,False,Gas,True,True,2020-05-31,Gray,Roman,False,Good,Poor,Good,Good,18.0,2.85,65.0,Wood B5X Window,118.33721
+2.0,2.0,99.0,Urban,55.0,None,False,Oil,True,True,2020-06-28,White,Lukas,False,Poor,Good,Good,Excellent,6.0,2.8,,WTJY Wood K3HV,238.31858
+1.0,,34.0,Rural,7.0,None,False,Oil,False,True,2023-10-04,Gray,Denis,False,Good,Good,Good,Poor,6.0,2.43,,Aluminum Z0J0FOY,130.36072
+2.0,2.0,72.0,Urban,67.0,None,,Electricity,False,True,2023-05-26,White,Theresa,False,Excellent,Excellent,Excellent,Good,6.0,3.72,,Aluminum 78I Window,123.46958
+3.0,1.0,99.0,Urban,44.0,None,,Electricity,True,False,2022-04-25,Green,Maria,False,Good,Poor,Excellent,Poor,6.0,3.06,,Steel OCX,203.16892
+,1.0,29.0,Rural,55.0,None,False,Gas,True,True,2022-09-10,Yellow,Martin,False,Good,Excellent,Good,Good,6.0,4.59,,ZFFVGF3 Aluminum H3AXT Window,113.58521
+1.0,1.0,44.0,Suburban,45.0,Excellent,True,Oil Heating,False,False,2023-07-10,Yellow,Lukas,False,Excellent,Excellent,Good,Poor,30.0,3.05,72.0,U7J3SLF Wood DOGH7B4 Window,115.27401
+1.0,1.0,53.0,Suburbann,21.0,None,True,Gas,False,True,2021-09-25,Gray,Roman,False,Poor,Good,Good,Excellent,6.0,2.82,,ZLB Wood EM8U,90.07284
+4.0,4.0,140.0,Suburbann,54.0,Good,False,Gas,False,False,2020-06-18,Green,Daniel,False,Good,Poor,Excellent,Good,18.0,2.0,,6S9 Aluminum H1QL,120.95678
+1.0,,58.0,Suburban,54.0,None,False,Gas,False,False,2022-09-16,Yellow,Andreas,False,Good,Excellent,Poor,Excellent,6.0,4.34,58.0,Y8HDCE Wood 117K Window,77.93364
+1.0,1.0,20.0,Urban,,,False,Oil,False,False,2020-02-16,Green,Stefan,False,Good,Good,Good,Excellent,6.0,1.65,,Steel A3K2HP2 Window,129.40159
+,,83.0,Rural,60.0,Good,False,Oil,True,False,2020-09-29,Gray,,False,Excellent,Excellent,Poor,Poor,18.0,1.87,134.4,4928S6L Steel NNQ,349.5543
+1.0,,145.0,Urban,18.0,,False,Gas,False,True,2023-05-29,Gray,Sandra,False,Excellent,Good,Excellent,Poor,6.0,1.19,,Steel QEUEQH8,333.72652
+,1.0,132.0,Suburbann,,None,,Electricity,True,True,2024-03-05,Gray,Andreas,False,Good,Good,Poor,Good,6.0,1.6,79.2,355TUUP Steel 9858,165.60909
+2.0,,111.0,Urban,69.0,None,,Oil,False,False,2020-09-22,White,Martin,False,Good,Good,Excellent,Good,6.0,2.93,179.2,Aluminum IW3P,166.8282
+,,89.0,Urban,65.0,None,False,Oil,True,True,2021-08-10,White,Roman,False,Excellent,Good,Good,Good,6.0,2.11,142.4,Aluminum 5AXL5IC,177.99818
+,2.0,81.0,Suburban,61.0,None,False,Electric,True,True,2021-09-16,Gray,,False,Good,Good,Excellent,Good,6.0,1.43,48.0,9EI0IID Steel 2OO8CW,2733.1256000000003
+2.0,2.0,68.0,,37.0,None,False,Gas,False,False,2021-08-11,Gray,Roman,False,Excellent,Excellent,Excellent,Excellent,6.0,1.0,,Wood 0D6WDFU Window,160.21089
+,1.0,81.0,Rural,63.0,None,True,Oil Heating,False,True,2021-12-01,Green,Natalie,False,Poor,Poor,Good,Poor,6.0,3.23,,Aluminum X0FO63N Window,190.89686
+1.0,1.0,50.0,Rural,44.0,None,False,Oil Heating,False,False,2020-12-09,Green,Roman,False,Excellent,Excellent,Poor,Poor,6.0,3.0,80.0,8T4OZF Aluminum QYSQY Window,121.48984
+,1.0,70.0,Urban,,None,False,Gas,False,True,2021-09-17,Gray,Daniel,False,Good,Good,Excellent,Excellent,6.0,1.08,69.0,Steel ZA4V Window,212.13677
+1.0,,135.0,Suburbann,45.0,Excellent,False,Oil,True,True,2022-01-14,Yellow,Stefan,False,Poor,Poor,Excellent,Excellent,30.0,1.78,,R7N98L Steel 7VG47R,253.41368
+,2.0,118.0,Urban,28.0,None,False,Electricity,False,True,2020-11-30,Gray,Daniel,False,Poor,Good,Good,Excellent,6.0,1.98,,EZ6W7X Wood 7I8LY9C,194.0023
+,,146.0,Rural,45.0,None,False,Electricity,False,True,2023-02-03,Yellow,Lukas,False,Poor,Good,Good,Excellent,6.0,3.24,,Wood CFP Window,344.50236
+,2.0,82.0,Suburban,,None,False,Oil,False,False,2022-08-28,White,,False,Excellent,Excellent,Good,Poor,6.0,3.02,,Steel BQU2BY,131.9031
+1.0,,20.0,Rural,40.0,None,False,Oil Heating,True,True,2024-03-01,Yellow,Roman,False,Good,Good,Good,Excellent,6.0,4.79,,Steel BMV,270.20042
+1.0,,59.0,Suburban,1.0,Poor,False,Electric,True,True,2020-04-20,Yellow,Stefan,False,Good,Excellent,Good,Excellent,13.0,3.66,,Wood Z8T Window,109.52799
+,3.0,103.0,Urban,,None,False,Oil Heating,True,True,2020-03-11,Green,Stefan,False,Good,Good,Good,Good,6.0,1.51,160.0,BLRPP Aluminum HGFABRK Window,190.96767
+1.0,2.0,75.0,Urban,56.0,Good,False,Gas,True,True,2020-09-30,Green,Maria,False,Excellent,Good,Excellent,Good,18.0,2.2,,Aluminum 58EQA,171.38776
+,1.0,96.0,Suburbann,41.0,None,False,Electricity,False,True,2024-02-24,Yellow,Sandra,False,Poor,Good,Excellent,Excellent,6.0,4.25,57.6,Aluminum RGVH Window,83.01776
+,2.0,86.0,Urban,65.0,None,False,Oil,False,True,2021-07-15,Gray,Daniel,False,Good,Excellent,Poor,Good,6.0,1.36,,Aluminum 40NH0UK Window,162.68394
+2.0,1.0,104.0,,34.0,Poor,False,Electricity,True,False,2024-02-08,Gray,Daniel,False,Good,Good,Good,Excellent,13.0,1.75,,3QJ21R Aluminum N6DM5P0 Window,209.44499
+,1.0,26.0,Rural,27.0,Poor,,Oil Heating,False,False,2021-09-02,Yellow,Johanna,False,Good,Excellent,Good,Good,13.0,3.73,41.6,Aluminum K4FS Window,115.66113
+,,27.0,Rural,,None,False,Electricity,False,True,2022-07-01,Gray,,False,Poor,Good,Excellent,Good,6.0,2.18,15.6,8KH207P Wood TZK,142.27199
+2.0,1.0,67.0,Urban,40.0,Good,False,Gas,False,True,2021-04-24,Gray,Andreas,False,Excellent,Excellent,Poor,Excellent,18.0,2.26,-188.0,SOW Steel VKQ5239,257.89198
+1.0,,120.0,Rural,60.0,None,False,Gas,True,True,2020-03-29,Yellow,Stefan,False,Poor,Good,Excellent,Good,6.0,1.5,,Wood 7G2O Window,305.2625
+1.0,1.0,74.0,Urban,51.0,Good,False,Electric,False,True,2022-03-13,White,Natalie,False,Excellent,Good,Excellent,Good,18.0,1.54,,U9070 Wood URZ0A Window,193.95195
+2.0,2.0,95.0,Rural,69.0,Good,False,Electric,False,True,2020-03-14,Yellow,,False,Good,Poor,Good,Poor,18.0,3.78,57.0,Aluminum 37JN,193.20385
+,1.0,44.0,Rural,52.0,Good,True,Oil Heating,True,False,2023-11-15,White,Theresa,False,Good,Good,Excellent,Good,18.0,2.78,,KN6OHJ Steel R605,303.82697
+1.0,2.0,68.0,Suburbann,12.0,None,,Oil Heating,False,True,2023-09-03,Yellow,Andreas,False,Good,Good,Excellent,Good,6.0,2.55,108.8,PT4R2S Steel 2JEO Window,159.76489
+,2.0,141.0,Urban,65.0,None,False,Electricity,True,True,2021-09-06,Gray,,False,Good,Excellent,Good,Poor,6.0,2.27,85.2,Steel XHLNH,272.27472
+2.0,1.0,129.0,,40.0,None,False,Oil,False,True,2020-03-08,Yellow,Florian,False,Poor,Excellent,Good,Excellent,6.0,2.51,,LQKHBPM Aluminum 5DNYZJW,223.93528
+1.0,2.0,100.0,Rural,70.0,None,False,Gas,False,False,2021-12-19,Yellow,,False,Good,Poor,Good,Poor,6.0,1.71,,Aluminum B2ZH Window,153.51137
+1.0,,84.0,,52.0,None,True,Electric,False,True,2021-04-05,Gray,Andreas,False,Good,Excellent,Good,Poor,6.0,1.14,,VS7UQY Steel IOT0V,126.32346
+1.0,,48.0,Urban,,None,False,Electricity,False,True,2020-05-13,Gray,Florian,False,Good,Good,Good,Good,6.0,2.38,28.2,0MTJRN Aluminum JFJ5FN Window,62.98193
+1.0,2.0,66.0,,45.0,None,False,Gas,False,True,2022-04-23,Gray,Laura,False,Good,Poor,Excellent,Excellent,6.0,1.61,66.0,Wood J6H,2045.777
+1.0,,124.0,Urban,11.0,,True,Electricity,False,True,2021-01-06,Yellow,Laura,False,Excellent,Good,Good,Good,6.0,2.69,,Aluminum 51A1XWB,157.18532
+3.0,,101.0,Rural,43.0,None,False,Electric,True,True,2020-05-26,White,Stefan,False,Poor,Good,Good,Good,6.0,3.35,60.0,8ZN Wood E4MF6X,254.97789
+2.0,2.0,91.0,Urban,62.0,None,False,Oil,False,True,2020-12-21,Gray,,False,Poor,Poor,Poor,Good,6.0,1.95,,Wood VIRXZL Window,200.47126
+,1.0,98.0,Urban,44.0,Good,False,Electric,False,False,2022-03-12,White,,False,Good,Good,Poor,Good,18.0,1.68,,Steel WEZH92,214.69739
+,,95.0,,40.0,None,False,Gas,False,True,2022-03-28,White,Lukas,False,Good,Excellent,Good,Good,6.0,1.68,,7FEPB Aluminum J9XY Window,157.34342
+1.0,1.0,38.0,Urban,,None,False,Oil Heating,False,False,2020-02-08,Gray,,False,Good,Good,Good,Poor,6.0,2.04,,F1QW6PF Steel FPT,139.26567
+1.0,1.0,31.0,Suburban,47.0,,False,Gas,False,True,2022-07-01,Green,Sandra,False,Excellent,Good,Poor,Good,6.0,3.26,,G0Z Steel FUGB6VR,101.51808
+1.0,2.0,66.0,Urban,,None,True,Oil Heating,True,False,2022-04-08,White,Natalie,False,Good,Excellent,Good,Excellent,6.0,2.27,,341JCW0 Steel NSDUX0 Window,209.01239
+,,145.0,Rural,54.0,None,False,Electricity,True,True,2022-01-08,Yellow,,False,Good,Poor,Excellent,Excellent,6.0,4.2,87.6,Aluminum MIK1KK0,271.19458
+1.0,,29.0,Suburban,22.0,None,,Electric,False,False,2020-12-14,Gray,Florian,False,Good,Good,Good,Good,6.0,2.36,17.4,YJ7G Steel WPG283 Window,81.76093
+,1.0,119.0,,32.0,,False,Oil,False,False,2020-04-20,Gray,Roman,False,Excellent,Good,Good,Excellent,18.0,1.8,187.2,NCRXQ Steel IJ06P0M,409.04355
+1.0,2.0,86.0,Suburbann,46.0,None,False,Oil,True,False,2022-04-12,Green,Denis,False,Good,Poor,Excellent,Poor,6.0,2.09,140.8,Aluminum VXH Window,87.12608
+1.0,1.0,23.0,Urban,57.0,None,False,Oil Heating,True,True,2022-07-05,White,Daniel,False,Good,Good,Good,Poor,6.0,1.58,35.2,Steel DBZT,171.8973
+2.0,1.0,87.0,,36.0,Good,False,Oil Heating,False,True,2020-11-14,Green,Theresa,False,Poor,Good,Good,Good,18.0,1.9,137.6,Wood YWXXO4S Window,143.92162
+1.0,2.0,68.0,,22.0,Good,False,Oil,False,False,2023-09-28,Yellow,Florian,False,Excellent,Excellent,Good,Excellent,18.0,1.22,,Aluminum TJ76Z,239.41815
+,,69.0,Suburban,30.0,None,,Oil Heating,False,True,2020-12-19,Yellow,Martin,False,Good,Good,Good,Good,6.0,3.67,,I0UZVXO Aluminum NJWG Window,86.42006
+4.0,,142.0,Urban,39.0,None,False,Electricity,False,False,2023-10-17,Yellow,Natalie,False,Poor,Good,Good,Good,6.0,2.21,85.2,8JAT0H Wood 44K2M4N,201.3437
+1.0,1.0,40.0,Suburban,33.0,,True,Electric,True,True,2023-04-03,White,,False,Excellent,Good,Poor,Good,30.0,3.0,-443.0,Aluminum RE21OFP Window,92.06353
+2.0,3.0,147.0,Suburban,42.0,Excellent,False,Oil Heating,False,True,2023-05-25,Gray,Martin,False,Poor,Poor,Excellent,Excellent,30.0,2.3,,Aluminum LJK,204.63713
+1.0,1.0,58.0,Rural,,Good,False,Oil Heating,False,False,2023-03-09,Yellow,Theresa,False,Good,Good,Good,Good,18.0,3.74,91.2,Wood PQQY Window,228.08484
+2.0,2.0,63.0,,59.0,None,False,Oil,True,True,2021-10-15,Yellow,Martin,False,Good,Excellent,Good,Good,6.0,2.43,,0HPI3G Aluminum W8M5E5,88.72876
+4.0,5.0,144.0,Urban,35.0,None,False,Gas,True,True,2022-06-13,Gray,Lukas,False,Good,Poor,Good,Good,6.0,2.86,,FHR Aluminum AS35N Window,240.63634
+1.0,1.0,48.0,Suburbann,50.0,Good,False,Oil,True,False,2020-12-03,,Laura,False,Excellent,Poor,Good,Good,18.0,1.82,,WFS Wood LG7 Window,95.92984
+1.0,,87.0,Suburban,,None,False,Gas,True,True,2022-11-24,White,Sandra,False,Excellent,Excellent,Poor,Poor,6.0,2.28,,Wood F4Q20,111.83389
+,,105.0,Urban,63.0,Excellent,False,Oil,True,True,2022-01-07,Green,Laura,False,Good,Poor,Good,Good,30.0,2.34,168.0,Aluminum 8VL,263.30917
+,2.0,88.0,Urban,47.0,None,False,Oil Heating,True,True,2021-12-19,White,Florian,False,Excellent,Good,Good,Poor,6.0,3.63,,YNJS Aluminum JLLBMZ,180.4642
+1.0,2.0,75.0,Suburbann,23.0,None,False,Oil Heating,False,False,2022-01-02,Green,Sabrina,False,Good,Excellent,Good,Good,6.0,2.57,,Wood JZH13ZR,104.73835
+,1.0,42.0,,20.0,None,False,Electricity,False,True,2020-03-31,Yellow,Andreas,False,Poor,Excellent,Excellent,Excellent,6.0,3.93,,XE5S Steel ZLKNHO5,110.48571
+1.0,2.0,61.0,Suburban,43.0,Excellent,False,Oil Heating,True,False,2024-02-11,Gray,Martin,False,Good,Good,Excellent,Excellent,30.0,2.35,,Steel OX5 Window,3353.4359999999997
+,1.0,29.0,Urban,49.0,Excellent,,Oil Heating,False,True,2022-03-06,Green,Laura,False,Poor,Excellent,Good,Good,30.0,2.16,,Steel N5O0BIY,242.29123
+,,43.0,Rural,18.0,Excellent,,Gas,False,True,2023-04-09,Yellow,,False,Excellent,Good,Good,Excellent,30.0,3.64,,RES68J Aluminum 9DM2S,238.72699
+,2.0,91.0,,26.0,,False,Gas,True,True,2021-07-11,Yellow,Theresa,False,Excellent,Excellent,Good,Excellent,6.0,1.31,90.0,Steel SQNE7I,272.92755
+2.0,,89.0,,51.0,None,,Oil Heating,False,True,2022-01-12,Gray,Denis,False,Good,Good,Good,Poor,6.0,1.54,142.4,Aluminum F9ZPE,166.32799
+,,108.0,Suburban,6.0,,False,Electricity,False,True,2020-05-30,Gray,Daniel,False,Good,Good,Good,Good,13.0,2.28,64.2,KX5SRXR Aluminum KFMJO51 Window,96.94244
+,1.0,52.0,Urban,16.0,None,True,Oil Heating,False,True,2023-11-20,Gray,Daniel,False,Excellent,Poor,Poor,Poor,6.0,2.39,83.2,Wood 5JW9TM,164.8482
+,2.0,81.0,Rural,50.0,Good,False,Electric,True,False,2023-10-10,Gray,Stefan,False,Good,Poor,Good,Poor,18.0,1.76,48.0,Wood W23K Window,241.70598
+1.0,,22.0,Suburbann,61.0,None,True,Gas,False,True,2020-01-28,Gray,Lukas,False,Excellent,Good,Good,Good,6.0,1.77,24.0,8JN64C2 Aluminum MPT1X Window,34.74785
+,,99.0,,57.0,Good,True,Oil,True,True,2022-07-14,Yellow,Florian,False,Excellent,Good,Poor,Good,18.0,2.49,,Wood DZN0 Window,171.8645
+2.0,2.0,92.0,,71.0,Poor,False,Oil,False,False,2021-06-22,White,Sandra,False,Good,Good,Poor,Excellent,13.0,1.49,,IFI0M Wood EY6A Window,193.51487
+,,76.0,Rural,,None,False,Gas,True,True,2021-10-16,White,,False,Good,Excellent,Good,Poor,6.0,1.79,75.0,Aluminum SR97SQJ Window,171.63997
+1.0,3.0,112.0,Suburbann,70.0,Excellent,False,Electric,False,True,2023-07-27,,,False,Good,Poor,Excellent,Excellent,30.0,2.54,67.8,O0M79 Wood 2CJB2C Window,162.41866
+,,147.0,,45.0,,False,Gas,True,False,2022-02-18,Green,,False,Poor,Excellent,Good,Poor,6.0,2.2,147.0,Steel 05Y Window,264.78869
+,,68.0,Rural,,,False,Electric,False,True,2023-06-21,Green,Denis,False,Excellent,Good,Good,Excellent,6.0,3.36,40.8,GZHO Wood YGKND,214.517
+3.0,,103.0,Rural,,None,False,Gas,False,True,2023-08-16,Gray,Daniel,False,Good,Good,Excellent,Good,6.0,2.9,,X2CJT Steel 6ZVJ Window,377.25042
+,2.0,84.0,Urban,69.0,Good,False,Oil Heating,False,True,2020-11-28,Green,Theresa,False,Poor,Good,Good,Good,18.0,1.84,136.0,Wood FCO,233.42289
+,1.0,100.0,Suburbann,37.0,Good,False,Oil Heating,True,False,2022-03-10,Yellow,Laura,False,Poor,Good,Good,Excellent,18.0,2.02,156.8,Aluminum T5GRJY,113.48064
+2.0,1.0,80.0,Urban,59.0,None,False,Gas,False,True,2022-01-05,,Johanna,False,Good,Good,Good,Excellent,6.0,2.18,81.0,8BF Steel BE50,233.3957
+,5.0,144.0,Urban,7.0,,False,Gas,False,True,2022-07-06,Gray,Laura,False,Excellent,Excellent,Excellent,Good,6.0,1.45,143.0,HHSG Wood EHP4C4H,304.74559
+,3.0,109.0,Rural,44.0,None,False,Gas,False,True,2022-12-27,Yellow,,False,Excellent,Poor,Excellent,Good,6.0,2.54,108.0,Aluminum E942194 Window,244.46725
+2.0,2.0,90.0,Suburban,0.0,None,False,Oil Heating,False,False,2023-01-16,Green,Andreas,False,Excellent,Excellent,Excellent,Poor,6.0,2.54,,Aluminum 7Y8043,101.1164
+2.0,2.0,125.0,Rural,44.0,,False,Gas,True,True,2021-05-15,White,Sabrina,False,Good,Good,Good,Good,6.0,2.03,,WUGQ0 Aluminum QG66ZCI,269.99713
+,1.0,50.0,Suburbann,71.0,None,False,Electricity,True,True,2022-08-13,Green,Stefan,False,Good,Excellent,Good,Poor,6.0,1.68,31.2,72T Steel YMA7G Window,113.37643
+2.0,2.0,88.0,,54.0,None,False,Gas,False,True,2022-06-06,Green,Martin,False,Excellent,Good,Good,Good,6.0,2.67,,Steel BINVG0,250.62453
+,,129.0,Rural,,Excellent,False,Oil Heating,False,True,2023-06-17,Gray,Johanna,False,Good,Good,Excellent,Excellent,30.0,1.76,204.8,Wood 4EBN43,505.54014
+1.0,1.0,53.0,Rural,52.0,Poor,False,Gas,False,True,2021-04-26,Green,Johanna,False,Excellent,Good,Excellent,Good,13.0,1.6,,Aluminum 6QXF Window,164.66335
+2.0,3.0,112.0,Suburban,53.0,None,True,Electricity,False,False,2022-02-21,Green,Natalie,False,Poor,Good,Good,Excellent,6.0,2.9,67.8,Steel ZC13I,124.97938
+,1.0,139.0,,45.0,Excellent,True,Electricity,False,True,2020-12-14,Yellow,,False,Good,Excellent,Poor,Excellent,30.0,4.12,83.4,YKQ Wood MHN Window,390.48985
+,,47.0,Suburbann,62.0,Excellent,False,Oil,True,True,2023-08-25,Green,Stefan,False,Excellent,Poor,Excellent,Good,30.0,1.63,75.2,Wood TJAR4S,144.5987
+5.0,3.0,140.0,Rural,49.0,Good,False,Gas,False,False,2023-04-21,Green,Florian,False,Excellent,Excellent,Excellent,Good,18.0,2.94,,PAYDB Aluminum VIOU,323.64656
+1.0,1.0,141.0,Suburban,,None,False,Gas,False,False,2023-03-14,White,Sabrina,False,Excellent,Good,Excellent,Good,6.0,3.66,,GXI Steel US9BZQ2,152.29536
+,1.0,101.0,Rural,,Good,False,Oil,False,True,2021-03-09,Gray,Stefan,False,Poor,Poor,Poor,Excellent,18.0,1.35,,Wood VU1YZ Window,335.91621
+1.0,,123.0,Suburbann,59.0,Good,False,Oil Heating,True,True,2022-07-13,Yellow,,False,Poor,Good,Poor,Good,18.0,1.83,198.4,Wood 3STPR3W Window,180.72761
+2.0,1.0,105.0,Urban,29.0,Poor,True,Electric,False,True,2021-08-18,Gray,,False,Good,Excellent,Excellent,Good,13.0,2.22,,Steel TZLR2R,266.72218
+1.0,,28.0,Rural,62.0,None,False,Oil,False,True,2024-01-02,Yellow,Andreas,False,Good,Good,Good,Good,6.0,1.9,,E11288K Aluminum 6HZ,2032.4594
+,,-222.0,Rural,,None,,Gas,False,True,2020-01-14,Gray,Theresa,False,Excellent,Good,Good,Good,6.0,1.28,30.0,G1I Wood 1MRQW6F Window,152.02114
+2.0,,79.0,,67.0,None,,Gas,True,False,2021-12-08,Gray,Sandra,False,Poor,Poor,Poor,Excellent,6.0,2.13,77.0,Steel 8DE1OR,263.40766
+1.0,1.0,49.0,Urban,57.0,None,True,Oil,False,False,2023-11-02,White,Sandra,False,Good,Good,Excellent,Poor,6.0,3.27,,Steel 5DZ,179.02299
+,2.0,75.0,Suburbann,69.0,None,,Electricity,True,True,2023-12-23,White,Stefan,False,Good,Poor,Excellent,Poor,6.0,2.86,,Wood B1WTK Window,97.66805
+,1.0,86.0,Urban,,None,False,Oil,True,True,2023-11-26,White,Roman,False,Good,Excellent,Good,Good,6.0,2.91,137.6,4OL Wood JN8GTAJ Window,233.80695
+3.0,,146.0,Suburbann,0.0,Good,False,Electric,True,True,2020-10-10,Green,Lukas,False,Good,Good,Excellent,Poor,18.0,2.32,88.8,Wood DD4 Window,176.79039
+,,71.0,Urban,,None,True,Electric,False,True,2022-05-19,Yellow,,False,Excellent,Excellent,Good,Good,6.0,4.96,41.4,Wood J8WUE3J Window,158.11091
+3.0,,123.0,Rural,68.0,None,False,Oil Heating,True,True,2022-02-22,White,,False,Good,Poor,Good,Poor,6.0,2.33,195.2,Steel 7EMMJNN Window,459.80158
+1.0,2.0,118.0,Rural,62.0,None,False,Gas,True,True,2020-03-07,Gray,Natalie,False,Good,Poor,Excellent,Excellent,6.0,1.21,,RN2VX Steel KUPK,385.56389
+1.0,2.0,106.0,Rural,41.0,Poor,True,Gas,False,False,2022-10-18,Green,,False,Excellent,Poor,Good,Poor,13.0,1.69,,Steel 4YRS Window,327.22381
+1.0,1.0,25.0,Urban,56.0,None,True,Oil Heating,False,False,2023-01-28,Yellow,Maria,False,Good,Good,Good,Poor,6.0,3.79,40.0,T3NCR Aluminum PWOF Window,52.10122
+1.0,1.0,41.0,,63.0,None,False,Oil,True,True,2023-05-09,White,Martin,False,Excellent,Poor,Poor,Good,6.0,3.16,62.4,6MUZ Aluminum A9SUM,131.35647
+1.0,3.0,124.0,Rural,21.0,None,False,Gas,True,False,2023-10-27,Yellow,Denis,False,Excellent,Good,Poor,Good,6.0,1.52,,Aluminum 8OEK9 Window,244.81562
+1.0,,21.0,Suburban,66.0,None,True,Electric,True,True,2021-09-16,Gray,Daniel,False,Excellent,Good,Good,Excellent,6.0,1.41,13.2,21VP4MX Steel 1JG,102.26676
+1.0,,45.0,,52.0,Excellent,True,Electricity,False,True,2021-12-10,Green,,False,Excellent,Good,Good,Good,30.0,1.96,,Steel J4DE7EG,344.22177
+1.0,1.0,26.0,Urban,,None,,Oil,True,True,2021-01-16,White,Stefan,False,Good,Excellent,Good,Good,6.0,1.39,,S42L Steel SCQ27H,174.59285
+2.0,,81.0,Suburban,65.0,Excellent,False,Gas,True,True,2020-08-23,Gray,Sandra,False,Good,Excellent,Good,Poor,30.0,2.56,81.0,1XNM8T Steel OZC4HG Window,175.80973
+1.0,2.0,67.0,Urban,48.0,None,False,Gas,False,True,2021-10-18,Gray,Maria,False,Good,Good,Good,Excellent,6.0,1.99,67.0,O3WB Aluminum SBB93O Window,117.69319
+1.0,,58.0,Suburban,52.0,Excellent,,Oil Heating,True,True,2022-08-25,Gray,Florian,False,Good,Good,Poor,Good,30.0,2.89,92.8,GQ70B Aluminum WGXIZF,114.55849
+,1.0,7314.0,Rural,64.0,None,False,Oil,False,True,2021-09-01,Gray,Daniel,False,Excellent,Good,Good,Good,6.0,1.62,187.2,FIEH Aluminum ITLXL3 Window,292.07195
+1.0,1.0,41.0,Rural,55.0,None,False,Oil,True,True,2021-04-06,Yellow,,False,Excellent,Good,Good,Good,6.0,2.05,,Steel 90YLU Window,286.56117
+2.0,,88.0,Rural,59.0,None,,Gas,False,False,2020-05-13,Gray,Denis,False,Good,Good,Good,Good,6.0,1.8,,Wood LM33,205.37941
+2.0,1.0,81.0,Rural,37.0,Good,False,Oil,False,True,2022-07-08,White,,False,Good,Good,Excellent,Good,18.0,3.29,129.6,Aluminum P6A Window,282.13536
+1.0,1.0,26.0,Rural,24.0,,False,Oil,False,True,2020-05-30,Green,Maria,False,Good,Excellent,Good,Excellent,6.0,2.74,41.6,Wood STBK Window,186.82441
+1.0,2.0,111.0,Rural,40.0,None,False,Gas,False,True,2021-10-19,Green,,False,Good,Poor,Good,Poor,6.0,2.47,113.0,OUP Steel 15H7G17,359.48594
+,,66.0,Suburban,23.0,,True,Oil,True,False,2021-12-31,Yellow,Natalie,False,Good,Poor,Excellent,Good,6.0,1.89,,FC3O Steel I7DOQ Window,128.11242
+2.0,3.0,128.0,Urban,36.0,None,False,Oil,False,False,2020-11-27,Yellow,Sandra,False,Excellent,Excellent,Excellent,Good,6.0,2.02,206.4,N91W Steel WJA92,290.95095
+1.0,4.0,145.0,Urban,57.0,,False,Electric,True,True,2024-03-01,White,Andreas,False,Poor,Good,Poor,Excellent,18.0,2.08,,Aluminum 5J2,226.64546
+1.0,,89.0,Urban,17.0,Good,,Electric,False,True,2023-01-14,Yellow,Florian,False,Excellent,Excellent,Excellent,Poor,18.0,4.42,53.4,WKG35XC Wood IR0D Window,227.99903
