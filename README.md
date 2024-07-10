@@ -32,9 +32,9 @@ Price - the price of the house in thousands of euros  <br>
 
 <h4>Project tasks include </h4>
 
-1. Exploratory Data Analysis and Preprocessing of the data
-2. Predicting the house prices
-3. Evaluating your model 
+1. Exploratory Data Analysis and Preprocessing of the data (Done in Kotlin)
+2. Predicting the house prices (Done in Python)
+3. Evaluating your model (Done in Python)
 4. Answering the following Questions 
    1. If I have a budget of €100,000, what kind of houses will I be able to buy? 
    2. How much money can I save if I decide not to get a house with a pool?
